@@ -1,13 +1,13 @@
 
-# One-Word Domain Names: Daily Updated List of Available Domains
+# **One-Word Domain Names**: Daily Updated List of Available Domains
 
 This regularly updated dataset includes the latest available one-word domains.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]() 
+[![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality one word domains.
-> If you need more, access the complete database on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=undefined&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
@@ -21,42 +21,123 @@ This regularly updated dataset includes the latest available one-word domains.
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar        | sectors                              |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------- | ------------------------------------ |
-| nothing.io      | sold      | 130            | 80     | 7      | 17/03/2015 00:30 | 17/03/2026 00:30 | Porkbun LLC      | Arts,General,Media                   |
-| special.store   | available | 124            | 80     | 7      |                  |                  |                  | Business,Media,Retail                |
-| weather.cloud   | available | 118            | 92     | 7      |                  |                  |                  | Environment,Media,Travel             |
-| solo.online     | available | 116            | 80     | 4      |                  |                  |                  | Entertainment,Media,Technology       |
-| enough.tech     | available | 114            | 84     | 6      |                  |                  |                  | Business,Education,General,Retail    |
-| lead.store      | available | 112            | 92     | 4      |                  |                  |                  | Business,Education,Technology        |
-| affirmative.dev | expiring  | 112            | 84     | 11     | 17/07/2023 13:55 | 17/07/2025 13:55 | GoDaddy.com, LLC | Education,General,Humanities,Media   |
-| support.cloud   | available | 112            | 88     | 7      |                  |                  |                  | Business,Politics                    |
-| hut.com         | resell    | 110            | 96     | 3      | 13/05/1995 04:00 | 14/05/2026 04:00 | Dynadot Inc      | Construction,Hospitality,Travel      |
-| marmite.so      | available | 110            | 80     | 7      |                  |                  |                  | Food and Beverage,Hospitality,Retail |
+| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                                      | sectors                                |
+| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------- | -------------------------------------- |
+| nothing.io      | sold      | 130            | 80     | 7      | 17/03/2015 00:30 | 17/03/2026 00:30 | Porkbun LLC                                    | Arts,General,Media                     |
+| special.store   | available | 124            | 80     | 7      |                  |                  |                                                | Business,Media,Retail                  |
+| weather.cloud   | available | 118            | 92     | 7      |                  |                  |                                                | Environment,Media,Travel               |
+| solo.online     | available | 116            | 80     | 4      |                  |                  |                                                | Entertainment,Media,Technology         |
+| enough.tech     | available | 114            | 84     | 6      |                  |                  |                                                | Business,Education,General,Retail      |
+| lead.store      | available | 112            | 92     | 4      |                  |                  |                                                | Business,Education,Technology          |
+| affirmative.dev | expiring  | 112            | 84     | 11     | 17/07/2023 13:55 | 17/07/2025 13:55 | GoDaddy.com, LLC                               | Education,General,Humanities,Media     |
+| support.cloud   | available | 112            | 88     | 7      |                  |                  |                                                | Business,Politics                      |
+| hut.com         | resell    | 110            | 96     | 3      | 13/05/1995 04:00 | 14/05/2026 04:00 | Dynadot Inc                                    | Construction,Hospitality,Travel        |
+| marmite.so      | available | 110            | 80     | 7      |                  |                  |                                                | Food and Beverage,Hospitality,Retail   |
+| golly.at        | available | 110            | 88     | 5      |                  |                  |                                                | Arts,Media                             |
+| preach.me       | resell    | 110            | 76     | 6      | 30/09/2011 02:35 | 30/09/2025 02:35 | Dynadot Inc                                    | Education,Humanities,Religion          |
+| equivalent.ai   | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.                                | Mathematics,Science,Technology         |
+| tweet.zone      | available | 110            | 84     | 5      |                  |                  |                                                | Entertainment,Media,Technology         |
+| unlike.so       | available | 108            | 84     | 6      |                  |                  |                                                | Business,Technology                    |
+| fawn.expert     | available | 108            | 80     | 4      |                  |                  |                                                | Arts                                   |
+| hoorah.zone     | available | 106            | 88     | 6      |                  |                  |                                                | Entertainment,Military,Sports          |
+| lobster.online  | available | 106            | 88     | 7      |                  |                  |                                                | Food and Beverage,Hospitality,Retail   |
+| Uber.ninja      | available | 106            | 80     | 4      |                  |                  |                                                | Business,Technology,Transportation     |
+| under.space     | available | 104            | 84     | 5      |                  |                  |                                                | Business,Media,Technology              |
+| plonk.site      | available | 104            | 76     | 5      |                  |                  |                                                | Food and Beverage,Media,Retail         |
+| hug.gg          | resell    | 104            | 88     | 3      |                  |                  | humbly, LLC (http://park.io)                   | Health and Fitness,Media,Retail        |
+| nosh.zone       | available | 104            | 84     | 4      |                  |                  |                                                | Food and Beverage,Hospitality          |
+| built.space     | available | 103            | 80     | 5      |                  |                  |                                                | Construction,Manufacturing,Real Estate |
+| moderate.dev    | available | 102            | 72     | 8      |                  |                  |                                                | Humanities,Politics                    |
+| subject.gg      | available | 102            | 84     | 7      |                  |                  |                                                | Education,Media                        |
+| concrete.at     | sold      | 102            | 80     | 8      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 ) | Construction,Engineering,Real Estate   |
+| parable.ai      | resell    | 102            | 80     | 7      | 18/06/2018 06:44 | 18/06/2026 06:44 | NameCheap, Inc.                                | Arts,Education                         |
+| birthday.org    | resell    | 102            | 84     | 8      | 14/02/2001 11:32 | 14/02/2026 11:32 | PDR Ltd. d/b/a PublicDomainRegistry.com        | Entertainment,Hospitality,Retail       |
+| captive.at      | available | 102            | 76     | 7      |                  |                  |                                                | Entertainment,Hospitality,Technology   |
 
-# You will love this dataset if you're a:
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=undefined&utm_content=description.bottom)
 
-## Solopreneur
-
-- Secure the perfect domain name for your startup.
-- Establish a strong online presence with a unique and relevant domain name.
-
-## Domain Investor (Domaining)
-
-- Identify and purchase undervalued domains to resell at a profit.
-- Enhance your domain investment portfolio with premium one-word domains.
-
-## Branding and Marketing Agency
-
-- Find catchy and memorable domains that enhance brand visibility and recall.
-- Analyze the availability of high-potential domains to stay ahead in the branding game.
-
-# Get More Domains on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.bottom)
-
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=undefined&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
 > [!TIP]
-> Give a star on this repo to get a free pass on unique.domains.
+> Like this dataset? Give a star on this repo for supporting our work.
+
+# More One Word Domains
+
+## General
+
+- [undefined One word domains](https://github.com/UniqueDomains/oneword-domains): 1,534,798 domains
+- [Expired One word domains](https://github.com/UniqueDomains/expired-oneword-domains): 15,425 domains
+- [Expiring One word domains](https://github.com/UniqueDomains/expiring-oneword-domains): 38,267 domains
+## By Sector
+
+- [Agriculture One word domains](https://github.com/UniqueDomains/agriculture-oneword-domains): 45,059 domains
+- [Arts One word domains](https://github.com/UniqueDomains/arts-oneword-domains): 104,213 domains
+- [Automotive One word domains](https://github.com/UniqueDomains/automotive-oneword-domains): 18,924 domains
+- [Aviation One word domains](https://github.com/UniqueDomains/aviation-oneword-domains): 6,733 domains
+- [Banking One word domains](https://github.com/UniqueDomains/banking-oneword-domains): 7,958 domains
+- [Business One word domains](https://github.com/UniqueDomains/business-oneword-domains): 173,536 domains
+- [Construction One word domains](https://github.com/UniqueDomains/construction-oneword-domains): 44,282 domains
+- [Education One word domains](https://github.com/UniqueDomains/education-oneword-domains): 136,639 domains
+- [Energy One word domains](https://github.com/UniqueDomains/energy-oneword-domains): 7,067 domains
+- [Engineering One word domains](https://github.com/UniqueDomains/engineering-oneword-domains): 35,601 domains
+- [Entertainment One word domains](https://github.com/UniqueDomains/entertainment-oneword-domains): 147,263 domains
+- [Environment One word domains](https://github.com/UniqueDomains/environment-oneword-domains): 68,265 domains
+- [Fashion One word domains](https://github.com/UniqueDomains/fashion-oneword-domains): 65,608 domains
+- [Finance One word domains](https://github.com/UniqueDomains/finance-oneword-domains): 43,786 domains
+- [Food and Beverage One word domains](https://github.com/UniqueDomains/food-and-beverage-oneword-domains): 103,878 domains
+- [General One word domains](https://github.com/UniqueDomains/general-oneword-domains): 308,747 domains
+- [Geography One word domains](https://github.com/UniqueDomains/geography-oneword-domains): 57,231 domains
+- [Health and Fitness One word domains](https://github.com/UniqueDomains/health-and-fitness-oneword-domains): 42,278 domains
+- [Healthcare One word domains](https://github.com/UniqueDomains/healthcare-oneword-domains): 75,415 domains
+- [Hospitality One word domains](https://github.com/UniqueDomains/hospitality-oneword-domains): 53,485 domains
+- [Humanities One word domains](https://github.com/UniqueDomains/humanities-oneword-domains): 72,734 domains
+- [Insurance One word domains](https://github.com/UniqueDomains/insurance-oneword-domains): 2,447 domains
+- [Law One word domains](https://github.com/UniqueDomains/law-oneword-domains): 53,171 domains
+- [Manufacturing One word domains](https://github.com/UniqueDomains/manufacturing-oneword-domains): 40,200 domains
+- [Mathematics One word domains](https://github.com/UniqueDomains/mathematics-oneword-domains): 18,413 domains
+- [Media One word domains](https://github.com/UniqueDomains/media-oneword-domains): 250,239 domains
+- [Medicine One word domains](https://github.com/UniqueDomains/medicine-oneword-domains): 43,714 domains
+- [Military One word domains](https://github.com/UniqueDomains/military-oneword-domains): 14,706 domains
+- [Mining One word domains](https://github.com/UniqueDomains/mining-oneword-domains): 2,021 domains
+- [Pharmaceuticals One word domains](https://github.com/UniqueDomains/pharmaceuticals-oneword-domains): 34,039 domains
+- [Politics One word domains](https://github.com/UniqueDomains/politics-oneword-domains): 42,456 domains
+- [Real Estate One word domains](https://github.com/UniqueDomains/real-estate-oneword-domains): 36,628 domains
+- [Religion One word domains](https://github.com/UniqueDomains/religion-oneword-domains): 33,014 domains
+- [Retail One word domains](https://github.com/UniqueDomains/retail-oneword-domains): 126,246 domains
+- [Science One word domains](https://github.com/UniqueDomains/science-oneword-domains): 109,694 domains
+- [Sports One word domains](https://github.com/UniqueDomains/sports-oneword-domains): 61,574 domains
+- [Technology One word domains](https://github.com/UniqueDomains/technology-oneword-domains): 150,059 domains
+- [Telecommunications One word domains](https://github.com/UniqueDomains/telecommunications-oneword-domains): 15,483 domains
+- [Transportation One word domains](https://github.com/UniqueDomains/transportation-oneword-domains): 29,445 domains
+- [Travel One word domains](https://github.com/UniqueDomains/travel-oneword-domains): 59,425 domains
+- [Utilities One word domains](https://github.com/UniqueDomains/utilities-oneword-domains): 4,425 domains
+## By TLD
+
+- [ai One word domains](https://github.com/UniqueDomains/ai-oneword-domains): 54,248 domains
+- [app One word domains](https://github.com/UniqueDomains/app-oneword-domains): 59,104 domains
+- [at One word domains](https://github.com/UniqueDomains/at-oneword-domains): 76,867 domains
+- [cloud One word domains](https://github.com/UniqueDomains/cloud-oneword-domains): 69,013 domains
+- [co One word domains](https://github.com/UniqueDomains/co-oneword-domains): 57,109 domains
+- [com One word domains](https://github.com/UniqueDomains/com-oneword-domains): 19,634 domains
+- [dev One word domains](https://github.com/UniqueDomains/dev-oneword-domains): 64,547 domains
+- [expert One word domains](https://github.com/UniqueDomains/expert-oneword-domains): 79,088 domains
+- [gg One word domains](https://github.com/UniqueDomains/gg-oneword-domains): 75,807 domains
+- [io One word domains](https://github.com/UniqueDomains/io-oneword-domains): 55,709 domains
+- [it One word domains](https://github.com/UniqueDomains/it-oneword-domains): 18,643 domains
+- [me One word domains](https://github.com/UniqueDomains/me-oneword-domains): 63,131 domains
+- [net One word domains](https://github.com/UniqueDomains/net-oneword-domains): 37,952 domains
+- [ninja One word domains](https://github.com/UniqueDomains/ninja-oneword-domains): 78,117 domains
+- [online One word domains](https://github.com/UniqueDomains/online-oneword-domains): 67,186 domains
+- [org One word domains](https://github.com/UniqueDomains/org-oneword-domains): 38,826 domains
+- [pro One word domains](https://github.com/UniqueDomains/pro-oneword-domains): 66,014 domains
+- [site One word domains](https://github.com/UniqueDomains/site-oneword-domains): 72,329 domains
+- [so One word domains](https://github.com/UniqueDomains/so-oneword-domains): 77,877 domains
+- [space One word domains](https://github.com/UniqueDomains/space-oneword-domains): 74,722 domains
+- [store One word domains](https://github.com/UniqueDomains/store-oneword-domains): 68,176 domains
+- [tech One word domains](https://github.com/UniqueDomains/tech-oneword-domains): 69,779 domains
+- [us One word domains](https://github.com/UniqueDomains/us-oneword-domains): 56,704 domains
+- [xyz One word domains](https://github.com/UniqueDomains/xyz-oneword-domains): 57,426 domains
+- [zone One word domains](https://github.com/UniqueDomains/zone-oneword-domains): 76,790 domains
         
