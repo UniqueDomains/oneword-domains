@@ -1,13 +1,13 @@
 
-# List of All One Word Domain Names (2,942,225)
+# List of All One Word Domain Names (2,943,532)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![2,942,225 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-2%2C942%2C225-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![2,943,532 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-2%2C943%2C532-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential All one-word domains still available to buy.
 
 This dataset contains 10,000 All one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (2,942,225) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (2,943,532) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [All one word domains](
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain      | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          | Actions                                                                                                                                                                          |
-| ----------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| a.horse     | available | 46       | 2%     | 6      |                  |                  |                  | [Analyse](https://unique.domains/domain/9fd2fd7a-e56e-4b5d-bbf8-90a67ed95adc?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| a.in        | available | 56       | 16%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/24570926-6db5-4de1-8cbc-7f47e11af679?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| a.one       | premium   | 56       | 16%    | 5      |                  |                  |                  | [Analyse](https://unique.domains/domain/a01585c5-a1e5-4bad-9c18-ec96a4195069?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| a.social    | available | 56       | 6%     | 7      |                  |                  |                  | [Analyse](https://unique.domains/domain/423a7b2a-6973-449e-a71e-108a5eca7b74?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aaa.at      | premium   | 70       | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/c2f5ab7e-19cf-47f8-9c94-4aa9ad1dc76f?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aaa.cloud   | premium   | 70       | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/ee383940-786a-4895-9583-4444a6903d29?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aaa.site    | premium   | 70       | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/8e476046-979d-4331-8241-12f7caee870d?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aaa.space   | premium   | 70       | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/075ec8ef-d868-4a99-b057-302cfafc2e9f?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aaa.zone    | premium   | 70       | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/7d1513a8-9c70-43ca-965c-841fdd0185ed?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.app    | resell    | 68       | 84%    | 4      | GoDaddy.com, LLC | 06/05/2018 22:50 | 06/05/2026 22:50 | [Analyse](https://unique.domains/domain/c3f4f9e2-af48-4ffb-8ed2-4a1de183cdcc?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.at     | available | 68       | 84%    | 4      |                  |                  |                  | [Analyse](https://unique.domains/domain/d323f8ff-783a-46f6-a8ca-cd6340a45fbb?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.co     | resell    | 68       | 84%    | 4      | 22net, Inc.      | 23/09/2011 22:29 | 22/09/2025 23:59 | [Analyse](https://unique.domains/domain/5ae0dc65-197e-4a9a-b228-9fbda09e555f?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.dev    | premium   | 68       | 84%    | 4      |                  |                  |                  | [Analyse](https://unique.domains/domain/c4ae4c9f-a181-4dc8-86f7-3b54d7c52486?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.expert | available | 68       | 84%    | 4      |                  |                  |                  | [Analyse](https://unique.domains/domain/399aa29b-c536-4040-bcd2-dd9c0738f94e?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.net    | resell    | 68       | 84%    | 4      | Dynadot Inc      | 05/08/2002 18:05 | 05/08/2025 18:05 | [Analyse](https://unique.domains/domain/a24b2512-f86e-4329-9206-825db2eddf78?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.so     | available | 68       | 84%    | 4      |                  |                  |                  | [Analyse](https://unique.domains/domain/3769be70-f7ba-498a-85fc-17b136c9e1b3?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.us     | resell    | 68       | 84%    | 4      | GoDaddy.com, LLC | 24/04/2002 16:48 | 23/04/2026 23:59 | [Analyse](https://unique.domains/domain/7f59be80-c5a3-493f-b254-1ea700fc3407?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAAA.zone   | available | 68       | 84%    | 4      |                  |                  |                  | [Analyse](https://unique.domains/domain/301d7ab2-af2b-499f-9eab-62223771ae6f?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.expert  | available | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/de8803e8-8e47-494d-ae93-9da608b6a0ab?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.it      | resell    | 82       | 80%    | 3      |                  | 08/09/2010 07:33 | 08/10/2025 00:00 | [Analyse](https://unique.domains/domain/825e1130-c500-42ad-b14c-8ee8a0e23f0e?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.ninja   | available | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/aa3b61e6-304b-45d0-879c-e8f8465d0cd7?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.online  | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/f804b62d-b2e5-4cf8-a1f1-440f869e8577?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.pro     | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/986e32ae-847b-4551-852a-606e722514a0?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.site    | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/fd438976-d8d4-4c58-adc7-5cd02e8d3668?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.so      | available | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/25ceaf78-5762-4323-9a67-f5d0adc8c28f?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.space   | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/bdfb0809-a77b-43ca-be45-505b808c349e?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.store   | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/6d4c4557-d509-48f4-b504-79d1b41bfbd1?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| AAD.tech    | premium   | 82       | 80%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/5fe2a120-3b92-4d25-8076-b43a97d6974b?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aah.at      | premium   | 114      | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/94a89f25-7e5d-4855-84c7-eb223c8e97aa?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
-| aah.dev     | premium   | 114      | 92%    | 3      |                  |                  |                  | [Analyse](https://unique.domains/domain/cf3491a7-0b7b-4bc5-ae02-93a6ad97e724?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.domain.analyze) |
+| Domain      | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| ----------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| a.horse     | available | 46       | 2%     | 6      |                  |                  |                  |
+| a.in        | available | 56       | 16%    | 3      |                  |                  |                  |
+| a.one       | premium   | 56       | 16%    | 5      |                  |                  |                  |
+| a.social    | available | 56       | 6%     | 7      |                  |                  |                  |
+| aaa.at      | premium   | 70       | 92%    | 3      |                  |                  |                  |
+| aaa.cloud   | premium   | 70       | 92%    | 3      |                  |                  |                  |
+| aaa.site    | premium   | 70       | 92%    | 3      |                  |                  |                  |
+| aaa.space   | premium   | 70       | 92%    | 3      |                  |                  |                  |
+| aaa.zone    | premium   | 70       | 92%    | 3      |                  |                  |                  |
+| AAAA.app    | resell    | 68       | 84%    | 4      | GoDaddy.com, LLC | 06/05/2018 22:50 | 06/05/2026 22:50 |
+| AAAA.at     | available | 68       | 84%    | 4      |                  |                  |                  |
+| AAAA.co     | resell    | 68       | 84%    | 4      | 22net, Inc.      | 23/09/2011 22:29 | 22/09/2025 23:59 |
+| AAAA.dev    | premium   | 68       | 84%    | 4      |                  |                  |                  |
+| AAAA.expert | available | 68       | 84%    | 4      |                  |                  |                  |
+| AAAA.net    | resell    | 68       | 84%    | 4      | Dynadot Inc      | 05/08/2002 18:05 | 05/08/2025 18:05 |
+| AAAA.so     | available | 68       | 84%    | 4      |                  |                  |                  |
+| AAAA.us     | resell    | 68       | 84%    | 4      | GoDaddy.com, LLC | 24/04/2002 16:48 | 23/04/2026 23:59 |
+| AAAA.zone   | available | 68       | 84%    | 4      |                  |                  |                  |
+| AAD.expert  | available | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.it      | resell    | 82       | 80%    | 3      |                  | 08/09/2010 07:33 | 08/10/2025 00:00 |
+| AAD.ninja   | available | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.online  | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.pro     | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.site    | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.so      | available | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.space   | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.store   | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| AAD.tech    | premium   | 82       | 80%    | 3      |                  |                  |                  |
+| aah.at      | premium   | 114      | 92%    | 3      |                  |                  |                  |
+| aah.dev     | premium   | 114      | 92%    | 3      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -89,26 +89,26 @@ If you want to search & filters the complete database of [All one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,565       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 45,236       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,942,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,571       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,247       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,943,532    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,208        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,940        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,460        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,414        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,395        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
-| .ADULT         | 3,412        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 3,248        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
-| .AGENCY        | 2,583        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AC            | 3,215        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,943        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,463        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,417        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,399        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .ADULT         | 3,415        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
+| .AG            | 3,249        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AGENCY        | 2,587        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 53,577       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
-| .AIRFORCE      | 3,444        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
-| .APARTMENTS    | 3,388        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .AIRFORCE      | 3,453        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
+| .APARTMENTS    | 3,397        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,519       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
-| .ARCHI         | 3,384        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARCHI         | 3,393        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
 | .ARMY          | 3,300        | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
 | .ART           | 3,120        | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
 | .ASIA          | 2,819        | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
