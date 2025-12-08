@@ -1,13 +1,13 @@
 
-# List of All One Word Domain Names (3,525,538)
+# List of All One Word Domain Names (3,618,436)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![3,525,538 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C525%2C538-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![3,618,436 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C618%2C436-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential All one-word domains still available to buy.
 
 This dataset contains 10,000 All one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (3,525,538) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (3,618,436) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,7 +15,7 @@ If you want to search & filters the complete database of [All one word domains](
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.csv"><b>⬇️ CSV (10K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.json"><b>⬇️ JSON (10K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.53M)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.62M)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -24,39 +24,39 @@ If you want to search & filters the complete database of [All one word domains](
 | a.horse         | premium   | 46       | 2%     | 6      |                   |                  |                  |
 | a.im            | premium   | 77       | 32%    | 3      |                   |                  |                  |
 | a.in            | premium   | 56       | 16%    | 3      |                   |                  |                  |
-| a.la            | premium   | 84       | 15%    | 3      |                   |                  |                  |
+| a.la            | premium   | 84       | 14%    | 3      |                   |                  |                  |
 | a.one           | premium   | 56       | 16%    | 5      |                   |                  |                  |
 | a.social        | premium   | 56       | 6%     | 7      |                   |                  |                  |
-| aaa.accountant  | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.accountants | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.actor       | available | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.adult       | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.apartments  | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.archi       | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.army        | resell    | 70       | 38%    | 3      | NameCheap, Inc.   | 17/02/2020 02:45 | 17/02/2026 02:45 |
-| aaa.art         | resell    | 70       | 38%    | 3      | Spaceship, Inc.   | 07/02/2025 19:11 | 07/02/2026 23:59 |
-| aaa.associates  | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.at          | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.attorney    | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.audio       | available | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.autos       | resell    | 70       | 38%    | 3      | Sav.com, LLC - 30 | 23/10/2022 06:34 | 23/10/2025 23:59 |
-| aaa.band        | available | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.bar         | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.bargains    | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.bayern      | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.beauty      | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.beer        | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.berlin      | resell    | 70       | 38%    | 3      |                   | 05/04/2014 22:40 | 05/04/2026 22:40 |
-| aaa.best        | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.bingo       | premium   | 70       | 38%    | 3      |                   |                  |                  |
-| aaa.bio         | resell    | 70       | 38%    | 3      | Sav.com, LLC - 5  | 17/01/2025 15:15 | 17/01/2026 15:15 |
-| aaa.black       | premium   | 70       | 38%    | 3      |                   |                  |                  |
+| aaa.accountant  | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.accountants | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.actor       | available | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.adult       | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.apartments  | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.archi       | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.army        | resell    | 70       | 35%    | 3      | NameCheap, Inc.   | 17/02/2020 02:45 | 17/02/2026 02:45 |
+| aaa.art         | resell    | 70       | 35%    | 3      | Spaceship, Inc.   | 07/02/2025 19:11 | 07/02/2026 23:59 |
+| aaa.associates  | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.at          | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.attorney    | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.audio       | available | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.autos       | resell    | 70       | 35%    | 3      | Sav.com, LLC - 30 | 23/10/2022 06:34 | 23/10/2026 23:59 |
+| aaa.band        | available | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.bar         | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.bargains    | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.bayern      | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.beauty      | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.beer        | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.berlin      | resell    | 70       | 35%    | 3      |                   | 05/04/2014 22:40 | 05/04/2026 22:40 |
+| aaa.best        | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.bingo       | premium   | 70       | 35%    | 3      |                   |                  |                  |
+| aaa.bio         | resell    | 70       | 35%    | 3      | Sav.com, LLC - 5  | 17/01/2025 15:15 | 17/01/2026 15:15 |
+| aaa.blackfriday | premium   | 70       | 35%    | 3      |                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.csv"><b>⬇️ CSV (10K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.json"><b>⬇️ JSON (10K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.53M)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.62M)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [All one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
