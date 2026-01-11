@@ -1,13 +1,13 @@
 
-# List of All One Word Domain Names (5,598,874)
+# List of All One Word Domain Names (75,213)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![5,598,874 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C598%2C874-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/oneword-domains.svg?style=flat)]() [![75,213 All one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-75%2C213-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential All one-word domains still available to buy.
 
 This dataset contains 10,000 All one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (5,598,874) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [All one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.top) (75,213) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,7 +15,7 @@ If you want to search & filters the complete database of [All one word domains](
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.csv"><b>⬇️ CSV (10K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.json"><b>⬇️ JSON (10K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.6M)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (75.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -56,7 +56,7 @@ If you want to search & filters the complete database of [All one word domains](
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.csv"><b>⬇️ CSV (10K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/oneword-domains/blob/main/all.json"><b>⬇️ JSON (10K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.6M)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (75.21K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [All one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,932       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 65,056       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,874    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
