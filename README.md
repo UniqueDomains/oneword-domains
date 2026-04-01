@@ -42,38 +42,38 @@ If you want to search & filters the complete database of [All one word domains](
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain         | Status  | Ask Price | Renewal | Deal Score | Demand | Brandability |
-| -------------- | ------- | --------- | ------- | ---------- | ------ | ------------ |
-| out.you        | premium |           |         | 152        | 32     | 30           |
-| out.yoga       | resell  |           |         | 152        | 32     | 30           |
-| out.yachts     | premium |           |         | 152        | 32     | 30           |
-| out.wtf        | resell  |           |         | 152        | 32     | 30           |
-| out.world      | resell  |           |         | 152        | 32     | 30           |
-| out.works      | resell  |           |         | 152        | 32     | 30           |
-| out.wine       | premium |           |         | 152        | 32     | 30           |
-| out.win        | premium |           |         | 152        | 32     | 30           |
-| out.wedding    | premium |           |         | 152        | 32     | 30           |
-| out.website    | premium |           |         | 152        | 30     | 30           |
-| out.webcam     | premium |           |         | 152        | 32     | 30           |
-| out.voyage     | premium |           |         | 152        | 32     | 30           |
-| out.voto       | premium |           |         | 152        | 32     | 30           |
-| out.voting     | premium |           |         | 152        | 32     | 30           |
-| out.vodka      | premium |           |         | 152        | 32     | 30           |
-| out.vip        | resell  |           |         | 152        | 32     | 30           |
-| out.vin        | premium |           |         | 152        | 32     | 30           |
-| out.villas     | premium |           |         | 152        | 32     | 30           |
-| out.viajes     | premium |           |         | 152        | 32     | 30           |
-| out.vet        | premium |           |         | 152        | 32     | 30           |
-| out.vana       | premium |           |         | 152        | 32     | 30           |
-| out.uno        | premium |           |         | 152        | 30     | 30           |
-| out.university | premium |           |         | 152        | 32     | 30           |
-| out.travel     | resell  |           |         | 152        | 30     | 30           |
-| out.training   | premium |           |         | 152        | 32     | 30           |
-| out.trade      | premium |           |         | 152        | 23     | 30           |
-| out.toys       | premium |           |         | 152        | 32     | 30           |
-| out.town       | premium |           |         | 152        | 32     | 30           |
-| out.tours      | premium |           |         | 152        | 32     | 30           |
-| out.top        | premium |           |         | 152        | 32     | 30           |
+| Domain                | Status    | Ask Price | Renewal | Deal Score | Demand | Brandability |
+| --------------------- | --------- | --------- | ------- | ---------- | ------ | ------------ |
+| saucepan.adult        | premium   |           |         | 90         | 4      | 50           |
+| abstract.tax          | available | 14.99     | 92.99   | 108        | 31     | 70           |
+| McMuffin.cool         | premium   |           |         | 82         | 2      | 90           |
+| technology.security   | available | 2950      |         | 88         | 37     | 90           |
+| chips.doctor          | premium   |           |         | 84         | 25     | 80           |
+| tire.vodka            | premium   |           |         | 88         | 17     | 35           |
+| vocal.graphics        | premium   |           |         | 90         | 18     | 60           |
+| Audi.estate           | premium   |           |         | 86         | 20     | 90           |
+| lecture.dating        | premium   |           |         | 96         | 11     | 60           |
+| have.cars             | premium   |           |         | 112        | 29     | 100          |
+| startup.viajes        | premium   |           |         | 82         | 48     | 70           |
+| suv.services          | resell    |           |         | 82         | 17     | 70           |
+| bust.careers          | premium   |           |         | 102        | 9      | 50           |
+| fruity.fish           | premium   |           |         | 84         | 10     | 50           |
+| name.lighting         | premium   |           |         | 82         | 26     | 90           |
+| familiar.sale         | premium   |           |         | 90         | 18     | 60           |
+| Uber.company          | premium   |           |         | 106        | 29     | 90           |
+| hybrid.loan           | premium   |           |         | 88         | 28     | 50           |
+| tape.apartments       | premium   |           |         | 90         | 22     | 50           |
+| mixing.mobi           | premium   |           |         | 84         | 14     | 50           |
+| adlib.charity         | premium   |           |         | 88         | 7      | 50           |
+| blackpanther.cash     | premium   |           |         | 84         | 9      | 80           |
+| heroic.supplies       | premium   |           |         | 100        | 23     | 80           |
+| words.esq             | premium   |           |         | 86         | 28     | 85           |
+| sentence.construction | premium   |           |         | 88         | 8      | 50           |
+| abkhaz.immo           | available | 9.99      | 45.99   | 82         | 2      | 30           |
+| critical.legal        | available | 9.99      | 92.99   | 82         | 23     | 60           |
+| agreed.villas         | available | 19.99     | 80.99   | 96         | 8      | 80           |
+| creative.review       | premium   | 1250      | 125     | 92         | 46     | 70           |
+| dismay.asia           | premium   |           |         | 82         | 4      | 40           |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -97,8 +97,8 @@ If you want to search & filters the complete database of [All one word domains](
 
 **Available on the Online Database only**:
 
-- Estimated value (from GoDaddy)
-- Business ideas (from GPT-5 highest version + web search)
+- Estimated value
+- Business ideas
 - Domain Rating
 - Backlinks
 - Traffic volume
