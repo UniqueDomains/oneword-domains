@@ -4,9 +4,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00955bfb-8863-4c28-a56b-6f8ed61e2f76,alexander.ryukyu,available,22.98,,70,40,9,namecheap,,
 0096488d-5ee5-44f8-a520-c0d66203c920,civilwar.shop,premium,2500,,64,7,9,name.com,,
 00a485b1-5a17-43fd-a5cc-35da766be4a7,meanwhile.ryukyu,available,22.98,,76,14,9,namecheap,,
-00b18076-08a9-41c8-a3c0-351fdcd2d8a9,limited.today,resell,,,68,21,7,"Sav.com, LLC",14/03/2026 19:13,14/03/2027 19:13
+00b18076-08a9-41c8-a3c0-351fdcd2d8a9,limited.today,resell,,,68,20,7,"Sav.com, LLC",14/03/2026 19:13,14/03/2027 19:13
 00c2b6c3-9f33-45cd-9947-b022479352fe,engine.shop,premium,1250,,76,29,6,name.com,,
-00e3a5cb-5add-4dff-872b-fc3ed8dcf7c1,key.management,resell,,,80,43,3,Porkbun LLC,24/07/2018 21:19,24/07/2026 21:19
+00e3a5cb-5add-4dff-872b-fc3ed8dcf7c1,key.management,resell,,,80,42,3,Porkbun LLC,24/07/2018 21:19,24/07/2026 21:19
 010636fe-0b5e-43ef-a1b8-4513e04dd105,atheart.ryukyu,available,22.98,,68,7,8,namecheap,,
 0140400a-bee5-4084-94aa-e7a2688025f4,ironic.shop,premium,750,,70,12,6,name.com,,
 0144f599-f060-4fea-99f2-4e2bdadf3318,antiacid.shop,available,2.99,,74,2,8,name.com,,
@@ -30,6 +30,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02d5d31e-e8c4-44a0-975d-a2c46b2b8159,spread.shop,premium,625,,74,22,6,name.com,,
 02e5d87e-aa68-4e43-8d74-b4a5d558a8aa,paste.mobile,premium,375,,80,22,5,name.com,,
 02e93e01-5f5a-40bc-944a-dd33036b42d4,imagine.mobile,premium,375,,82,42,7,name.com,,
+02f195b9-c519-43c1-bba4-6aa5347b32d5,shot.ryukyu,available,22.98,,64,24,4,namecheap,,
 02f4b407-39e3-46e0-a3c9-f5320f636ec2,lunar.io,resell,,,72,38,5,"GoDaddy.com, LLC",04/03/2026 15:15,04/03/2028 15:15
 02fddec7-bd1b-42bc-9743-2ae898a2599f,returning.shop,available,2.99,,75,7,9,name.com,,
 0308323e-bdc8-45a2-846e-fea2f5c48b7f,time.place,resell,,,92,45,4,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
@@ -43,6 +44,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 040d0cef-49d9-49c9-b8fb-5b361cafd1a1,lowrise.ryukyu,available,22.98,,74,2,8,namecheap,,
 042fa8bc-33ae-4953-9fc6-ded49e2bfeca,shine.ryukyu,available,22.98,,80,34,5,namecheap,,
 04424244-2b20-4a1f-954f-082f754e5a51,cocoa.supply,resell,,,78,21,5,"GoDaddy.com, LLC",06/07/2020 14:25,06/07/2026 14:25
+044dd122-417d-4cd5-b7be-60a5d12f6509,center.ryukyu,available,22.98,,78,30,6,namecheap,,
 04539778-38c6-48a9-8240-2e25ec0fa748,injury.vegas,resell,,,68,17,6,Dynadot Inc,26/01/2023 02:31,26/01/2027 02:31
 0457bfa8-aa4e-4d84-98a3-7f9cb1029b8d,mix.shop,premium,3125,,66,44,3,name.com,,
 046bc2e7-6301-4b47-a437-d4934d944c23,lady.baby,resell,,,82,18,4,"Spaceship, Inc.",23/05/2025 06:28,23/05/2026 23:59
@@ -114,7 +116,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a81661e-3107-4d45-862e-ba0933bb576a,atstake.ryukyu,available,22.98,,62,3,8,namecheap,,
 0a8dd9bf-644b-4c35-bcab-b785cd56278e,bold.shop,premium,1250,,72,38,4,name.com,,
 0a9185d4-e8ab-4216-a55b-ad1bc69988f5,blank.ryukyu,available,22.98,,64,37,5,namecheap,,
-0a9e9ef6-1ac9-49a3-b137-e8b6bbbd069a,commercial.org,resell,,,81,26,10,"GoDaddy.com, LLC",13/06/1997 04:00,12/06/2027 04:00
+0a9e9ef6-1ac9-49a3-b137-e8b6bbbd069a,commercial.org,resell,,,81,25,10,"GoDaddy.com, LLC",13/06/1997 04:00,12/06/2027 04:00
 0aa701fa-36a4-4b28-8cf4-18bcc6562198,russian.shop,premium,6250,,76,27,7,name.com,,
 0aac3ecd-f043-45cf-9e62-6997c6f751b6,people.art,resell,,,86,41,6,Namecheap,25/11/2021 08:09,25/11/2026 23:59
 0af1a5b5-5356-4ae7-b12e-705a597f004d,going.ryukyu,available,22.98,,80,18,5,namecheap,,
@@ -168,6 +170,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 10356d73-a358-4479-b530-3f50301c9ba8,shy.ryukyu,available,22.98,,64,23,3,namecheap,,
 10421516-3d80-48e0-b2cf-921320831c22,fond.ryukyu,available,22.98,,84,15,4,namecheap,,
 1062714e-0149-4d57-ae54-e3eff8bca953,worry.mobile,premium,750,,66,8,5,name.com,,
+10870ba3-87eb-4cb2-949f-e395d1b41e60,laughable.shop,available,2.99,,72,4,9,name.com,,
 10a4beb6-4218-47a1-9a40-287cef9d8e0e,mat.ryukyu,available,22.98,,76,28,3,namecheap,,
 10bff44c-32e2-4a63-91cf-cf954482bdd2,ruined.eu,premium,5439.22,,58,12,6,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,
 10ee9f98-4158-4d09-b9e5-f4c871f8972a,jump.digital,resell,,,72,32,4,Porkbun LLC,17/06/2015 16:11,17/06/2026 16:11
@@ -190,7 +193,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12aadf71-9945-400a-8ddc-a29389549585,mania.xyz,resell,,,62,19,5,West263 International Limited,06/11/2017 23:22,06/11/2029 23:59
 12c20f8b-2a17-4178-a4f2-0cfa269a7b4c,aesthetic.shop,premium,2500,,78,31,9,name.com,,
 12ce5024-6ba5-4c35-8cb9-ce8f3770ac02,papa.now,resell,,,74,32,4,Dynadot Inc,08/10/2024 22:27,08/10/2026 22:27
-12fb517c-559d-4853-b3ff-116d9b0be609,content.domains,resell,,,86,40,7,"GoDaddy.com, LLC",16/07/2025 15:15,16/07/2027 15:15
+12fb517c-559d-4853-b3ff-116d9b0be609,content.domains,resell,,,86,39,7,"GoDaddy.com, LLC",16/07/2025 15:15,16/07/2027 15:15
 13212636-9e7b-47f2-aad4-797b85dbde98,playing.vip,resell,,,74,13,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),19/08/2017 03:09,19/08/2026 03:09
 13292c5e-f531-444c-9c74-35bbbc698d36,modern.group,resell,,,80,37,6,Porkbun LLC,23/08/2018 00:54,23/08/2026 00:54
 13654724-849c-42ac-981b-d4ff0145665c,likely.shop,premium,2500,,72,12,6,name.com,,
@@ -203,6 +206,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 144653ab-2a9e-4f48-b53d-b0c3bfc37edb,pain.xyz,resell,,,72,28,4,Dynadot LLC,19/08/2018 07:13,19/08/2030 23:59
 144f20c8-444f-4e82-910b-72e2e0a8a7a5,lead.ryukyu,available,22.98,,86,35,4,namecheap,,
 14745dc1-3b3a-4810-831b-56b9f0df16d8,pyramid.mobile,available,26.98,,76,30,7,namecheap,,
+147a6627-7cff-4aaa-89fb-ca72d0fd15ad,thermal.ltd,available,9.99,,56,25,7,name.com,,
 148b4497-3432-40de-a08e-4be57a60bf5a,impress.team,resell,,,86,19,7,"Sav.com, LLC - 15",20/03/2026 15:15,20/03/2027 15:15
 14955913-8bf0-44cc-b11a-025a7f55759d,trip.mobile,premium,1250,,78,35,4,name.com,,
 14a4d619-93a5-4c47-bd7a-5e91d14d189b,deputy.xyz,resell,,,74,10,6,West263 International Limited,31/03/2020 02:14,31/03/2027 23:59
@@ -313,7 +317,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2021b868-3ee2-4958-a319-6b00cefb514d,auto.you,resell,,,68,45,4,"Spaceship, Inc.",07/10/2025 02:28,07/10/2026 02:28
 2035c90f-17fb-453e-8c44-20f57569951f,derive.cn,resell,,,72,15,6,浙江贰贰网络有限公司,,
 2068dbce-e5a5-4c53-b608-1dbefc2be9d5,pussy.shop,premium,1250,,50,37,5,name.com,,
-20771650-5aa9-4f80-aef1-518c30d1872f,scornful.de,available,19.99,,54,1,8,name.com,,
+20771650-5aa9-4f80-aef1-518c30d1872f,scornful.de,available,19.99,,54,2,8,name.com,,
 207d5b25-f8d4-41e4-8209-69e4ebfaf25f,basket.shop,premium,1250,,76,20,6,name.com,,
 207f913f-b491-43aa-8acd-af9fd45423fe,coordinate.shop,premium,312.5,,80,18,10,name.com,,
 20800283-5908-42de-beec-92e87ca62b3f,terrific.ryukyu,available,22.98,,78,14,8,namecheap,,
@@ -325,13 +329,15 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 21f6b7ff-fccf-48f2-b428-83a1cb640f91,list.ryukyu,available,22.98,,70,36,4,namecheap,,
 2231567e-ef96-4811-b92c-6f12ceda1ba5,view.charity,resell,,,76,37,4,"Spaceship, Inc.",07/02/2026 21:12,07/02/2027 21:12
 22706871-5a86-4247-869c-fefd70fdaf48,pound.trade,resell,,,64,15,5,Dynadot Inc,12/06/2025 16:45,12/06/2026 16:45
+22863a06-a126-492a-801e-74fe1bae77e9,chance.ryukyu,available,22.98,,76,29,6,namecheap,,
 2287e922-34a9-4f7b-8d31-89334deb361f,pinch.gg,available,82.98,,80,18,5,namecheap,,
-22b739be-722a-4db9-bea0-a56fcb35da88,quality.solutions,resell,,,78,34,7,Porkbun LLC,08/06/2016 08:30,08/06/2026 08:30
+22b739be-722a-4db9-bea0-a56fcb35da88,quality.solutions,resell,,,78,35,7,Porkbun LLC,08/06/2016 08:30,08/06/2026 08:30
 22d288b1-e73e-4901-abf1-d02c1b5cd412,emotion.shop,premium,625,,80,27,7,name.com,,
 22d9ed4b-c860-4445-a2dc-18820f57dbb5,global.credit,resell,,,86,51,6,Porkbun LLC,17/11/2019 21:04,17/11/2026 21:04
 22daecba-ebd7-4cf3-9998-95d5ca9167c5,daily.market,resell,,,74,40,5,Porkbun LLC,16/06/2016 21:01,16/06/2026 21:01
 22f71d0f-20b2-4cd1-af12-998b1000c489,denial.xyz,resell,,,70,8,6,West263 International Limited,01/04/2020 20:15,01/04/2027 23:59
 230379d8-d077-499b-8555-16846a34a6cf,presently.ryukyu,available,22.98,,65,9,9,namecheap,,
+232233a2-4b1a-4d11-a08c-53bfb808282f,check.shop,resell,,,76,37,5,GMO Registry,06/09/2016 09:39,06/09/2026 23:59
 2332c3b2-1cbd-49f0-bdd7-44597be80209,candle.bar,resell,,,79,26,6,GoDaddy,12/02/2026 17:07,12/02/2027 17:07
 233be13b-dfc7-439a-9f38-afff96e33523,deepdown.ryukyu,available,22.98,,65,3,9,namecheap,,
 234fe825-84f0-474e-98ff-41db2e3204d6,education.now,resell,,,86,32,9,Dynadot Inc,01/10/2024 01:43,01/10/2026 01:43
@@ -339,6 +345,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 235761a9-6fbc-4d9e-a5ca-e37afae710a5,policy.ryukyu,available,22.98,,80,26,6,namecheap,,
 23643a3d-fc2b-4f09-8a4a-ca916a5ca9cb,metal.shop,premium,3125,,82,30,5,name.com,,
 2371645f-244c-4cb9-8002-eee35ad32278,identify.shop,premium,2500,,78,19,8,name.com,,
+237d902c-e8e3-4975-a310-f11e00b41ec4,imaginable.shop,available,2.99,,73,4,10,name.com,,
 23a63563-ead6-4abb-b627-fed5bfff98ac,impress.red,available,14.99,,86,19,7,name.com,,
 23b95d79-6203-49de-8f15-8dbcdbd4c823,blurred.shop,resell,,,62,9,7,Dynadot Inc.,23/02/2026 00:54,23/02/2027 23:59
 23be6020-443f-4a87-9d83-a80d9e5de9d7,barbecue.now,resell,,,86,13,8,"Spaceship, Inc.",29/07/2025 10:11,29/07/2026 10:11
@@ -354,6 +361,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 24d14230-fe4a-4bc6-9beb-261db20179f8,privileged.shop,resell,,,70,8,10,Dynadot Inc.,06/01/2026 02:04,06/01/2027 23:59
 24e193ba-a3c5-41f1-aa75-8c4fd44b806b,trade.tips,resell,,,82,46,5,Porkbun LLC,13/05/2016 10:49,13/05/2026 10:49
 250d0c8f-f3a5-41d2-a7cc-61b652dc3115,deal.ryukyu,available,22.98,,66,35,4,namecheap,,
+251d82f8-cb5f-44a8-9d82-4c3f5c5a6982,contrary.shop,available,2.99,,70,7,8,name.com,,
 2529788a-74ca-43d1-bae2-0dede4109798,web.camp,resell,,,72,61,3,Porkbun LLC,04/08/2020 21:52,04/08/2026 21:52
 252c1224-f100-4201-b30e-2ff404f0d6dc,asia.work,resell,,,72,33,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/11/2017 01:13,16/11/2026 01:13
 253c506f-8981-4a6e-a7ac-b32bc4fc6654,siberian.eu,premium,5446.33,,68,8,8,Name: Domainers Registrar AG Website: https://www.domainers.de,,
@@ -393,6 +401,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 28f67118-4669-4c63-aaf3-b216e65176b5,seriously.ryukyu,available,22.98,,64,15,9,namecheap,,
 290ef6ac-d0bb-445a-b691-2abe2e5ac60f,term.today,resell,,,80,16,4,"Sav.com, LLC - 47",16/02/2026 15:15,16/02/2027 15:15
 2924d9a4-f214-4b3c-9f56-d1a653f29c06,butter.ryukyu,available,22.98,,78,27,6,namecheap,,
+294a73d8-8896-4311-b068-9fc3b99bdb97,considered.ryukyu,available,24.99,,75,10,10,name.com,,
 298d341f-565b-4941-87a0-ceeef796df96,london.pics,resell,,,76,43,6,"Spaceship, Inc.",21/09/2025 14:17,21/09/2026 23:59
 299f9fed-b369-4d5c-b50f-1465ba35189b,food.rodeo,resell,,,94,44,4,Porkbun,21/01/2022 02:58,21/01/2027 02:58
 29c0c3e8-d3ad-439d-a47a-f0d26415aaf6,maximum.shop,premium,1250,,84,23,7,name.com,,
@@ -460,6 +469,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 308d18e0-3ac3-4d1d-b522-d198a5651bb8,federal.xyz,resell,,,70,25,7,"Go Daddy, LLC",04/06/2014 23:15,04/06/2027 23:59
 30aa9d75-14d3-4941-a7c5-ad56b345fc77,wave.guide,resell,,,78,46,4,Porkbun LLC,28/01/2020 00:57,28/01/2027 00:57
 30c818b4-2804-4259-b1fa-f39557bbc0af,checkout.services,resell,,,72,79,9,"GoDaddy.com, LLC",11/02/2026 17:04,11/02/2027 17:04
+31052570-3be2-4a13-9fa2-d55377c4ee0e,comfy.shop,resell,,,82,27,5,"Spaceship, Inc.",30/01/2024 00:37,30/01/2027 23:59
 3126b70d-a472-4177-ad5e-bffd78543f8e,export.city,resell,,,72,22,6,"Sav.com, LLC - 6",27/09/2025 15:15,27/09/2026 15:15
 312c650d-2872-4bdf-8c32-58cb822a7269,biological.ryukyu,available,22.98,,82,9,10,namecheap,,
 31664d2f-9fe4-463b-880e-aa72c8beab73,jazz.baby,resell,,,72,28,4,"Spaceship, Inc.",17/02/2026 14:15,17/02/2027 23:59
@@ -488,7 +498,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 33a7e3bd-98ec-4b32-ae73-25e4b7b6471e,bread.ryukyu,available,22.98,,84,31,5,namecheap,,
 33cb363a-cf7d-40be-8a57-00a7f9f3ead0,net.holiday,resell,,,76,53,3,Dynadot Inc,18/10/2015 19:40,18/10/2026 19:40
 33df7b75-c13c-4ab5-b149-1c8ff35cf6ed,data.zone,resell,,,84,56,4,Porkbun LLC,19/09/2016 07:42,19/09/2026 07:42
-33f5f2a6-0d0f-4453-b80f-24c27849ce6f,fan.hamburg,available,59.99,,78,37,3,name.com,,
+33f5f2a6-0d0f-4453-b80f-24c27849ce6f,fan.hamburg,available,59.99,,78,36,3,name.com,,
 33f7f442-2604-4c54-bff0-101d9853394a,wanted.shop,premium,625,,70,24,6,name.com,,
 34220cfd-30bc-458a-a409-7054e5d7f2c5,engage.mobile,premium,375,,84,33,6,name.com,,
 342ba5f1-642a-495e-8846-3ea2739e0ed6,upstart.shop,premium,312.5,,74,20,7,name.com,,
@@ -500,6 +510,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 34ce3eca-2110-42f8-ac3a-6f2953629927,send.flowers,resell,,,80,38,4,"Porkbun, LLC",06/08/2017 09:41,06/08/2026 23:59
 34da2e0d-e223-4ff8-9540-23ffba458a06,fat.email,resell,,,68,27,3,"Chengdu West Dimension Digital Technology Co., Ltd.",14/08/2016 23:45,14/08/2026 23:45
 34f950e5-7084-4a53-9807-e606982cddd4,tourist.mobile,premium,375,,80,20,7,name.com,,
+35231f02-b909-4691-a034-daf793e66512,comedian.shop,premium,625,,84,7,8,name.com,,
 3594a12b-ceee-478b-879e-ee6b88c99d32,pocket.shop,premium,3125,,72,42,6,name.com,,
 359d7687-91bc-492f-8855-d0b083e2bd77,dear.ai,resell,,,80,26,4,"NameCheap, Inc.",16/12/2017 01:21,18/12/2031 01:21
 35c03593-7720-4340-96f1-74403c05cc80,master.group,resell,,,84,35,6,Porkbun LLC,16/06/2016 16:25,16/06/2026 16:25
@@ -510,7 +521,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35f2e93a-6ff0-4777-82fd-47ea168e11ba,heart.you,premium,236900,,84,36,5,"Dynadot, LLC",07/10/2025 04:25,07/10/2026 04:25
 36040a23-7bc8-4f06-a5c6-2da6718193b4,energy.life,resell,,,78,43,6,Porkbun LLC,12/09/2017 04:25,12/09/2026 04:25
 3616682c-cf37-4466-9661-c7395376ca82,attempt.ryukyu,available,22.98,,76,7,7,namecheap,,
-3623e3da-860c-4cd8-bfbd-6a018cb4ed9c,chicken.world,resell,,,68,33,7,Porkbun LLC,31/03/2017 14:57,31/03/2027 14:57
+3623e3da-860c-4cd8-bfbd-6a018cb4ed9c,chicken.world,resell,,,68,34,7,Porkbun LLC,31/03/2017 14:57,31/03/2027 14:57
 365e314d-95bc-43c2-94f2-9657725d9c53,guide.plus,resell,,,72,29,5,Porkbun LLC,22/09/2017 21:14,22/09/2026 21:14
 3671677d-97f1-416c-98e9-a85290304c14,utility.ryukyu,available,22.98,,82,26,7,namecheap,,
 367f85b9-97e6-4aeb-9a88-a45c46698ddb,warm.ryukyu,available,22.98,,80,21,4,namecheap,,
@@ -524,6 +535,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 37074ca2-bd85-459f-abc5-951cb592cf66,feb.world,resell,,,70,10,3,"Sav.com, LLC",27/02/2026 17:01,27/02/2027 17:01
 3744fbe3-3ba8-4a8e-84ab-38fd52d86eab,retired.shop,resell,,,76,12,7,"Go France Domains, LLC",26/09/2016 15:00,26/09/2026 23:59
 37a45284-465d-4617-a125-91f5cfc988fa,chimney.xyz,resell,,,72,13,7,West263 International Limited,04/11/2017 03:08,04/11/2027 23:59
+37b06eab-e99a-4d4b-869d-94af4ef5753c,centre.ryukyu,available,22.98,,66,20,6,namecheap,,
 37b7e75f-17fb-432e-96fc-4e031f9dd317,fleet.group,resell,,,64,68,5,Porkbun LLC,09/02/2019 15:01,09/02/2027 15:01
 37eb079a-55e3-4d45-ba34-cbcf6ba2f371,happy.life,resell,,,78,47,5,Porkbun LLC,24/08/2016 21:07,24/08/2026 21:07
 38053731-12bf-4be3-b8eb-879137ddeeeb,keep.school,resell,,,76,29,4,"Sav.com, LLC - 8",16/10/2025 15:15,16/10/2026 15:15
@@ -533,7 +545,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 38552cd0-0d29-4be1-8e0a-2b4910d22b17,federal.team,resell,,,70,25,7,"Sav.com, LLC - 48",14/03/2026 15:15,14/03/2027 15:15
 3861eabe-9f19-4442-9ed7-670b50a76788,bit.exchange,resell,,,76,47,3,Porkbun LLC,14/07/2014 03:25,14/07/2026 03:25
 387adb22-d414-485c-923d-ae4b52f36d99,inspired.net,resell,,,78,31,8,"NameCheap, Inc.",24/01/2001 11:35,24/01/2027 11:35
-38b433a9-9b7b-401e-b391-154b4bbfc05e,center.media,resell,,,78,31,6,Porkbun LLC,17/06/2015 16:14,17/06/2026 16:14
+38b433a9-9b7b-401e-b391-154b4bbfc05e,center.media,resell,,,78,30,6,Porkbun LLC,17/06/2015 16:14,17/06/2026 16:14
 38b9e5da-bac4-4a0b-9c1b-7c0471e26143,coy.ryukyu,available,22.98,,64,13,3,namecheap,,
 38f98b47-4d97-4248-bea9-f6abfef9f0e3,corruption.ryukyu,available,22.98,,58,12,10,namecheap,,
 3918c40d-90fe-4f73-98ee-34c15a0560d2,awaken.investments,resell,,,76,26,6,"Spaceship, Inc.",17/02/2026 17:03,17/02/2027 17:03
@@ -556,6 +568,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3b373029-c006-42e9-a802-a60333ec536d,data.marketing,resell,,,84,56,4,Porkbun LLC,02/11/2019 10:10,02/11/2026 10:10
 3b40ed32-2e8f-4d95-90b8-d5ecc52ff326,real.works,resell,,,78,49,4,Porkbun LLC,09/11/2016 08:58,09/11/2026 08:58
 3b4bdf85-c430-41e4-bbda-024d4edd404b,buck.bot,resell,,,62,29,4,"Dynadot, LLC",17/01/2026 15:41,17/01/2027 15:41
+3b5e14ed-e557-42da-a111-29a89b19f871,succinct.ryukyu,available,22.98,,73,8,8,namecheap,,
 3b8943f0-b302-46f8-b2e1-b6e48cbda764,tea.trading,resell,,,78,38,3,Porkbun LLC,06/02/2023 17:01,06/02/2027 17:01
 3bc2ec5b-777a-4358-96e9-ee2d75e22f84,research.skin,resell,,,78,39,8,Dynadot LLC,02/09/2021 12:57,02/09/2026 23:59
 3bf5f931-50fa-4703-996b-832cc857de52,pristine.shop,resell,,,75,19,8,"Spaceship, Inc.",10/08/2024 01:27,10/08/2026 23:59
@@ -568,7 +581,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ca9b069-2ce6-4bb7-8331-544b72c8cefd,hurry.shop,premium,2500,,78,11,5,name.com,,
 3cac2429-d96b-4c78-b469-53971096b2d2,annoyed.shop,available,2.99,,58,7,7,name.com,,
 3cb5920e-c3f8-4e0a-a067-465282a76e4b,clean.ryukyu,available,22.98,,90,38,5,namecheap,,
-3cbcc2a4-9754-47a0-92b1-18cf4c8c0605,eye.vc,resell,,,66,33,3,Zhuimi Inc,12/02/2019 01:06,12/02/2027 01:06
+3cbcc2a4-9754-47a0-92b1-18cf4c8c0605,eye.vc,resell,,,66,32,3,Zhuimi Inc,12/02/2019 01:06,12/02/2027 01:06
 3cd85dc6-11d7-4cda-95ac-70974febafa3,axis.solutions,resell,,,68,44,4,Porkbun LLC,07/06/2020 13:33,07/06/2026 13:33
 3ce290cc-2f3d-40ed-8729-230d10a57baf,grandad.llc,resell,,,80,3,7,"NameCheap, Inc.",17/05/2023 16:23,17/05/2026 16:23
 3ce50529-764b-417f-b205-8731d6b96630,shop.house,resell,,,73,54,4,Porkbun LLC,02/08/2015 16:00,02/08/2026 16:00
@@ -580,6 +593,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3d3ec6a3-494a-411c-8815-6789c973ecd8,yearround.shop,available,2.99,,74,2,10,name.com,,
 3d9068e6-f7c4-4ae2-a8dc-24c961f29874,incentive.berlin,available,89.98,,80,16,9,namecheap,,
 3daddb4f-e0ad-47c8-a610-5fa3ab066638,disconnect.xyz,resell,,,74,13,10,West263 International Limited,27/09/2019 18:53,27/09/2027 23:59
+3dbb63c9-6a2e-4ff8-9065-0118722213af,conclusion.shop,resell,,,82,10,10,Dynadot Inc.,13/04/2026 00:49,13/04/2027 23:59
 3ddf923e-8692-4cee-8667-216c4d5a6fca,aunt.eu,premium,6823.9,,74,8,4,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,
 3dfb593f-90a8-461d-83e0-1aff914f6f11,food.media,resell,,,94,44,4,Porkbun LLC,01/09/2016 13:25,01/09/2026 13:25
 3e7ea713-e069-4ca2-9e35-314254a61071,detour.agency,resell,,,72,15,6,"Sav.com, LLC - 4",18/02/2026 15:15,18/02/2027 15:15
@@ -695,6 +709,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 490742d6-9cee-410c-ad59-baab86f99198,thermal.shop,premium,625,,56,23,7,name.com,,
 4917f70b-9196-4dc9-aa9e-28933ef30b5d,pristine.ryukyu,available,22.98,,75,19,8,namecheap,,
 4928b95e-77eb-46ac-b3af-5d91fb80e165,food.school,resell,,,94,44,4,Porkbun LLC,17/08/2020 16:42,17/08/2026 16:42
+49310327-f886-4368-b6d2-8464c1f1ae6f,feature.ryukyu,available,22.98,,76,18,7,namecheap,,
 4965fae0-7309-40de-8dd3-0e68d4511ed7,employ.shop,premium,625,,80,12,6,name.com,,
 49a8434a-4991-4391-8272-205e63c5d339,uproar.xyz,resell,,,66,9,6,West263 International Limited,02/10/2020 03:40,02/10/2027 23:59
 49a93701-fc66-4d4f-af26-63f85320f2f5,student.place,resell,,,78,37,7,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
@@ -725,7 +740,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4c23a01b-7fbe-45e1-a486-bba35d28b0ad,prudent.shop,premium,1250,,75,9,7,name.com,,
 4c277dd0-a50a-4e84-8f92-7f8ef445c3f5,lock.mobile,premium,1250,,66,29,4,name.com,,
 4c4fcb77-437e-4417-9307-82ad7d13d94d,lasting.shop,premium,125,,70,8,7,name.com,,
-4c5ff51c-376f-4720-a727-84b3d1b800dd,completed.ryukyu,available,22.98,,78,7,9,namecheap,,
+4c5ff51c-376f-4720-a727-84b3d1b800dd,completed.ryukyu,available,22.98,,78,6,9,namecheap,,
 4c64d348-f433-4ebf-8449-9db162535bf1,delightful.shop,resell,,,72,15,10,"Spaceship, Inc.",27/11/2024 00:43,27/11/2026 23:59
 4c804e16-1d51-4eab-bab1-ec26b53efb62,random.ryukyu,available,22.98,,70,45,6,namecheap,,
 4c8d0437-164c-4f4e-9a70-45175f9208c6,detest.mobile,available,26.98,,62,4,6,namecheap,,
@@ -733,6 +748,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4cb2f0a3-821d-49b0-a857-b77c8c67ccea,claim.vegas,resell,,,78,31,5,Dynadot Inc,02/12/2024 14:00,02/12/2026 14:00
 4cb96215-a8b3-4dd8-9765-6c833ba6098d,law.luxury,resell,,,74,46,3,"Go Daddy, LLC",30/09/2025 21:25,30/09/2026 23:59
 4cc179f6-1455-43b7-9c44-e1e9e3a830a5,suppose.xyz,resell,,,82,5,7,West263 International Limited,20/08/2019 18:52,20/08/2027 23:59
+4cc39e09-a20f-4033-bf5d-304ef329b1ca,compatible.ryukyu,available,22.98,,81,10,10,namecheap,,
 4cd36432-aae7-4b67-bec9-9340c96f877c,gratitude.mobile,premium,750,,80,23,9,name.com,,
 4d04a48d-a263-4b33-822b-8696ae691f99,info.support,resell,,,80,51,4,Porkbun LLC,15/07/2015 16:00,15/07/2026 16:00
 4d0fbbb3-b294-4d02-9f73-b3e2ba0a7431,stark.tv,resell,,,72,45,5,Porkbun,17/02/2012 21:27,17/02/2027 21:27
@@ -769,6 +785,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 504cdd7c-e8e5-4208-bfb0-8141a561d4af,concert.ryukyu,available,22.98,,88,23,7,namecheap,,
 50692c3d-49d6-4e24-8c0c-37e5b21d10ad,cruel.ryukyu,available,22.98,,72,11,5,namecheap,,
 5085a6f0-92a6-46c0-9b76-49805d61bfb7,impress.technology,available,17.99,,86,19,7,name.com,,
+50afb483-2daf-409c-a846-a4c0bab4daf7,eye.ryukyu,available,22.98,,66,32,3,namecheap,,
 51152ae7-d0af-4c4f-9774-2408e0863ffb,likely.ryukyu,available,22.98,,72,12,6,namecheap,,
 514fd16a-d8bc-412d-a2b0-6c30077b66cc,auto.team,resell,,,68,45,4,Porkbun LLC,29/07/2015 16:00,29/07/2026 16:00
 515f7c3c-9204-4e5a-9c97-0496c67ffad8,mash.ryukyu,available,22.98,,62,27,4,namecheap,,
@@ -826,7 +843,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57f9c653-07bb-476f-a7e4-e8e8d85b59a1,good.ryukyu,available,22.98,,82,55,4,namecheap,,
 5801a8eb-e639-46d1-858c-d9b39c210cc2,only.work,resell,,,84,46,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/01/2017 12:50,14/01/2027 12:50
 585438f8-5d1c-464d-b62d-e7c5471dbddc,pat.ryukyu,available,22.98,,70,29,3,namecheap,,
-585444ea-cc14-44fc-8d2e-3614f9c79bea,key.loans,resell,,,80,43,3,"GoDaddy.com, LLC",25/04/2015 23:10,25/04/2027 23:10
+585444ea-cc14-44fc-8d2e-3614f9c79bea,key.loans,resell,,,80,42,3,"GoDaddy.com, LLC",25/04/2015 23:10,25/04/2027 23:10
 5861b768-992b-4fef-a48c-52dcc8367067,difficulty.ryukyu,available,22.98,,72,4,10,namecheap,,
 58663aa2-f2c3-47a0-aefa-a05aa445d71f,have.media,resell,,,90,27,4,"Spaceship, Inc.",07/10/2025 01:16,07/10/2026 01:16
 5868878b-9fbd-4e3a-a306-0c53100af413,material.now,premium,23675.79,,78,24,8,"Spaceship, Inc.",20/02/2025 17:27,20/02/2027 17:27
@@ -857,6 +874,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bd2d338-0aac-4b30-b309-238553b7c659,rested.shop,premium,625,,73,7,6,name.com,,
 5bd2f425-5163-4639-aec2-340f429ea1d4,wear.shop,premium,1250,,70,19,4,name.com,,
 5be4b1b9-b587-4359-b5ba-e79adf1074d2,quick.news,resell,,,72,41,5,Porkbun LLC,12/07/2015 22:44,12/07/2026 22:44
+5c2c7bb1-164b-45ff-a66b-679a038ee817,completing.ryukyu,available,22.98,,72,4,10,namecheap,,
 5c45c72b-ba00-4004-9648-d688bc25cac3,illness.xyz,resell,,,64,6,7,West263 International Limited,06/06/2019 02:37,06/06/2027 23:59
 5c4ba9fe-f0ff-451c-9c2a-6419c28c317f,wakening.shop,available,2.99,,79,2,8,name.com,,
 5c5d1cfd-998e-4b15-9cbc-bd776a33a48c,safe.care,resell,,,78,46,4,Porkbun LLC,11/11/2016 08:25,11/11/2026 08:25
@@ -942,7 +960,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6567a56f-c60b-4db7-bb17-cfaed5547c34,identifier.mobile,premium,750,,78,5,10,name.com,,
 659bc0e7-56f8-4fb4-b10e-62c87ce78b96,game.institute,resell,,,88,50,4,Dynadot Inc,27/10/2017 19:49,27/10/2026 19:49
 65d7f8db-193a-418c-849d-97bc95c20981,creative.marketing,resell,,,82,45,8,Porkbun LLC,30/06/2016 09:16,30/06/2026 09:16
-65fce4e2-4386-4ccd-b5ff-18094640c989,corporate.group,resell,,,83,32,9,Porkbun LLC,28/10/2017 19:34,28/10/2026 19:34
+65fce4e2-4386-4ccd-b5ff-18094640c989,corporate.group,resell,,,83,31,9,Porkbun LLC,28/10/2017 19:34,28/10/2026 19:34
+66418ee2-fcba-4a81-8937-0f87c0b510ef,limited.shop,premium,625,,68,20,7,name.com,,
 665078ef-6bb2-4559-8cdc-17f055528066,likewise.ryukyu,available,22.98,,64,10,8,namecheap,,
 66793043-15ef-41f6-89ae-060ace43c1e9,grandad.social,resell,,,80,3,7,"NameCheap, Inc.",17/05/2023 16:23,17/05/2026 16:23
 66a074bf-cb2d-4cb8-90bb-1e1e2b01835a,burden.xyz,resell,,,52,10,6,Dynadot LLC,28/08/2021 21:17,28/08/2027 23:59
@@ -1042,7 +1061,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7047bd69-b8dd-4543-9300-4734f08035b7,yet.ryukyu,available,22.98,,82,18,3,namecheap,,
 7047d8ca-4a98-4460-9721-64fcf515e200,brand.plus,resell,,,66,47,5,Porkbun LLC,21/09/2016 16:33,21/09/2026 16:33
 70552c51-1885-470b-91f4-964371099c44,based.cn,resell,,,82,45,5,阿里云计算有限公司（万网）,,
-7086e925-703e-4bd1-9fc7-2e67161372b1,limited.vc,resell,,,68,21,7,"GoDaddy.com, LLC",17/08/2020 15:48,17/08/2027 15:48
+7086e925-703e-4bd1-9fc7-2e67161372b1,limited.vc,resell,,,68,20,7,"GoDaddy.com, LLC",17/08/2020 15:48,17/08/2027 15:48
 70894953-f439-489c-aa60-2de80b9d017a,blonde.co,premium,3552.32,,78,15,6,"GoDaddy.com, LLC",21/07/2010 22:01,20/07/2026 23:59
 70c2f950-0165-4ad4-8c8b-f3e301477e99,veer.shop,premium,625,,74,15,4,name.com,,
 70cb3d42-a4c9-4d70-b09c-d3ebeba672b0,male.shop,premium,1250,,68,15,4,name.com,,
@@ -1077,6 +1096,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 742e3b1f-e57a-4cf4-9768-863e09ba8c7a,premiere.ryukyu,available,22.98,,88,19,8,namecheap,,
 74315df5-93b3-4a6b-9aba-e5358c7309d9,review.mobi,resell,,,76,39,6,Dynadot Inc,26/09/2006 14:01,26/09/2026 14:01
 7461b9f3-ae55-4294-b65a-48e13558c0ae,increasing.ryukyu,available,22.98,,82,5,10,namecheap,,
+74b6d7d6-1be5-4a52-b714-874d0021f208,clever.haus,available,19.99,,74,38,6,name.com,,
+7509d0c0-709d-4cd1-9548-e9d681f54c72,cliche.ryukyu,available,22.98,,73,11,6,namecheap,,
 7510e501-39ab-4c76-9bf3-7d3e7bff88b1,white.kim,resell,,,78,38,5,"Spaceship, Inc.",17/02/2026 14:02,17/02/2027 14:02
 751a9769-5667-413f-aca9-9e7383b65d2f,increased.ryukyu,available,22.98,,78,4,9,namecheap,,
 75292c00-b060-4dc4-9be6-5ff4ccdb54c6,attack.ryukyu,available,22.98,,86,17,6,namecheap,,
@@ -1108,6 +1129,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 779032ec-417a-4d4d-b845-ee39a848eee7,hedge.ryukyu,available,22.98,,68,20,5,namecheap,,
 779dba48-b2c7-4132-951e-b995ff50a12f,greens.mobile,premium,375,,78,18,6,name.com,,
 77b78cc4-8712-4bb5-a29b-32052b4244c7,depression.info,premium,1436.8,,52,16,10,Vautron Rechenzentrum AG,26/07/2001 14:15,26/07/2026 14:15
+77d09496-0a73-4369-ae7f-d145113b72ce,complex.beauty,resell,,,79,25,7,"Spaceship, Inc.",17/02/2026 14:15,17/02/2027 23:59
 77d1d114-04f5-4040-b508-9adfa50b20d1,interview.media,resell,,,78,29,9,OVH SAS,02/10/2025 20:20,02/10/2026 20:20
 77d3a7b9-2d6d-4d24-9062-ba798fc2e90f,bud.ryukyu,available,22.98,,70,25,3,namecheap,,
 77dca518-ba9e-4c55-8619-e2b03a30c133,suppose.ryukyu,available,22.98,,82,5,7,namecheap,,
@@ -1142,6 +1164,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a3ec58f-9b20-4ecc-8985-e1de6211e141,oyster.mobile,premium,218.75,,63,22,6,name.com,,
 7a6f17be-a73b-4613-9c0e-49d821fa0b2c,worse.shop,premium,625,,78,5,5,name.com,,
 7a75320c-a230-4d45-8858-336a2492ebb8,harm.shop,premium,750,,68,14,4,name.com,,
+7a8ff8f8-ba69-451d-ad42-347e91e69e5e,reverse.shop,premium,625,,74,27,7,name.com,,
 7aa6c6b2-a7ad-4b9f-bf02-59f0d143cf39,easy.markets,resell,,,84,68,4,Porkbun LLC,20/11/2019 12:30,20/11/2026 23:59
 7aa88a42-c60c-4133-9e16-40a6480afe2b,powered.ryukyu,available,22.98,,72,16,7,namecheap,,
 7aae842e-ec1d-436b-af3b-ed3f29351f50,realtime.fyi,premium,18.75,,76,28,9,name.com,,
@@ -1168,10 +1191,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7daf209e-ce4a-49ba-9a8a-7f21015885be,stockholm.shop,premium,3125,,84,17,9,name.com,,
 7dd6a2e9-1ce2-4735-be8c-7dba8126758b,line.archi,resell,,,74,65,4,Tucows Domains Inc.,16/02/2018 19:01,16/02/2027 19:01
 7dee3914-94d7-4c83-a9c3-e651c094979c,church.ryukyu,available,22.98,,72,37,6,namecheap,,
+7dffd6b9-bace-42cc-950c-fed989b1347a,compelling.ryukyu,available,22.98,,82,8,10,namecheap,,
 7e47f105-df0c-4335-b762-3fde0a2c8805,weary.ryukyu,available,22.98,,64,6,5,namecheap,,
 7e616c14-0037-4a97-a998-a0bfc47530e1,stubborn.ryukyu,available,22.98,,66,7,8,namecheap,,
 7e790af4-28ba-4ec2-b326-62c5d4c7357b,spray.ryukyu,available,22.98,,80,19,5,namecheap,,
-7e9f8cc6-a27e-49c6-8fba-702cd4f8ab55,key.company,resell,,,80,43,3,Porkbun LLC,27/06/2015 00:34,27/06/2026 00:34
+7e9f8cc6-a27e-49c6-8fba-702cd4f8ab55,key.company,resell,,,80,42,3,Porkbun LLC,27/06/2015 00:34,27/06/2026 00:34
 7edeb21f-286d-4f6e-a79b-d799acecdb93,tvset.ryukyu,available,22.98,,76,3,6,namecheap,,
 7eeedb1a-365b-4573-9f2e-111edb3dc977,pick.guru,available,3.99,,66,30,4,name.com,,
 7f2c4d48-4fe3-4ad0-839a-271b999ccffc,loving.ryukyu,available,22.98,,76,21,6,namecheap,,
@@ -1180,7 +1204,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7fb33e9b-5a49-42d7-abba-c4d191e53632,personal.marketing,resell,,,81,35,8,Porkbun LLC,18/05/2016 03:17,18/05/2026 03:17
 7fbbd5eb-e0bb-4c86-a62d-c60f8267f45b,toying.ryukyu,available,22.98,,68,3,6,namecheap,,
 7ffe43a3-9928-48e4-9ea6-f5ddd19d091c,alone.shop,premium,2500,,70,15,5,name.com,,
-803e13d3-c551-43b7-ae2c-5bdd241c2273,immediate.shop,resell,,,76,12,9,"Spaceship, Inc.",25/02/2024 00:33,25/02/2027 23:59
+803e13d3-c551-43b7-ae2c-5bdd241c2273,immediate.shop,resell,,,76,13,9,"Spaceship, Inc.",25/02/2024 00:33,25/02/2027 23:59
 804612c5-9eab-41c8-8bb3-fee3b739032d,just.care,resell,,,90,48,4,Porkbun LLC,07/10/2016 20:52,07/10/2026 20:52
 806165a8-af16-46a2-8d35-d569b289bc5e,calf.life,resell,,,74,9,4,"Sav.com, LLC - 2",01/03/2026 15:15,01/03/2027 15:15
 80aa6083-686c-416a-bbf6-f87b62e0aa3a,butterfly.ryukyu,available,22.98,,82,38,9,namecheap,,
@@ -1191,6 +1215,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 817a3ee8-2317-4358-878d-ae1276afa115,atbottom.ryukyu,available,22.98,,60,0,9,namecheap,,
 81822eaf-3cca-4bc2-ace2-fc5f960946b6,required.ryukyu,available,22.98,,72,9,8,namecheap,,
 818b9eac-b9c9-48e9-ad9a-e3ec189a7538,measure.shop,premium,625,,80,21,7,name.com,,
+818d16c1-6170-4b20-bea7-9b6ba21cefab,sideways.shop,resell,,,66,12,8,"Spaceship, Inc.",02/08/2025 09:26,02/08/2026 23:59
 819723bf-672a-4b24-8a52-866c31ab490b,minuscule.ryukyu,available,22.98,,68,4,9,namecheap,,
 81c22071-ac8b-45ad-a57e-21319640b832,increase.mobile,premium,375,,76,11,8,name.com,,
 81cd8809-0988-4811-b1e7-d4223d2361d0,teal.vc,resell,,,76,29,4,Dynadot Inc,17/08/2020 00:10,17/08/2026 00:10
@@ -1297,6 +1322,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8b4fb182-ef71-446e-b787-fdfc087e80f8,consumer.xyz,resell,,,76,20,8,West263 International Limited,17/08/2019 03:24,17/08/2029 23:59
 8b542692-1957-43a1-bd38-e2028e6e6e26,weird.ryukyu,available,22.98,,64,29,5,namecheap,,
 8b77278a-c8bb-495f-a334-690c23883516,tvset.eu,premium,3464.66,,76,3,6,Name: INFOCAL sp. z o.o. Website: https://www.cal.pl,,
+8b8bcf1c-d466-40a2-a865-c4309f19df92,summary.ryukyu,available,22.98,,71,17,7,namecheap,,
 8b920a04-42ef-46b0-8b5d-5bb06de0d033,heatup.mobile,available,26.98,,76,6,7,namecheap,,
 8bf0e456-9e74-4b0b-b7b6-0fa035a9156f,thunder.shop,premium,625,,63,26,7,name.com,,
 8bfcc3af-30e7-483e-8927-e6495dfc2539,soccer.ryukyu,available,22.98,,82,35,6,namecheap,,
@@ -1325,6 +1351,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8ec30389-0a13-4402-a2c8-94446b3b555d,baseball.shop,premium,6250,,86,31,8,name.com,,
 8f0c4918-2f70-44a0-a1e2-18f90cb810b1,madrid.loans,resell,,,76,24,6,"GoDaddy.com, LLC",15/02/2023 00:41,15/02/2027 00:41
 8f17653a-604f-4732-ab87-249d98366381,scheduled.ai,resell,,,74,7,9,"NameCheap, Inc.",17/05/2020 15:31,17/05/2026 15:31
+8f6875b2-a47e-4f58-9063-ddf771a6a917,realized.ryukyu,available,22.98,,75,12,8,namecheap,,
 8f6c55aa-c29d-46b4-ba75-9dd4861aa4f9,jacket.shop,premium,1250,,76,10,6,name.com,,
 8f7713cd-f480-4976-ae54-1ba004869a95,cone.ryukyu,available,22.98,,63,16,4,namecheap,,
 8f88fa7a-9adf-4474-8771-191ec14676e3,focus.group,resell,,,82,43,5,Porkbun LLC,10/06/2016 16:32,10/06/2026 16:32
@@ -1349,11 +1376,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 91cadbc4-6cab-45e9-986b-7e77cebcccb8,wonder.place,resell,,,86,45,6,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 91faee33-7fcd-49c6-8c01-545cb1adeb92,brownie.xyz,resell,,,80,14,7,West263 International Limited,08/03/2020 03:39,08/03/2027 23:59
 920d012c-2433-4d11-ad82-cbfe8368a072,thing.directory,resell,,,84,28,5,"Sav.com, LLC - 37",16/10/2025 15:15,16/10/2026 15:15
+92700db2-ae78-4b28-ad65-7d9a6de9c542,smart.ryukyu,available,22.98,,74,56,5,namecheap,,
 929a96b5-56b2-46dc-bca1-eb028745c37a,continuous.ryukyu,available,22.98,,76,16,10,namecheap,,
 92a781de-c7a2-40b1-90f6-6ccc7cc6ed8a,market.holdings,resell,,,74,42,6,"Spaceship, Inc.",17/02/2026 17:03,17/02/2027 17:03
 92b40600-337e-4714-9f13-2c85369649bc,elite.group,resell,,,76,43,5,Porkbun LLC,05/06/2016 16:00,05/06/2026 16:00
 92d53bb0-e6e5-423d-84d1-bc291b3799d3,guard.services,resell,,,68,23,5,"Sav.com, LLC - 25",05/02/2026 15:15,05/02/2027 15:15
 92e6d870-21fa-42d3-b67b-04592c985c00,career.shop,premium,1250,,84,28,6,name.com,,
+93007ebf-2ba9-4831-aeda-08dba4d25b07,middle.ryukyu,available,22.98,,84,22,6,namecheap,,
 93289f90-9eef-4ea6-962d-ac555cbf8041,wear.ryukyu,available,22.98,,70,20,4,namecheap,,
 936ee53b-d218-4d09-aacd-f3d48a6fd454,prochoice.ryukyu,available,22.98,,70,4,10,namecheap,,
 937a491e-b90f-4024-b8db-0816236b6022,destroyed.eu,premium,4093.63,,56,4,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,
@@ -1403,7 +1432,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 98ce8db3-1a80-4f74-9d7e-bbd61370f7ed,world.you,premium,88836.32,,90,51,5,"Dynadot, LLC",10/10/2025 03:10,10/10/2026 03:10
 98f21a6f-d07b-41c3-89dd-1a23889b0fc2,asteroid.ninja,available,9.99,,70,19,8,name.com,,
 99031f01-d2d3-41bb-a961-97ae464c3fb8,door.ryukyu,available,22.98,,82,26,4,namecheap,,
-991205b0-aa42-490a-8655-bd90261546dc,branded.today,resell,,,72,25,7,"Sav.com, LLC - 38",25/02/2026 15:15,25/02/2027 15:15
+991205b0-aa42-490a-8655-bd90261546dc,branded.today,resell,,,72,24,7,"Sav.com, LLC - 38",25/02/2026 15:15,25/02/2027 15:15
 992f949b-c2a0-4c63-bd10-a7a65c23e465,harmony.yachts,resell,,,83,39,7,Dynadot LLC,14/09/2025 18:50,14/09/2026 23:59
 9941d7b3-5c25-452d-ace0-f60e5e191f9f,separate.ryukyu,available,22.98,,70,7,8,namecheap,,
 99746399-3a70-4a14-a805-12b75b1d8e81,angel.solutions,resell,,,88,41,5,Porkbun LLC,12/06/2016 12:02,12/06/2026 12:02
@@ -1432,6 +1461,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 9c1191c6-1341-4b60-b437-351e68e11cbb,pink.shop,premium,1250,,79,32,4,name.com,,
 9c14772a-6844-44c5-9d7f-7f5172886442,just.chat,resell,,,90,48,4,Porkbun LLC,06/08/2016 11:07,06/08/2026 11:07
 9c14a8f8-6482-4f99-af42-5783168c8b22,first.solutions,resell,,,80,41,5,Porkbun LLC,03/06/2018 22:37,03/06/2026 22:37
+9c17f693-cc9c-487e-b06a-7df0462ae5c6,commons.ryukyu,available,22.98,,63,29,7,namecheap,,
 9c2d96ad-b590-4037-9767-fde85cc5d475,pain.mobile,premium,375,,72,28,4,name.com,,
 9c372517-4bae-401a-9757-1ddb734891fd,detoxify.shop,premium,625,,74,6,8,name.com,,
 9c59ddee-210a-4e9d-87ce-bf6d18061303,lightly.ryukyu,available,22.98,,64,9,7,namecheap,,
@@ -1459,6 +1489,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 9e524cad-18c6-42b8-9e20-88bc5ae016bd,max.solutions,resell,,,70,55,3,Porkbun LLC,07/12/2019 15:20,07/12/2026 15:20
 9e5bcbd8-9375-4228-bedd-38a552cd154b,prolife.ryukyu,available,22.98,,70,17,8,namecheap,,
 9e5ff70c-03b0-433e-b1b3-64f79f155dad,anymore.ryukyu,available,22.98,,66,6,7,namecheap,,
+9e7fbb3a-a7ca-4ae0-8c6e-7cc4631c2893,corporate.gift,resell,,,83,31,9,"Global Domains International, Inc.",13/11/2017 15:14,13/11/2026 15:14
 9e957839-cbf4-4bc5-a3da-fb9bbe774542,stuff.shop,premium,3125,,82,26,5,name.com,,
 9e99d166-50ec-4b3c-8224-daa802a01bf5,clarity.academy,resell,,,76,47,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/02/2026 15:15,14/02/2027 15:15
 9eaedbe3-6d00-4811-ae2a-11cfaecc1d70,awfully.ryukyu,available,22.98,,62,2,7,namecheap,,
@@ -1506,7 +1537,7 @@ a28caa1a-864b-4e29-a8ba-ae19b6ef095e,romance.shop,premium,6250,,81,22,7,name.com
 a297387b-a45b-418f-a261-05f491219875,strong.shop,resell,,,72,29,6,"INAMES CO., LTD.",26/09/2016 15:00,26/09/2026 23:59
 a2afea54-d7b7-4ada-82fc-7128140ec87d,form.tv,resell,,,74,40,4,Dynadot Inc,19/07/2013 08:04,19/07/2026 08:04
 a2d74579-dc62-4811-89bf-a777f00dad9b,donut.quest,resell,,,80,28,5,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59
-a2e9e9dd-ecbb-4ec1-bebc-4818cec33ed5,check.domains,resell,,,76,38,5,Porkbun LLC,27/05/2016 04:07,27/05/2026 04:07
+a2e9e9dd-ecbb-4ec1-bebc-4818cec33ed5,check.domains,resell,,,76,37,5,Porkbun LLC,27/05/2016 04:07,27/05/2026 04:07
 a2ed3158-c40c-4856-b982-f01e5b53aee4,granny.mobile,premium,375,,86,14,6,name.com,,
 a2f21e7f-4ce4-472d-a6fd-0d3964a9b39a,slight.shop,resell,,,64,7,6,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",06/06/2025 01:11,06/06/2026 23:59
 a2f4c65e-c817-44b4-b5a7-bbbed298b10a,remote.vc,resell,,,76,39,6,"GMO Internet Group, Inc. d/b/a Onamae.com",17/12/2013 00:59,17/12/2026 00:59
@@ -1516,7 +1547,7 @@ a391e96f-c238-4166-bf62-637d23fcd56e,identifier.xyz,resell,,,78,5,10,West263 Int
 a3975b9d-a8f2-4b31-b52e-cf9df4da29d2,golfclub.mobile,premium,750,,80,11,9,name.com,,
 a39ce697-e99b-461a-b4b2-822a18529f7d,start.works,resell,,,82,46,5,Porkbun LLC,04/11/2020 08:10,04/11/2026 08:10
 a3b132ba-1d42-4dec-b16e-cae72ac59bbd,life.shop,premium,12500,,80,49,4,name.com,,
-a3c93dc8-6499-4898-bf62-2feaecc3178b,continued.shop,premium,2500,,76,6,9,name.com,,
+a3c93dc8-6499-4898-bf62-2feaecc3178b,continued.shop,premium,2500,,76,5,9,name.com,,
 a3efbb70-0669-46c8-9b4b-2224f5de486c,awesome.markets,resell,,,84,44,7,Porkbun LLC,19/12/2025 19:47,19/12/2026 19:47
 a3f76e1e-b362-4ff2-b016-97940b5eea93,future.care,resell,,,80,55,6,Porkbun LLC,11/11/2016 08:31,11/11/2026 08:31
 a4043eab-6314-46db-a1b9-84a5e05dbebb,inside.shop,premium,1250,,78,31,6,name.com,,
@@ -1524,7 +1555,7 @@ a40e987d-9a21-46b2-94cf-f470086c946f,pub.mobile,premium,750,,76,28,3,name.com,,
 a43e2968-f166-4415-b817-928eeae3947c,newyork.xyz,resell,,,82,40,8,"Global Domains International, Inc.",02/12/2021 18:21,02/12/2026 23:59
 a455b7bc-1310-401d-8aa0-8408a26297a4,clean.care,resell,,,90,38,5,Porkbun LLC,31/10/2016 23:08,31/10/2026 23:08
 a469d75a-4f0c-4958-8fc4-4be665601a43,wet.info,resell,,,84,23,3,"GoDaddy.com, LLC",10/08/2001 03:42,10/08/2027 03:42
-a46d55cc-9991-476b-bdc5-096a14a83eb3,green.coffee,resell,,,84,45,5,Porkbun LLC,19/07/2015 16:00,19/07/2026 16:00
+a46d55cc-9991-476b-bdc5-096a14a83eb3,green.coffee,resell,,,84,44,5,Porkbun LLC,19/07/2015 16:00,19/07/2026 16:00
 a49976e4-c27b-43b9-b10f-4a5f7dee168d,make.pw,premium,29612.5,,82,47,4,PDR Ltd. d/b/a PublicDomainRegistry.com,23/03/2013 09:26,26/04/2031 23:59
 a4b9a3ec-1c32-4cfa-b94d-19cd73d1176e,impress.engineer,available,13.99,,86,19,7,name.com,,
 a50f99cd-21f7-4fa6-a40d-92e3b5b8703b,bluish.shop,available,2.99,,72,6,6,name.com,,
@@ -1535,6 +1566,7 @@ a5767dca-2a0b-4af0-9f49-7e7d394de5bb,bold.ryukyu,available,22.98,,72,38,4,namech
 a58ce20b-36de-4e92-b0a7-78c0f915967d,chime.shop,premium,625,,76,37,5,name.com,,
 a5d5586d-2eb8-40bd-8df4-69de8397515c,weed.money,resell,,,64,37,4,"Spaceship, Inc.",26/11/2025 03:17,26/11/2026 03:17
 a5decb87-6e82-498f-9b73-ff36c91ea9d6,smell.shop,premium,2500,,72,13,5,name.com,,
+a60331b1-6184-4865-9a81-22e9e7c68239,coming.shop,premium,625,,88,13,6,name.com,,
 a6059504-5057-4fb3-bdcf-5768c0a25f8e,setup.bot,resell,,,76,30,6,"Spaceship, Inc.",28/01/2026 09:39,28/01/2027 09:39
 a61ead5e-cea7-4a51-83fb-d1cd1e388b49,decay.today,available,2.99,,62,12,5,name.com,,
 a63b9791-8a80-482e-abe1-ac275ab7008f,engineer.to,resell,,,82,25,8,"Spaceship, Inc.",23/02/2026 10:14,23/02/2027 10:14
@@ -1553,6 +1585,7 @@ a7e948ed-fd78-4445-ace4-e75fef1681aa,gift.football,resell,,,82,36,4,"GoDaddy.com
 a812c217-1450-4037-b573-89bb3d117253,sensation.ryukyu,available,22.98,,78,7,9,namecheap,,
 a8190c2a-0075-4aeb-aac1-4854d2130656,bite.dog,resell,,,74,25,4,"GoDaddy.com, LLC",07/02/2021 14:11,07/02/2027 14:11
 a8616fcc-5882-466e-8af3-0ed8b9291483,limit.trade,resell,,,76,19,5,Dynadot Inc,12/06/2025 16:45,12/06/2026 16:45
+a88beb65-c566-41f3-9c90-0592c93ffb05,communist.ryukyu,available,22.98,,68,10,9,namecheap,,
 a8a9450f-a83e-4f26-a57d-8b01158b84ef,sum.ryukyu,available,22.98,,66,26,3,namecheap,,
 a8c18262-191b-4a78-bc7c-752241a68f13,matisse.mobile,available,26.98,,80,8,7,namecheap,,
 a8c7e5a1-d69f-464b-829a-466d5f706816,exception.xyz,resell,,,80,12,9,West263 International Limited,25/05/2018 17:42,25/05/2027 23:59
@@ -1569,8 +1602,10 @@ a9c1d5fd-4529-4a0a-992e-7a0d655b8744,noon.mobile,premium,375,,72,28,4,name.com,,
 aa070cad-1c54-4773-a982-f58e8cd4bc05,christ.shop,premium,1250,,86,28,6,name.com,,
 aa3cbf69-3f29-4203-b2f9-d050425933a8,complex.name,available,9.98,,79,25,7,namecheap,,
 aa4e5330-dfb0-4d73-a138-e12615cfa828,job.watch,resell,,,76,40,3,Porkbun LLC,07/10/2016 08:01,07/10/2026 08:01
+aa61c638-5925-45e4-bd9e-4515dfc97e8b,communal.ryukyu,available,22.98,,70,13,8,namecheap,,
 aa6a028a-4cea-4f8c-976e-177b66f302cd,leaving.ryukyu,available,22.98,,76,6,7,namecheap,,
 aa6dc963-08a6-434e-b60a-7f4e30b04690,radio.shop,premium,12500,,84,42,5,name.com,,
+aa6df277-5261-415f-859f-fa7a1320854a,shiny.marketing,resell,,,76,33,5,"Sav.com, LLC - 10",06/02/2026 15:15,06/02/2027 15:15
 aa9662dc-6bb6-41b8-aaba-ee041155b03f,skilled.shop,premium,1250,,74,15,7,name.com,,
 aaa6d04c-acfd-4bdc-a8f2-491cf8b5b087,code.place,resell,,,72,61,4,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 ab036f12-8061-40a7-b584-36b41d417576,entertain.mobile,premium,750,,78,11,9,name.com,,
@@ -1582,6 +1617,7 @@ abbc3418-4411-414b-9b1e-36a784811e77,afternoon.ryukyu,available,22.98,,84,12,9,n
 abc5b182-ae83-4b1e-aee0-65253ed31258,dinosaur.social,resell,,,79,23,8,"Spaceship, Inc.",13/02/2026 17:02,13/02/2027 17:02
 abcca385-8b52-44c2-9317-2bbdeba24def,cinnamon.xyz,resell,,,72,18,8,West263 International Limited,22/02/2020 03:52,22/02/2027 23:59
 abf6f430-fbad-4bdf-ac8d-0a3f163aa028,moderation.shop,resell,,,74,11,10,Dynadot Inc.,05/04/2026 01:17,05/04/2027 23:59
+ac1f0e4d-fc8f-4803-9f2d-fabc24117f9c,pack.health,resell,,,82,30,4,Dynadot Inc,12/02/2026 00:01,12/02/2027 00:01
 ac36417c-6802-42f5-af21-77bfbba2e803,credit.land,resell,,,66,35,6,Porkbun LLC,21/10/2016 09:01,21/10/2026 09:01
 ac36f523-037d-4c2c-955d-f9d1c4e0d8f5,real.coach,resell,,,78,49,4,Porkbun LLC,25/05/2020 16:30,25/05/2026 16:30
 ac3fc62f-285b-4038-b1d8-3849870b128d,division.shop,premium,312.5,,70,18,8,name.com,,
@@ -1609,9 +1645,10 @@ af4c1b61-bc4d-480c-b364-3d46fa205d74,arabic.foundation,resell,,,82,21,6,Dynadot 
 af516ba6-6185-44aa-9955-93adbdc945a1,chain.ryukyu,available,22.98,,64,35,5,namecheap,,
 af852e47-233f-4b69-b863-d2ed9b9f9142,critique.xyz,resell,,,70,12,8,West263 International Limited,12/05/2019 09:26,12/05/2027 23:59
 aff80d12-a6d8-4cd6-b30a-69ec13ec10a5,dynamic.group,resell,,,80,34,7,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
-b04c10fe-5796-4337-ab65-451f67a579dd,eye.glass,resell,,,66,33,3,"Global Domains International, Inc. DBA DomainCostClub.com",19/10/2025 15:15,19/10/2026 15:15
+b04c10fe-5796-4337-ab65-451f67a579dd,eye.glass,resell,,,66,32,3,"Global Domains International, Inc. DBA DomainCostClub.com",19/10/2025 15:15,19/10/2026 15:15
 b070690f-37ee-493c-96e0-7b752e64b654,industry.report,resell,,,72,61,8,Porkbun LLC,25/02/2017 00:49,25/02/2027 00:49
 b0a23e00-5109-495b-99b7-c7a238a6c0ac,rice.bio,resell,,,80,28,4,"Spaceship, Inc.",02/02/2026 17:02,02/02/2027 17:02
+b0a7de4b-155a-4a27-9727-c4c82d531619,pity.ryukyu,available,22.98,,74,7,4,namecheap,,
 b0cc781d-4d20-4295-ac64-a331cc984481,gross.ryukyu,available,22.98,,64,26,5,namecheap,,
 b0cd7d40-048c-446b-82c6-2cf5ab0c6f02,billion.games,resell,,,82,22,7,"Sav.com, LLC",03/12/2024 09:25,03/12/2026 09:25
 b0d22e97-dc7b-466e-a4b6-9130903d2a79,odd.vip,resell,,,72,32,3,Dynadot Inc,22/11/2016 16:59,22/11/2028 16:59
@@ -1741,11 +1778,12 @@ be76711b-968f-4e24-ab80-2d3cf73fa6a1,animate.ryukyu,available,22.98,,74,17,7,nam
 be9d24cf-abf2-4595-8b70-8244cbb3361e,gram.digital,resell,,,62,26,4,Porkbun LLC,19/07/2020 08:15,19/07/2026 08:15
 be9ff6a8-5f56-4474-a246-1e069a2f6bfe,look.shop,premium,1250,,80,33,4,name.com,,
 beb18af2-847a-47b7-b830-b9685ac74afa,barn.ryukyu,available,22.98,,76,17,4,namecheap,,
-bebffa8c-4b8a-4294-bc24-2b5a46695508,quality.group,resell,,,78,34,7,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
+bebffa8c-4b8a-4294-bc24-2b5a46695508,quality.group,resell,,,78,35,7,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
 becb01cb-32ed-4057-9da6-341eb4e55a38,define.shop,premium,625,,78,21,6,name.com,,
 bed86ba1-c14f-44c1-9706-31e286042388,diligence.ryukyu,available,22.98,,77,15,9,namecheap,,
 bede1073-b81c-4eec-a569-9aefd9895061,gang.pro,resell,,,68,17,4,Dynadot12 LLC,11/09/2020 14:30,11/09/2027 14:30
 bee5b4ba-cba0-4d98-95fc-cbfb5f1f752a,located.shop,premium,6250,,62,7,7,name.com,,
+bf082a58-be4f-483c-8bdc-9a5d54083095,wanted.ryukyu,available,22.98,,70,23,6,namecheap,,
 bf23222c-09cf-489f-95b6-49de1bf5dc1a,immense.shop,resell,,,76,8,7,ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED,18/07/2024 00:36,18/07/2026 23:59
 bf232bf1-a15d-4627-a110-fcd28bf224c0,heartthrob.mobile,available,26.98,,80,5,10,namecheap,,
 bf5b6a32-f617-4b29-a1a6-f9d5564b013c,reverse.ryukyu,available,22.98,,74,28,7,namecheap,,
@@ -1754,6 +1792,7 @@ bf74996d-71f9-4a19-8c4d-98892313282b,arch.bio,resell,,,64,37,4,"Global Domains I
 bf92f701-70d7-41ac-a3ba-290d1891dc5b,condo.ryukyu,available,22.98,,70,25,5,namecheap,,
 bfca8c70-e93f-426b-a601-26336930de74,selfless.shop,premium,312.5,,74,11,8,name.com,,
 bfce41dd-b005-4b9a-ada9-9202e3d644fd,irregular.eu,premium,4777.09,,68,10,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,
+bfdbadca-45c9-4434-a9f3-54e4bc6c0741,near.ryukyu,available,22.98,,66,37,4,namecheap,,
 bffd7178-4871-47d3-b7b2-edd7aa260ed4,bootleg.ryukyu,available,22.98,,68,11,7,namecheap,,
 c00929d2-05a8-4251-9fd2-3465a6cdb7bb,challenge.rent,resell,,,72,25,9,"Go Daddy, LLC",22/01/2026 16:59,22/01/2027 23:59
 c0396610-97b0-460b-8ba8-2909a413e097,dollar.lease,resell,,,70,30,6,"Sav.com, LLC",01/10/2025 09:36,01/10/2026 09:36
@@ -1775,6 +1814,7 @@ c23f91e9-7838-4e5e-9080-e6fcf9fda895,thing.video,premium,69.3,138.6,84,28,5,name
 c25b4721-5d41-4af9-a2ab-c8a581a02d6b,data.forsale,resell,,,84,56,4,Porkbun LLC,07/09/2018 12:23,07/09/2026 12:23
 c260b927-31c7-422d-8a30-a1eec436958f,unmatched.shop,premium,625,,72,10,9,name.com,,
 c26f36fc-1add-40ac-8d1d-71d7a00719fe,complain.ryukyu,available,22.98,,69,11,8,namecheap,,
+c27e3626-2379-4711-8925-312ccb855a4e,finale.shop,premium,750,,76,12,6,name.com,,
 c280bf4b-498f-4495-bd19-eb3e6489e5da,arch.works,resell,,,64,37,4,Porkbun LLC,17/11/2019 15:32,17/11/2026 15:32
 c2a1586e-69f9-4af4-8f3c-6fc2e1e8522b,glitter.pro,resell,,,78,17,7,"Chengdu West Dimension Digital Technology Co., Ltd.",22/10/2020 14:30,22/10/2027 14:30
 c2c60e19-7db6-4289-9a98-62606ad1d0c9,fresh.care,resell,,,78,38,5,Porkbun LLC,05/06/2017 15:25,05/06/2026 15:25
@@ -1821,7 +1861,7 @@ c60396e0-3255-4dfb-bb73-84e96619cb5c,aromatic.info,premium,1999.44,,82,8,8,Domai
 c613d543-ab31-4fe1-b6b9-c79b98e7b483,breezy.ryukyu,available,22.98,,76,22,6,namecheap,,
 c615f055-9ef9-4bad-bdc0-7500cbe4a1eb,three.work,resell,,,88,27,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/08/2023 00:00,06/08/2026 00:00
 c6198e31-e06a-4622-9ed3-6b03038f511a,foreman.live,resell,,,62,13,7,"GoDaddy.com, LLC",20/05/2025 13:16,20/05/2026 13:16
-c62c3e24-b41c-4982-a41a-7a51630f68a3,pack.mobi,resell,,,82,32,4,"Spaceship, Inc.",07/11/2025 23:04,07/11/2026 23:04
+c62c3e24-b41c-4982-a41a-7a51630f68a3,pack.mobi,resell,,,82,30,4,"Spaceship, Inc.",07/11/2025 23:04,07/11/2026 23:04
 c63b6928-4296-45a9-bda7-6be992ac6876,ike.vc,resell,,,78,21,3,"humbly, LLC",17/12/2022 14:19,17/12/2026 14:19
 c65a33be-c3ab-4a44-968b-a2244cbc9a2f,slot.rest,resell,,,72,33,4,GoDaddy,01/02/2026 02:59,01/02/2027 02:59
 c670ca03-23ea-40ac-a786-2107f3d6420e,tornado.xyz,resell,,,64,22,7,Dynadot LLC,18/08/2017 13:43,18/08/2029 23:59
@@ -1832,7 +1872,7 @@ c6b5c792-5e09-4414-bbd8-82ec22c2767a,passionate.com,resell,,,78,12,10,Tucows Dom
 c6e38df7-2c4b-48ac-b775-204579595a91,fit.solar,resell,,,88,41,3,"Sav.com, LLC - 43",16/10/2025 15:15,16/10/2026 15:15
 c7619a23-5586-4179-85a3-09886a5a5b1d,currency.ryukyu,available,22.98,,78,27,8,namecheap,,
 c7a743aa-3a55-4556-a041-28eb34634d93,seoul.shop,premium,6250,,74,24,5,name.com,,
-c7b21eeb-8360-4331-9e74-edfc04b3f247,green.services,resell,,,84,45,5,Porkbun LLC,10/09/2017 10:12,10/09/2026 10:12
+c7b21eeb-8360-4331-9e74-edfc04b3f247,green.services,resell,,,84,44,5,Porkbun LLC,10/09/2017 10:12,10/09/2026 10:12
 c7d28b17-afdd-465e-b19a-3dd967a37d6c,due.ryukyu,available,22.98,,72,16,3,namecheap,,
 c8293c5a-7b11-4fa6-a1df-ec4e0e4fdd88,tender.ryukyu,available,22.98,,80,26,6,namecheap,,
 c83a5f5b-1b5d-474a-96eb-40eda991313c,loyal.ryukyu,available,22.98,,76,25,5,namecheap,,
@@ -1870,12 +1910,13 @@ cbdda339-1bd7-4bb6-ade7-5bb637df82c5,shared.care,resell,,,70,39,6,Porkbun LLC,19
 cbe89211-f604-41c6-a688-585633d345a4,crash.pro,resell,,,66,32,5,Dynadot Inc,15/06/2018 10:08,15/06/2027 10:08
 cbee72ca-90b8-4c0e-9d0e-eaafdde83ab1,durable.new,available,549.99,,76,18,7,name.com,,
 cbf37bdc-b135-44c6-9905-8caf16242464,global.house,resell,,,86,51,6,Porkbun LLC,05/08/2015 16:45,05/08/2026 16:45
+cbff85c0-18a4-4a12-8bf9-aa05e67b63a0,compact.ryukyu,available,22.98,,83,17,7,namecheap,,
 cc0acef1-34e6-4945-9210-7e684cf49fdb,jack.ryukyu,available,22.98,,76,43,4,namecheap,,
 cc0b428e-f8c3-4bb2-b5dc-e2bf969b297b,capitalism.xyz,resell,,,72,13,10,West263 International Limited,08/06/2019 01:54,08/06/2027 23:59
 cc1243cd-199c-4bd2-a92a-f2c7a97e7101,amount.ryukyu,available,22.98,,84,10,6,namecheap,,
 cc36fc17-bc2f-4d3f-842a-f61a3cde645b,star.ryukyu,available,22.98,,74,43,4,namecheap,,
 cc4c4f9e-8c48-49ac-8c09-85b4c3120740,rewarding.ryukyu,available,22.98,,75,7,9,namecheap,,
-cc6f3fc9-ef13-49ae-a80c-2ec45b3a619c,corporate.services,resell,,,83,32,9,Porkbun LLC,24/06/2015 16:00,24/06/2026 16:00
+cc6f3fc9-ef13-49ae-a80c-2ec45b3a619c,corporate.services,resell,,,83,31,9,Porkbun LLC,24/06/2015 16:00,24/06/2026 16:00
 cc80c0dc-8b18-4cb2-8133-e94fc502df36,built.chat,resell,,,89,23,5,"GoDaddy.com, LLC",18/01/2025 05:34,18/01/2027 05:34
 cca492ab-c70b-41ec-923d-16c451dcab7a,armed.shop,premium,750,,70,10,5,name.com,,
 cca8e57d-c5e7-45d9-ba7d-edcc1ae46620,gym.ryukyu,available,22.98,,87,26,3,namecheap,,
@@ -1917,6 +1958,7 @@ d09f9efc-735c-4a63-9c0b-e79876f5bc15,shiny.you,resell,,,76,33,5,"Spaceship, Inc.
 d0a99d99-e1d0-4499-8a50-57f455121868,check.fast,resell,,,76,38,5,"Spaceship, Inc.",08/10/2025 14:58,08/10/2026 14:58
 d0c05990-ec6f-493e-a0fa-e45de06a6c7b,coral.ryukyu,available,22.98,,68,34,5,namecheap,,
 d0c3c807-22ed-4d5c-8ac7-302fde3757ed,vocal.fitness,resell,,,76,17,5,"GoDaddy.com, LLC",21/05/2017 18:05,21/05/2026 18:05
+d0c5e7e7-b4f2-421a-a530-b750850551aa,defend.ryukyu,available,22.98,,76,20,6,namecheap,,
 d0d600ae-d765-4f5f-8944-7165e83d1a3d,torch.eu,premium,17062.72,,80,27,5,Name: NETIM Website: https://www.netim.com/,,
 d0f2790f-2cc5-4274-b5dd-a0628a911417,set.ryukyu,available,22.98,,88,31,3,namecheap,,
 d1057cd6-bfc0-4859-88e2-87534c1e6ac0,intend.ryukyu,available,22.98,,76,7,6,namecheap,,
@@ -1991,6 +2033,7 @@ d8e42f0e-527d-409e-8410-9af8067c614a,responsive.ryukyu,available,22.98,,82,18,10
 d8e96acf-1ccd-4a09-8874-bb6a5f6adbb5,jacobs.ryukyu,available,22.98,,70,25,6,namecheap,,
 d8f04acc-fa0e-4fa8-b425-23238be77aec,wobbly.shop,premium,625,,65,8,6,name.com,,
 d905ef00-6abb-4919-b8cc-53d7a720a8e7,highway.mobile,premium,750,,68,20,7,name.com,,
+d92c70e9-d8d6-4b6b-b7c2-26aa2fb97cc1,realised.ryukyu,available,22.98,,75,4,8,namecheap,,
 d92db233-78ea-403d-89eb-5be3d251ec53,research.enterprises,resell,,,78,39,8,"Global Domains International, Inc. DBA DomainCostClub.com",23/11/2025 15:15,23/11/2026 15:15
 d9360aa0-b733-4fb1-b9bb-94a16f68c786,real.training,resell,,,78,49,4,"Global Domains International, Inc. DBA DomainCostClub.com",26/11/2025 15:15,26/11/2026 15:15
 d963259a-d8d4-4e17-9a11-f958252ba63e,resort.mobile,premium,375,,80,22,6,name.com,,
@@ -2031,6 +2074,7 @@ dbdc7886-7eac-4c92-a75a-991e234007d7,median.shop,premium,625,,76,12,6,name.com,,
 dbe2ee81-7253-41b9-9237-c1d060bed6ce,dramatic.ryukyu,available,22.98,,72,9,8,namecheap,,
 dbef6880-95cd-479b-9328-155a4faba0c7,stick.ryukyu,available,22.98,,70,18,5,namecheap,,
 dc0a9cad-149a-4175-8a39-f18bcb264320,bot.coupons,resell,,,80,53,3,"Global Domains International, Inc. DBA DomainCostClub.com",24/10/2025 15:15,24/10/2026 15:15
+dc4f58fd-cad8-4117-9078-7f0f0efa7a1d,christian.shop,premium,625,,78,39,9,name.com,,
 dc9d0c58-276c-477e-9a8c-0adb1d7736ad,invaluable.ryukyu,available,24.99,,79,16,10,name.com,,
 dca2a0b8-021e-4161-adfa-4ca302da8355,biology.network,resell,,,74,19,7,"Sav.com, LLC - 37",16/10/2025 15:15,16/10/2026 15:15
 dcadfc0f-a4e2-4ebe-9cce-febef53b3f90,public.shop,premium,1250,,80,38,6,name.com,,
@@ -2064,6 +2108,7 @@ df115a80-e598-47a9-bd2e-0ed7d99d123a,roasted.ryukyu,available,22.98,,69,11,7,nam
 df3f5b76-6413-4173-8b73-7f5cf02a6397,slacking.mobile,available,26.98,,62,4,8,namecheap,,
 df845020-8ded-42b0-a8d5-d1b8d0c1e306,inspire.shop,premium,3125,,86,41,7,name.com,,
 dfb1393f-f742-406d-a35c-fd36bd3a15db,antique.shop,premium,1250,,72,18,7,name.com,,
+dfbf74fa-a5cd-44ec-9fad-6fa7228340b6,clever.io,resell,,,74,38,6,"GoDaddy.com, LLC",21/03/2010 23:07,21/03/2027 23:07
 dfeb8ab8-575f-4c25-8605-712eba5e9eea,dining.ryukyu,available,22.98,,81,14,6,namecheap,,
 e0097061-300b-4aa0-9bdc-6c71216ade30,wellbeing.xyz,resell,,,78,28,9,West263 International Limited,12/11/2017 07:18,12/11/2029 23:59
 e01cb5b6-aa16-4aa8-808a-091a899b7c46,shock.xyz,resell,,,54,21,5,Dynadot LLC,08/09/2017 08:12,08/09/2030 23:59
@@ -2072,7 +2117,7 @@ e041cea7-9107-4794-b287-e5a1ebe2247e,protective.ryukyu,available,22.98,,79,11,10
 e0583365-a945-4027-8d2d-59781a647519,sleeping.shop,premium,6250,,76,12,8,name.com,,
 e05981d2-67a2-4e0f-9ca7-f2b82283b069,delay.xyz,resell,,,62,13,5,West263 International Limited,10/06/2019 22:12,10/06/2027 23:59
 e065984c-20fb-453e-8e68-a911897d4679,ecological.ryukyu,available,22.98,,78,11,10,namecheap,,
-e0974cef-6e6d-4154-b64e-b9fbad41d2a6,cheap.baby,resell,,,70,31,5,"Spaceship, Inc.",29/05/2025 17:24,29/05/2026 23:59
+e0974cef-6e6d-4154-b64e-b9fbad41d2a6,cheap.baby,resell,,,70,30,5,"Spaceship, Inc.",29/05/2025 17:24,29/05/2026 23:59
 e09b506f-ab3e-4111-9996-0f931469cf6e,genius.global,premium,3000,,84,45,6,name.com,,
 e0b862a5-7040-42a4-a088-c2239733ac70,terribly.ryukyu,available,22.98,,62,3,8,namecheap,,
 e0c97b3b-2c0f-40ae-9cdb-9d330eba4d30,metric.shop,premium,625,,72,36,6,name.com,,
@@ -2160,6 +2205,7 @@ e9d43789-e6fa-4505-a421-116cd1f92ec8,working.shop,premium,625,,80,22,7,name.com,
 ea14c419-36d4-44e3-82c2-2898d40fed6f,event.place,resell,,,78,44,5,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 ea70e3d9-6b67-4d02-9370-b851f6ca100c,cent.network,resell,,,74,14,4,"Sav.com, LLC",14/09/2025 13:32,14/09/2026 13:32
 ea7456f8-8a66-4df8-b58d-6e6367b3cca4,announce.mobile,premium,750,,76,11,8,name.com,,
+eab62e8f-2977-4586-a1cb-3c8dfa4c36be,competent.ryukyu,available,22.98,,77,9,9,namecheap,,
 eade4111-8276-4bfb-8316-a3a6356a74e8,genius.ryukyu,available,22.98,,84,45,6,namecheap,,
 eae8d378-6477-4933-a7dc-472956477344,awesome.bot,premium,23096.57,,84,45,7,"Spaceship, Inc.",30/10/2023 16:57,30/10/2026 16:57
 eb0b91ee-4b5c-41f2-8aa0-273bf01c5fca,bubble.expert,resell,,,76,35,6,"GoDaddy.com, LLC",03/02/2020 22:25,03/02/2027 22:25
@@ -2236,7 +2282,7 @@ f236baf4-74c3-40f6-b503-403419e0bd3e,dining.shop,premium,625,,81,14,6,name.com,,
 f25ac3cd-f137-432d-9542-1e0ee3ee683b,saucer.xyz,resell,,,78,8,6,West263 International Limited,16/12/2020 04:52,16/12/2027 23:59
 f27e48a6-e68e-4eff-a50b-3fa67eb3dc6b,pope.ryukyu,available,22.98,,70,20,4,namecheap,,
 f29de9d1-4419-4c39-a3b8-69a565e16bcd,gate.mobile,premium,1250,,72,33,4,name.com,,
-f2d19245-a998-464a-9b44-a1b4e9bc2150,center.solutions,resell,,,78,31,6,"Sav.com, LLC - 11",25/11/2025 15:15,25/11/2026 15:15
+f2d19245-a998-464a-9b44-a1b4e9bc2150,center.solutions,resell,,,78,30,6,"Sav.com, LLC - 11",25/11/2025 15:15,25/11/2026 15:15
 f2d98f55-de2f-4ce7-b2af-ba28700116b1,lowercase.ryukyu,available,22.98,,76,10,9,namecheap,,
 f2ff6f16-4fb5-47fa-bd21-1adb1d300236,wonderful.ltd,resell,,,84,32,9,"Global Domains International, Inc. DBA DomainCostClub.com",22/11/2025 15:15,22/11/2026 15:15
 f37ae5d6-d005-443e-ae7d-24e813e38706,hanger.mobile,premium,750,,60,10,6,name.com,,
@@ -2244,6 +2290,7 @@ f3856975-cc0c-4c67-bdd1-419955a13ef8,depress.xyz,resell,,,66,5,7,Dynadot LLC,27/
 f394b726-2d9a-4686-be0f-93a6f5f5629b,one.storage,available,799,,84,50,3,name.com,,
 f3a63304-e49e-4960-a487-2ebe69edb5a2,rise.ryukyu,available,22.98,,62,44,4,namecheap,,
 f3c8080a-10c1-4bec-a354-e8715ffb3016,out.shop,premium,3125,,74,30,3,name.com,,
+f3fae522-a0d3-437f-aceb-bd66f11aa82e,exchange.ryukyu,available,22.98,,84,31,8,namecheap,,
 f432a8cf-7093-42b4-9a27-a9a0cd98b6e3,convincing.shop,available,2.99,,80,4,10,name.com,,
 f495f669-8f02-4519-b6f4-bb5d7462dc71,allied.shop,premium,1250,,74,23,6,name.com,,
 f4ac6011-ab8a-4805-b09f-a8621662e2bb,digital.clinic,resell,,,86,50,7,Porkbun LLC,22/05/2020 08:29,22/05/2026 08:29
@@ -2258,6 +2305,7 @@ f584001d-d34f-4fd8-bb1f-7c3a399b584e,conducting.ryukyu,available,22.98,,72,5,10,
 f589925f-7592-46bf-86f7-7ed2d19e7360,urban.place,resell,,,68,35,5,Porkbun LLC,01/06/2020 18:24,01/06/2026 18:24
 f59e339f-bb6e-4f84-8a74-a2af73eaed5b,memory.finance,resell,,,74,42,6,Dynadot Inc,29/05/2025 11:45,29/05/2026 11:45
 f5a2d867-b6a8-40d2-be7d-35d3fc31bfe4,damned.ryukyu,available,22.98,,60,7,6,namecheap,,
+f628183a-f5ff-4db3-97c5-3be6124ef771,caring.run,resell,,,88,18,6,Dynadot Inc,19/02/2026 17:00,19/02/2027 17:00
 f66916c9-9006-4579-b1c2-0569cfd475bb,ago.eu,premium,36066.84,,66,18,3,name.com,,
 f699b15e-2bd6-4225-b790-1c33cd40aba2,prior.shop,premium,625,,68,22,5,name.com,,
 f6d09193-f652-4c03-844d-42c612610885,core.group,resell,,,68,50,4,Porkbun LLC,23/08/2017 08:15,23/08/2026 08:15
@@ -2291,7 +2339,7 @@ f9b9b611-6ee2-47f8-bbd6-450aa01be4bc,cleaver.xyz,resell,,,56,8,7,West263 Interna
 f9d2580d-da38-4091-8950-e2da0b8d46e6,lookingat.ryukyu,available,22.98,,68,3,10,namecheap,,
 f9e9d004-4314-40b3-832a-98795c443d6e,inverse.ryukyu,available,22.98,,74,17,7,namecheap,,
 fa392175-de88-4c1c-a32b-2344e2e1aa44,way.show,resell,,,70,31,3,"Chengdu West Dimension Digital Technology Co., Ltd.",06/02/2018 07:11,06/02/2027 07:11
-fa4170b5-bf69-45b0-8ba9-c16438d43879,commercial.net,resell,,,81,26,10,"GoDaddy.com, LLC",25/04/1995 04:00,26/04/2027 04:00
+fa4170b5-bf69-45b0-8ba9-c16438d43879,commercial.net,resell,,,81,25,10,"GoDaddy.com, LLC",25/04/1995 04:00,26/04/2027 04:00
 fa72160c-52e8-4d60-a414-f8d5d7abc696,danger.xyz,resell,,,74,24,6,West263 International Limited,18/08/2018 08:15,18/08/2029 23:59
 faa50760-8de0-4f51-b3cb-046b0cedfb83,word.ryukyu,available,22.98,,80,37,4,namecheap,,
 faad41ce-ec75-49f4-b53e-08d095f58fe3,masses.mobile,available,26.98,,64,6,6,namecheap,,
@@ -2303,7 +2351,7 @@ fb626c84-2019-4cda-8df8-af02233abc10,lunar.ryukyu,available,22.98,,72,37,5,namec
 fb86caca-87ec-4b59-b47b-369bd51dbaa3,star.land,resell,,,74,43,4,Porkbun LLC,26/10/2017 00:07,26/10/2026 00:07
 fb9f9d14-7530-47fb-bc9c-b9b172407877,put.ryukyu,available,22.98,,78,20,3,namecheap,,
 fba9352c-4898-4e1d-84a8-4af6759fb0e7,gaming.rent,resell,,,76,38,6,Namecheap,08/10/2025 21:30,08/10/2026 23:59
-fbb7304c-944f-42f3-be52-71bbbeedcf08,key.media,resell,,,80,43,3,Porkbun LLC,03/09/2019 16:36,03/09/2026 16:36
+fbb7304c-944f-42f3-be52-71bbbeedcf08,key.media,resell,,,80,42,3,Porkbun LLC,03/09/2019 16:36,03/09/2026 16:36
 fbb7dca8-d191-475b-8c3f-3b0493c45314,nourishing.ryukyu,available,22.98,,76,9,10,namecheap,,
 fbf7ed70-c014-46cc-9d4c-07ce4fff15b8,bone.ryukyu,available,22.98,,64,24,4,namecheap,,
 fc2f819d-64a0-4005-b15c-f0038d36af66,move.ryukyu,available,22.98,,78,42,4,namecheap,,
@@ -2316,8 +2364,10 @@ fd451910-264e-441c-bb40-45c543290de5,fashion.beer,available,43.98,,80,44,7,namec
 fd9b75c2-0234-41de-b3eb-ea3f828b72dd,urban.solutions,resell,,,68,35,5,Porkbun LLC,12/06/2016 07:58,12/06/2026 07:58
 fda91cca-daaa-44b3-8c6b-4de52da12693,havegot.mobile,available,26.98,,74,1,8,namecheap,,
 fdadce6f-9216-4470-8202-d061d3e7e7c7,spread.id,resell,,,74,23,6,PT Dewabisnis Digital Indonesia,19/06/2025 01:22,19/06/2026 23:59
+fdb5e636-a2db-459e-8039-1ab1eef2e853,chestnut.ryukyu,available,22.98,,64,13,8,namecheap,,
 fdbc4db1-2df5-4d50-914e-cd450dcb77e9,change.ryukyu,available,22.98,,82,40,6,namecheap,,
 fdbe1eb3-2783-4d6a-8380-956afe3fe54d,new.team,resell,,,74,49,3,Porkbun LLC,13/10/2017 23:17,13/10/2026 23:17
+fdd39b02-b9ff-48f5-9ee1-2fd3182c0f22,capital.academy,resell,,,78,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",20/11/2024 15:15,20/11/2026 15:15
 fe0e5961-15c7-46bd-9c56-50d12885be56,fortune.group,resell,,,72,48,7,Porkbun LLC,09/06/2016 10:52,09/06/2026 10:52
 fe6f83ce-be62-42ae-8027-b1cb47ffc8fc,covenant.ryukyu,available,22.98,,81,25,8,namecheap,,
 fe71a435-3db1-41c9-aa9a-c3a0f48827ce,sight.shop,premium,625,,86,20,5,name.com,,
@@ -2526,7 +2576,7 @@ a622ef82-7728-48da-97b0-23c6db090fba,miterbox.org,premium,,,56,76,9,,,
 26e564a2-4528-4c85-b6ec-7d0420e56c78,crosswordpuzzle.dentist,premium,,,72,2,16,,,
 425aa8b4-bf2d-4128-bd13-03f4e23738df,bizarre.stream,premium,,,74,13,7,,,
 7e080ecf-aaa8-4fcd-96c9-1a8ecae11da7,thankyoucard.chat,premium,,,,2,14,,,
-ec56921c-3e04-4119-985d-d4d752deb164,broadband.realty,premium,,,92,19,9,,,
+ec56921c-3e04-4119-985d-d4d752deb164,broadband.realty,premium,,,92,20,9,,,
 2d1f1210-9187-41a2-88c6-7e16041fc42d,fanletter.talk,premium,,,68,2,10,,,
 ff34d6ad-8702-48e2-a7fa-abd3445a4827,chance.doctor,premium,,,76,29,6,,,
 c51e6d8d-9f0d-4f2e-abaa-c03798fdc9dd,CommonwealthEnglish.site,premium,,,54,72,20,,,
@@ -2589,7 +2639,7 @@ a9223a64-0df6-4af3-80e3-8f4ed37ec8ef,GreaterAccra.io,premium,,,52,72,13,,,
 4921e646-3395-4246-86cd-66e1d9d2b8bb,sulphurous.taxi,premium,,,46,1,10,,,
 6b3c1f0e-2b7f-4237-b2c7-da2db0ee1413,exalt.tattoo,premium,,,78,9,5,,,
 ce142162-64b8-4802-a1a1-3a5ee3cfa66e,checklist.bond,premium,,,88,23,9,,,
-a9bc4e6f-7500-4a14-bfc4-a2a27b623635,scornful.asia,available,2.99,20.99,50,1,8,name.com,,
+a9bc4e6f-7500-4a14-bfc4-a2a27b623635,scornful.asia,available,2.99,20.99,50,2,8,name.com,,
 243c9571-27d4-499a-88f0-7bd676979c1e,ever.vote,premium,,,96,40,4,,,
 18ee7e58-fa43-464e-91e8-006361212c6f,rearward.lifestyle,premium,,,68,1,8,,,
 f01c004e-62bb-409a-95b3-3cd544da177e,guilt.paris,available,51.98,,68,7,5,namecheap,,
@@ -2647,7 +2697,7 @@ ee8d11fc-d094-46a9-a7eb-2108cd1eb02c,distant.xyz,resell,3448.85,20.99,64,14,7,"G
 49e2b0dc-53db-4428-9d17-e4fa5d50d07e,aid.phd,premium,,,66,27,3,,,
 23cd498c-404e-47bf-be5e-ff2d9c6cf2e0,elaborate.house,available,27.99,58.99,86,8,9,name.com,,
 40350b35-d99c-4e4f-b9b3-96f0492c9399,guidebooks.ninja,premium,,,46,20,10,,,
-dd5d0931-95aa-490c-a028-6d3f73ae1f0b,content.you,premium,1250,1250,138,40,7,name.com,,
+dd5d0931-95aa-490c-a028-6d3f73ae1f0b,content.you,premium,1250,1250,138,39,7,name.com,,
 1e6a78a3-368d-4b95-997a-6bc4ac8c6eff,thighgap.pro,premium,,,,20,9,,,
 798a4199-994a-4d97-abd6-cdce90539375,earlike.live,premium,,,60,1,8,,,
 05e520b3-8227-4591-a5ca-bf48dcd49e68,keytothecity.university,premium,,,74,3,15,,,
@@ -2769,10 +2819,10 @@ bd39a1b6-e1a2-4bff-aa2c-5f9bccb432df,enlarged.land,premium,,,66,2,8,,,
 6364b351-63cf-40c3-94d2-59132c34fb41,dynamize.site,premium,,,64,88,8,,,
 31028c83-869f-43d1-bd7b-e71bac21fc19,shape.schule,premium,,,102,33,5,,,
 5e971a20-4ee9-4b55-9e2c-4a1f38a56de2,profitmargin.desi,available,22.98,,66,2,13,namecheap,,
-a131acfb-1c03-45b4-9d89-3cd67edf4603,continuous.events,available,21.99,56.99,72,16,10,name.com,,
+a131acfb-1c03-45b4-9d89-3cd67edf4603,continuous.events,available,21.99,56.99,72,17,10,name.com,,
 1842003a-5249-4841-a7e0-9952e0730130,modeler.baby,premium,,,74,6,7,,,
 dfe90679-c439-4ce1-83fa-ce8ffcc5bdf9,bunny.mba,premium,,,76,38,5,,,
-e71ed13f-41e4-4033-a46d-cb274c611e4c,masterful.hockey,available,14.99,77.99,74,10,9,name.com,,
+e71ed13f-41e4-4033-a46d-cb274c611e4c,masterful.hockey,available,14.99,77.99,74,9,9,name.com,,
 013aae09-acb2-4c35-8921-e6fc487f843a,punch.catering,premium,,,87,26,5,,,
 996bd247-11e6-409d-b49d-d0757693112a,yummymummy.io,premium,,,62,80,11,,,
 caf82306-79b6-40ee-b836-a8fcd73c18d9,player.mortgage,premium,,,68,31,6,,,
@@ -2948,7 +2998,7 @@ aef42aae-4d53-40dd-a77a-776d9f98e92f,msg.education,premium,,,92,35,3,,,
 617dfe26-e958-4782-8c53-83a17e8c35f0,ninth.vet,premium,,,100,10,5,,,
 e1a5b159-dee2-412c-adb3-8037596bb1a5,lusaka.gg,premium,,,60,72,6,,,
 5285a0d1-db3c-4f8d-a620-9fc188036696,schoolbook.salon,premium,,,,4,11,,,
-5950c8e1-0f7a-46d2-a969-56d130817ccb,continuous.coffee,available,23.99,50.99,72,16,10,name.com,,
+5950c8e1-0f7a-46d2-a969-56d130817ccb,continuous.coffee,available,23.99,50.99,72,17,10,name.com,,
 2b63cf61-6493-48b9-be68-109f6821d1f2,windowseat.gmbh,premium,,,74,5,11,,,
 c82d7f0e-3bde-4b24-90b1-d54d85cd6085,orphan.florist,premium,,,100,10,6,,,
 88e53cfe-fe0e-4a37-bcd1-d40f33ab372e,atthemoment.pictures,premium,,,74,3,13,,,
@@ -2981,7 +3031,7 @@ f40d8ef2-ba35-4ed3-99de-4439ef271e42,whopping.menu,premium,,,78,1,8,,,
 65772875-dddc-4758-992c-d646392aec87,aching.quest,premium,,,72,4,6,,,
 52a3eaf3-01ed-4b8f-8251-eb3043b4963f,enwrapped.gifts,premium,,,58,1,9,,,
 ab5c2eb9-6c05-45df-a431-b7b3768abcbd,tues.gift,premium,,,70,9,4,,,
-4cda6fb8-e641-4368-9eaf-db04ee6b46f5,calm.ltda,premium,,,118,32,4,,,
+4cda6fb8-e641-4368-9eaf-db04ee6b46f5,calm.ltda,premium,,,118,33,4,,,
 70df77b4-ea3a-408c-9b2f-cddaa523a708,haiti.loans,premium,,,68,5,5,,,
 3b5dab1d-a8cc-43a8-9c09-2c67df0be999,accessary.loans,premium,,,66,1,9,,,
 2a7c914a-aa1d-4bb5-99d3-fbd9e31ee214,goldpan.me,premium,,,40,76,8,,,
@@ -3122,7 +3172,7 @@ c91fa4c9-1f6a-4818-8f2a-708463a6a106,degreeoffrost.tech,premium,,,54,72,15,,,
 032e7f04-de8c-41e8-9181-e73120174ddf,brighten.press,premium,,,80,9,8,,,
 1ffee366-58db-46e9-b97f-275521ed0527,talkturkey.expert,premium,,,,84,11,,,
 e79d9821-7850-4e23-acc3-55706bec2f8a,instruct.moda,premium,,,106,12,8,,,
-d186eb69-90be-4652-afe3-143a36452f97,encouraged.reviews,premium,,,68,6,10,,,
+d186eb69-90be-4652-afe3-143a36452f97,encouraged.reviews,premium,,,68,5,10,,,
 4878792b-ba47-4b0b-be21-0765b55ddead,gotoilet.tel,premium,,,60,2,9,,,
 8cb164b8-56d8-4b08-a2b1-f3ae5c777ddc,separation.computer,available,48.98,,68,7,10,namecheap,,
 8472d350-0dcc-4f65-876f-b62ec18b7833,stagingarea.plus,premium,,,64,3,12,,,
@@ -3245,7 +3295,7 @@ eaf143fc-c163-4a1d-9df5-c2295052913c,familiar.miami,premium,,,90,18,8,,,
 aa8ca03f-2c5e-48cf-8ae3-b33e9416c3f7,thrown.domains,premium,,,64,5,6,,,
 37868bef-4e0c-494b-af82-6543f29c2aad,essence.engineering,premium,,,72,26,7,,,
 0bd341dc-5713-4312-9e93-6a0753fddc67,recoveredmemory.us,premium,,,70,1,16,,,
-0f6a2576-6167-4ac5-91e6-35cb0671796b,heart.tickets,premium,,,84,36,5,,,
+0f6a2576-6167-4ac5-91e6-35cb0671796b,heart.tickets,premium,,,84,35,5,,,
 21357d89-5f59-4c51-8ab4-07bda7c3fc15,sesameoil.science,premium,,,,2,10,,,
 2d384c04-4880-4200-85c5-a647e2406082,Souwegian.net,premium,,,68,72,9,,,
 1b4421a9-6081-4b92-ade4-e503e49c9c93,namely.partners,premium,,,58,9,6,,,
@@ -3543,7 +3593,7 @@ b0953e6b-2507-465e-b5cd-dd7ed73d7c3b,thevirgin.cloud,premium,,,64,72,10,,,
 fa651f5f-1208-495c-8579-498de6246c70,devotion.gripe,premium,,,72,12,8,,,
 112dac11-b107-4774-b92f-3ab067f5d4d9,lemon.berlin,premium,,,66,41,5,,,
 0fcd9463-3e02-42ad-bc51-6113867101b0,passionate.help,premium,,,106,12,10,,,
-55591663-3f64-460a-a1c1-e2616c0c1183,scornful.properties,available,10.99,50.99,50,1,8,name.com,,
+55591663-3f64-460a-a1c1-e2616c0c1183,scornful.properties,available,10.99,50.99,50,2,8,name.com,,
 2dec96d0-68cb-4ccf-84aa-6a2454c88b58,amateurish.esq,premium,,,52,1,10,,,
 a319e91a-0fe3-4ec4-9979-c26d90332c32,despondent.forsale,available,19.99,52.99,47,2,10,name.com,,
 39650abe-1fd0-423d-acec-29db75a1ce99,basically.bingo,premium,,,63,8,9,,,
@@ -3662,7 +3712,7 @@ ad9e4161-27b5-4895-8f20-739e3e5d73c9,fuckstruck.dev,premium,,,58,1,10,,,
 7172bdf4-05c0-4a70-9b4a-19b1ce4234aa,fishfinders.co,premium,,,36,20,11,,,
 65d4c30d-24b3-4dd2-8bc8-ec3915e9f0c8,chagrined.money,premium,,,52,2,9,,,
 469223e3-6586-4db9-98fc-b6df1f251189,round.mom,premium,,,48,22,5,,,
-15d09338-e5fc-48af-96ce-0c269137a431,convenient.dance,premium,,,78,9,10,,,
+15d09338-e5fc-48af-96ce-0c269137a431,convenient.dance,premium,,,78,10,10,,,
 3e5b9ab0-3327-4ac2-9d31-21dec803f590,nomnomnom.report,premium,,,80,5,11,,,
 4f9795ab-781e-4e20-a807-66b82ba387dc,Sweetwine.space,premium,,,58,68,9,,,
 3270cf10-ce5a-4f05-bb20-00086d89b5af,acidfast.luxury,premium,,,46,1,9,,,
@@ -3811,7 +3861,7 @@ a24ec2bc-6277-4a94-b643-19776d57390d,alterable.show,available,17.99,56.99,80,2,9
 15cd8787-50f7-4088-8c11-47f4e724872b,setaceous.delivery,premium,,,42,1,9,,,
 d21ed619-c2d2-4714-9d25-08aa710e3838,orthodontist.site,premium,,,56,84,12,,,
 b120e2b7-bc27-41b3-a80a-64e72aca3521,altitudinous.com,premium,,,54,72,12,,,
-4c7d5a47-5788-4b51-9c9d-b8b7ec141e78,famous.fast,premium,,,98,24,6,,,
+4c7d5a47-5788-4b51-9c9d-b8b7ec141e78,famous.fast,premium,,,98,23,6,,,
 d590d87c-9b2f-4826-ac29-154c6dcb44dc,allmyeye.at,premium,,,66,72,10,,,
 d2e3d3de-f2d6-4e6e-9cd3-531f21a80572,kerchiefed.app,premium,,,52,4,10,,,
 0ad26229-bcfb-4dbb-8a7b-3befefc09289,hurt.diy,premium,,,60,14,4,,,
@@ -3826,7 +3876,7 @@ e831e133-543a-4992-b4e1-41964a0cec95,moneymarketfund.green,premium,,,72,2,17,,,
 5af20cdf-9e84-42bc-a552-0349e1b035a7,phony.irish,premium,,,79,9,5,,,
 538a06e5-968e-4891-8894-61f435c03595,repel.science,premium,,,70,6,5,,,
 319643e5-2e7f-4fec-827f-12fd1e6d2b2f,mobiletelephone.download,premium,,,74,1,16,,,
-4b5e843a-6990-4026-8159-7141bd9b4ed3,heart.wtf,resell,,,84,36,5,"Sav.com, LLC",29/01/2026 07:45,29/01/2027 07:45
+4b5e843a-6990-4026-8159-7141bd9b4ed3,heart.wtf,resell,,,84,35,5,"Sav.com, LLC",29/01/2026 07:45,29/01/2027 07:45
 c4797278-37fc-4a0b-8101-2211c7a8590c,luxembourg.vet,premium,,,60,3,10,,,
 85e2f92c-9617-408a-99e4-5f38a0a67326,bacillar.fish,premium,,,42,1,8,,,
 3fff44d0-7bb1-4701-b47d-42eba7eeece3,newcomers.zone,premium,,,,24,9,,,
@@ -4053,7 +4103,7 @@ ecadea65-5c3c-45e2-8b83-4fe7d8ac32b0,interpersonal.coffee,premium,,,70,5,13,,,
 a95b91a3-bc6a-4bef-9e3d-f813d13a43ae,like.news,premium,1250,1250,84,35,4,name.com,,
 f86b689d-0892-4dde-ae65-7248389ace5f,tourguide.ai,resell,,,60,80,10,"GoDaddy.com, LLC",17/12/2019 21:12,17/12/2025 21:12
 ade5cca4-cfb9-4fdb-851b-01c6a7ff87cf,script.exposed,premium,,,92,28,6,,,
-cdf95ddc-e2fb-43d3-b12b-f03f83b32b33,supposed.help,available,43.98,,72,3,8,namecheap,,
+cdf95ddc-e2fb-43d3-b12b-f03f83b32b33,supposed.help,available,43.98,,72,4,8,namecheap,,
 85e962b0-d81c-4d25-b782-2277581f99c6,greatuncle.academy,premium,,,52,1,11,,,
 bde3275f-0380-4c16-aeb4-f08aa9fdb97e,agonadal.blue,premium,,,54,1,8,,,
 b052f987-8a70-448c-abb3-b8f185a9d2dc,growth.auto,premium,,,84,39,6,,,
@@ -4061,7 +4111,7 @@ b052f987-8a70-448c-abb3-b8f185a9d2dc,growth.auto,premium,,,84,39,6,,,
 8c83d73a-ac13-4414-a30a-068188e32ba4,affixed.esq,premium,,,54,2,7,,,
 7b35d017-43c7-41ec-b00d-a2dd9985bcde,chip.hockey,available,14.99,77.99,76,29,4,name.com,,
 7b0c788d-96d4-4cff-8a80-cd6a3470278b,oldlady.build,premium,,,60,3,8,,,
-aa01c9a4-8aef-43a0-9e3f-de9db58b179a,coordinate.ngo,available,16.99,16.99,108,18,10,name.com,,
+aa01c9a4-8aef-43a0-9e3f-de9db58b179a,coordinate.ngo,available,16.99,16.99,108,19,10,name.com,,
 996031ec-e01e-4f87-9c4b-2e649b48bf5e,wellbehaved.clinic,premium,,,,2,12,,,
 77b62273-390c-4e73-91cb-d3975f267ca2,committee.horse,premium,,,64,11,9,,,
 99ae0149-2187-44a0-9dd4-1aaa12dc6344,niches.gg,premium,,,,28,6,,,
@@ -4160,10 +4210,10 @@ e41867d7-bbc8-427a-a099-52b37c5df24e,asofyet.vet,premium,,,52,1,9,,,
 9c0c5a66-5aea-4122-8b23-2d2aad0a4fe3,kilo.lgbt,premium,,,78,23,4,,,
 ba81d6da-5d22-42e3-9c12-fa3ca9438239,silverweight.site,premium,,,,72,13,,,
 23288b1c-69f1-4360-8f20-14b1b8196b3c,howabout.accountants,premium,,,64,7,9,,,
-95e189d1-e1f2-47ca-acde-8275e2d1e9b4,famous.business,premium,,,98,24,6,,,
+95e189d1-e1f2-47ca-acde-8275e2d1e9b4,famous.business,premium,,,98,23,6,,,
 f87d3834-b57d-4da7-9a4f-9744e83249fb,unshakable.fm,premium,,,72,7,10,,,
 7c71fb23-fc43-41d3-b18f-b0176d9b649e,comeout.eco,available,64.99,,78,3,8,name.com,,
-f42485c0-9458-4005-b8c4-37c91b1e3a5b,contested.im,available,12.98,,60,5,9,namecheap,,
+f42485c0-9458-4005-b8c4-37c91b1e3a5b,contested.im,available,12.98,,60,6,9,namecheap,,
 e226e92e-0ff0-404b-936c-57ad4e185d45,moneysupply.us,premium,,,72,1,12,,,
 7c267dd2-ac37-4e40-b47a-60c24a25a343,gratitude.storage,premium,,,76,23,9,,,
 466c4569-b1bf-432e-a07c-afd9f7560715,tohellwith.fun,premium,,,,1,12,,,
@@ -4241,7 +4291,7 @@ edeb49bc-e67f-470b-9e55-a539a8673331,moviefilm.careers,premium,,,70,3,10,,,
 cb90f650-ddf2-4d6e-900b-db108e02ef25,gaffer.villas,premium,,,50,8,6,,,
 e784abfd-c255-432d-8a89-08ffa5508963,inconsistent.rip,premium,,,54,3,12,,,
 33f72c6b-bb60-4585-a3b4-c6382deda69e,conventionally.energy,premium,,,54,1,14,,,
-b0941c88-44f2-4993-9b51-348d013f1afa,scornful.credit,available,11.99,141.99,50,1,8,name.com,,
+b0941c88-44f2-4993-9b51-348d013f1afa,scornful.credit,available,11.99,141.99,50,2,8,name.com,,
 d2acfdc1-6670-424b-92d0-1bbc0fddbe96,sum.theatre,available,620,,66,26,3,namecheap,,
 db6fc416-a5b6-4c94-ba6d-859c057ef0ed,letters.page,premium,,,74,14,7,,,
 9958447a-776e-4e6c-be6c-9a9b36342288,BigFour.tienda,premium,,,64,2,8,,,
@@ -4260,7 +4310,7 @@ e3ae9615-021d-4ccd-9119-f29d1bfc9ab2,february.construction,premium,,,66,10,8,,,
 c01e5604-3567-4196-bedc-09ba93fe0697,any.express,resell,,,80,42,3,"Global Domains International, Inc. DBA DomainCostClub.com",09/11/2022 02:03,09/11/2026 02:03
 a488f3d0-3f9f-4a5f-bf1c-c88f5ee2b459,givesomethingatry.guitars,premium,,,72,1,20,,,
 02af76b4-8a99-40f0-b763-9dd969e5daf7,hall.gg,resell,,,80,27,4,Dynadot Inc. (https://www.dynadot.com),,
-fd00ff7b-783c-43fc-ba73-d98abeffe56d,positive.cafe,premium,,,84,37,8,,,
+fd00ff7b-783c-43fc-ba73-d98abeffe56d,positive.cafe,premium,,,84,35,8,,,
 32fea071-9527-4390-9166-1df01a36dbb0,steel.guide,resell,,,62,31,5,"GoDaddy.com, LLC",09/05/2017 19:53,09/05/2026 19:53
 c8f3b937-f0ef-4653-8c41-e9bfac607ae8,abyssal.pink,premium,,,48,13,7,,,
 dc4677d8-ece4-46d6-8f3f-70bc4710d2ea,potluckdinner.us,premium,,,,72,14,,,
@@ -4318,7 +4368,7 @@ f6a3c596-f663-4f0c-bfec-2ceccba7d99e,wintertime.institute,premium,,,,3,11,,,
 5c59a4a5-c05a-4aca-96a2-357f59f8b6df,likened.io,premium,,,46,8,7,,,
 523e8bb8-008b-4b11-92e4-5bd53cab4c27,sprang.pro,premium,,,,80,6,,,
 8ef9093b-2478-46e9-b732-084d04bb8004,asthesayinggoes.futbol,premium,,,44,1,18,,,
-01e9d648-ac62-40ec-8f07-5d2abdf03a94,eye.dad,premium,,,66,33,3,,,
+01e9d648-ac62-40ec-8f07-5d2abdf03a94,eye.dad,premium,,,66,32,3,,,
 f89612af-2cd3-4807-9c63-8675fd74c1a3,orange.diet,premium,,,74,83,6,,,
 39397351-bbfd-4d1c-9dac-d28fa836e86d,antennary.menu,premium,,,56,1,9,,,
 09c13722-3e32-4341-ab59-eed025fdc767,signlanguage.attorney,premium,,,,8,13,,,
@@ -4468,7 +4518,7 @@ b12978fd-ebe5-4258-bbda-b305fa315b87,gooff.science,premium,,,68,2,6,,,
 0321ebdd-7e34-458a-b1cb-964f2739724f,Stennian.site,premium,,,62,72,8,,,
 1ab8a08e-72f2-4f27-8d56-d5f94bfcb8aa,vowelharmony.ninja,premium,,,,72,13,,,
 755893f6-9ae7-4cd5-9a2b-e366de4b3fb6,DakotaCity.cash,premium,,,56,2,11,,,
-6d30cf41-4869-406c-b129-77c749a9856a,compelling.guide,available,10.99,57.99,92,9,10,name.com,,
+6d30cf41-4869-406c-b129-77c749a9856a,compelling.guide,available,10.99,57.99,92,8,10,name.com,,
 dbf550b0-b665-4264-928a-f85635c31252,terminal.casa,available,17.98,,104,36,8,namecheap,,
 eb5a84af-7cd7-4678-bc46-2bfab07cd201,lxxxi.academy,premium,,,52,1,5,,,
 591d928a-b10f-4e17-b3a4-47be2479abd2,relevance.democrat,premium,,,72,13,9,,,
@@ -4511,7 +4561,7 @@ cc83ba1d-7565-4c93-9001-45aa89f7c74e,tightenup.world,premium,,,,2,10,,,
 8fc1fcf2-a6e8-4e48-9255-0ded8c0edd54,supplies.productions,premium,85.8,85.8,,12,8,namecheap,,
 2918f648-1e93-4886-8374-cf22b1ce5c20,consumer.boo,premium,,,72,20,8,,,
 74112982-3b78-4c58-9666-3f0ea65ce9a3,guess.rest,premium,,,100,70,5,,,
-2ca7e641-945f-4819-83bd-e975cb91ee4e,shrub.run,premium,,,62,9,5,,,
+2ca7e641-945f-4819-83bd-e975cb91ee4e,shrub.run,premium,,,62,10,5,,,
 36cd8a60-52fe-4f00-99d7-8f7f86cfe488,thanksfornothing.rsvp,premium,,,60,2,18,,,
 f0a38bf5-9356-4e91-be3e-4a74fbc90b49,alarming.codes,premium,,,46,3,8,,,
 8a98d764-e8d4-4f14-b570-32e153aee509,septenary.bid,premium,,,68,2,9,,,
@@ -4748,7 +4798,7 @@ c4d4ef40-c990-4d89-b527-fde2087bcfb2,chiselin.io,premium,,,58,72,9,,,
 b228c9b8-4262-4b37-b866-20282b518c9a,its.glass,premium,,,78,38,3,,,
 43bb46ba-e1e0-4daa-8e66-9939fa154f78,accoutered.condos,premium,,,56,1,10,,,
 9e4515bd-9e29-41c2-962f-40999eed3382,dairy.space,premium,325,1300,74,76,5,namecheap,,
-6230bc70-f3ee-4d02-8651-cd7d5c14d058,cheap.press,premium,,,110,31,5,,,
+6230bc70-f3ee-4d02-8651-cd7d5c14d058,cheap.press,premium,,,110,30,5,,,
 c9a54550-95cb-4d1a-b77f-831d0cc535b6,dignitary.video,premium,,,90,2,9,,,
 866ee7f2-5ce7-4121-b876-5a397dc01429,amphibious.srl,premium,,,50,4,10,,,
 7f1c5713-7d35-4110-928a-2e28fbdb47a3,batwing.supply,premium,,,50,2,7,,,
@@ -4989,7 +5039,7 @@ a0222f6d-5efd-4b36-b82d-cebaac2db83b,Pentium.ca,resell,,,76,4,7,"Go Daddy Domain
 dfa6a533-b1b5-4bac-ab00-9ded101d9e99,outing.community,premium,,,77,7,6,,,
 db109bf5-9a21-418f-b151-f85755fca424,advisable.builders,premium,,,62,3,9,,,
 4af30cda-c3a8-4afe-93c7-5f9f7de28e15,childhood.lgbt,premium,,,78,10,9,,,
-a5f43a79-2dd0-4d93-92aa-106e274a6d3f,punk.page,premium,,,102,32,4,,,
+a5f43a79-2dd0-4d93-92aa-106e274a6d3f,punk.page,premium,,,102,31,4,,,
 b2b9978e-0235-46a1-9265-3c4da78e3a6d,sofarsogood.gift,premium,,,64,5,14,,,
 7a76fedd-8289-4147-88ce-42a33c41dbe8,sounding.free,premium,,,78,5,8,,,
 be199d35-31a3-4457-a699-3ce481538fae,happily.show,premium,,,70,10,7,,,
@@ -5135,7 +5185,7 @@ e1e12c42-3914-4996-9515-6928049841ee,sexslave.host,premium,,,54,3,9,,,
 2b8ec06a-98c9-4dab-b779-5d83884478f8,prototypic.democrat,premium,,,56,2,10,,,
 f8eed7af-c0c3-4832-a039-b2cac62bb6f3,correlate.guru,available,3.99,54.99,88,8,9,name.com,,
 72da9231-baea-41e7-aa8a-f65f32f65d95,testing.vc,resell,,,86,29,7,"Sav.com, LLC",28/09/2024 14:15,28/09/2026 14:15
-80bf8331-b514-4f67-a99c-8f46f0078090,insulting.world,available,5.99,57.99,70,3,9,name.com,,
+80bf8331-b514-4f67-a99c-8f46f0078090,insulting.world,available,5.99,57.99,70,4,9,name.com,,
 119e05bc-d51b-4fb2-b87b-28c6ede47e99,autarchic.trade,premium,,,48,1,9,,,
 4e35c8ec-8dff-4c6b-9548-69e818dfd98e,compositionbook.best,premium,,,72,1,16,,,
 a40afe6b-7150-4623-8877-0c8372d0dd1d,thirdpersonplural.expert,premium,,,64,72,19,,,
@@ -5144,7 +5194,7 @@ f353ef19-f7bb-4787-bb72-d1bbf6b6685f,gettothepoint.in,premium,,,75,3,16,,,
 2a0d22c5-df1b-4ab1-b0dd-35870e3a00cd,forthesakeofit.me,premium,,,42,72,18,,,
 188b6c29-3f8f-4d58-9a53-773e48585e32,height.me,resell,,,70,10,6,Dynadot Inc,13/04/2013 02:35,13/04/2027 02:35
 e91998f4-b428-41d7-9b15-b95d92b4554c,arillate.website,premium,,,46,1,8,,,
-2aec544d-7a38-4297-bb15-dddb7d2affd2,comical.one,premium,,,75,6,7,,,
+2aec544d-7a38-4297-bb15-dddb7d2affd2,comical.one,premium,,,75,5,7,,,
 415dc951-a6fa-4586-a50e-b09ab0a8e302,baffling.accountants,premium,,,59,3,8,,,
 93bb4c9a-95f9-4f16-8496-75d1d9a4c704,aerobic.loan,premium,437.5,62.5,74,6,7,name.com,,
 3e82bfbd-5d48-41ee-90a3-184e4a6b6b54,navy.productions,premium,,,72,17,4,,,
@@ -5310,7 +5360,7 @@ ebb0ac04-c79e-456b-a513-e24253bb3525,structure.coffee,premium,,,94,25,9,,,
 3f0dc7e1-130e-4365-8ada-9ae023a5d79b,LaurelandHardy.dev,premium,,,68,2,16,,,
 149622d6-a450-44b5-8edf-d0073d9a88da,marruecos.co,premium,,,56,80,9,,,
 4451638c-2d17-416f-a4df-1129fdebd3ca,compassion.xyz,resell,,,90,92,10,"Sav.com, LLC",26/01/2025 21:56,26/01/2026 23:59
-846475c8-1a80-4b5c-bda6-b7edd8f5cd1d,shrub.fit,premium,,,62,9,5,,,
+846475c8-1a80-4b5c-bda6-b7edd8f5cd1d,shrub.fit,premium,,,62,10,5,,,
 8a62eab0-bb02-4fa1-8773-4888099aff73,atop.mortgage,premium,,,62,9,4,,,
 c4b4a148-4beb-4de5-877d-2ea8690ecf06,springtolife.us,premium,,,,76,14,,,
 53c13948-ed1b-4694-ba40-9aa65fedb77e,standon.soy,premium,,,,3,8,,,
@@ -5369,7 +5419,7 @@ a6abe61a-e71f-4a3f-ab6a-994708ff9357,altruist.immo,premium,,,75,12,8,,,
 55a12aeb-e478-4117-bf7e-6b851a73821a,artesian.clinic,premium,,,50,6,8,,,
 c818c2a5-c8c9-42e2-aeca-fdb0c38d54b9,turtle.space,premium,,,78,84,6,,,
 3e50f7b4-4389-4c3a-b106-430e22ef0dfe,chiliad.builders,premium,,,62,2,7,,,
-7ed79c9b-560b-4cb7-994a-265a081b4ad5,corrupt.army,available,19.99,50.99,80,14,7,name.com,,
+7ed79c9b-560b-4cb7-994a-265a081b4ad5,corrupt.army,available,19.99,50.99,80,13,7,name.com,,
 6e9c77ff-87f9-4f57-aaf2-4c9f623044b7,language.florist,premium,,,116,30,8,,,
 095a3b2e-a08d-4d3b-b21d-152a65fb60c6,doughnut.boo,premium,,,66,11,8,,,
 60756b19-220e-46ac-b1ec-52dbb8691d07,Rhianna.nyc,premium,,,81,2,7,,,
@@ -5386,7 +5436,7 @@ c2050df6-7e2b-41be-87ee-984b78914ec3,wheezing.fan,premium,,,44,2,8,,,
 218d3e99-286d-4447-acba-686f9ed31cea,nothing.wedding,premium,,,130,33,7,,,
 5669f0e3-7bef-4577-af51-984b158ac7ba,recipe.organic,premium,,,82,27,6,,,
 bfaa4399-1b17-4c9d-bb55-021ac008670c,whilst.monster,premium,,,64,3,6,,,
-368c5f39-9bec-477a-8f64-1d754b117df0,sideways.new,available,549.99,549.99,70,13,8,name.com,,
+368c5f39-9bec-477a-8f64-1d754b117df0,sideways.new,available,549.99,549.99,70,12,8,name.com,,
 56413205-860c-450e-9ab0-963ac80bff94,stain.pw,premium,,,82,10,5,,,
 9eee3609-782f-488a-b617-dcd946474b31,words.dealer,premium,,,86,26,5,,,
 5ffd0056-490c-4444-82d9-2047777f673c,weeks.viajes,premium,,,,13,5,,,
@@ -5493,7 +5543,7 @@ a17ef6fe-6aba-4511-a04f-0f438060777e,cautionary.fun,premium,,,60,2,10,,,
 5637ca32-95d8-4929-b3f4-2776ee0a4cdc,playabout.best,premium,,,,2,10,,,
 0abe0e75-8ff7-4379-a41d-f591e53b8218,jollygoodshow.link,premium,,,80,2,15,,,
 86f3236c-8112-4384-ad37-c3539efd6758,promo.space,premium,,,94,30,5,,,
-139b2d35-5ebe-44cd-89ea-6e63fc903ed6,gather.kids,premium,62.5,22.5,96,38,6,name.com,,
+139b2d35-5ebe-44cd-89ea-6e63fc903ed6,gather.kids,premium,62.5,22.5,96,39,6,name.com,,
 c649a85f-3805-4fc1-af04-b86a735ab7aa,bandy.boo,premium,,,46,6,5,,,
 0cbe7b9d-5a63-4933-bb65-44eba852fb3b,aspheric.villas,premium,,,44,2,8,,,
 77a8bb7f-7a75-4838-b791-820a10403b2a,filmstrip.space,premium,,,54,76,9,,,
@@ -5769,7 +5819,7 @@ bb124b76-4080-41d4-9cf4-d3cd4e0ad7e9,giveback.dog,premium,,,76,11,9,,,
 180a774d-1880-42ef-a774-91fb8e30c539,laborious.coach,premium,,,50,1,9,,,
 b2b92f04-42cf-42a3-b593-b02eb4a3a0d6,sleepwith.bike,premium,,,,1,10,,,
 7d82819e-1e12-4ed8-b45e-eab17aa01f4b,amatory.software,premium,,,60,2,7,,,
-1af51636-719b-4845-b8ab-5d965350f228,defend.onl,premium,,,76,19,6,,,
+1af51636-719b-4845-b8ab-5d965350f228,defend.onl,premium,,,76,20,6,,,
 d6d5ce24-2f28-44d2-964e-6463551c1c26,landline.prof,premium,,,66,11,9,,,
 da609757-4c7f-4718-8dc2-8db635924679,airpurifier.dev,premium,,,68,76,12,,,
 4805b1a2-4ea1-40ca-9ac8-dbcbf3b90132,material.plus,resell,,,106,24,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/07/2018 21:07,21/07/2026 21:07
@@ -5887,7 +5937,7 @@ e5cc51d6-a4a3-4f24-a6d1-e8701c4b114f,greatmantheory.online,premium,,,52,72,16,,,
 d5209afc-b29d-40f1-8ad0-1eb8bd2558b4,consult.tech,premium,,,101,29,7,,,
 7ed4a0df-92f1-442b-9b84-e838d0ee4fe2,dendriform.fishing,premium,,,52,1,10,,,
 552ffa95-ae41-4a65-921d-1315ab472ccc,thanksfornothing.photo,premium,,,60,2,18,,,
-d7b7e432-83c5-408c-be12-d39e065a7d9c,idiotic.forum,available,44.99,44.99,60,6,7,name.com,,
+d7b7e432-83c5-408c-be12-d39e065a7d9c,idiotic.forum,available,44.99,44.99,60,5,7,name.com,,
 08aa22be-0aa1-4d26-8a7a-387bb259052f,freecheek.app,premium,,,38,8,10,,,
 afca54a4-4744-49b8-a69e-0fa794049b8c,ionicbeam.online,premium,,,56,72,10,,,
 a1b978ca-51ec-45cf-b65d-cdac3b9f9c06,goodfriend.navy,premium,,,58,5,11,,,
@@ -5915,7 +5965,7 @@ f3f10d76-f914-4062-871b-45ea3f8cb411,xxvi.foundation,available,5.99,40.99,66,4,4
 bfd94f83-7a39-408d-b2da-c289fc5e0eb6,bedless.equipment,premium,,,46,2,7,,,
 47ec5716-635e-4141-9a25-7bb1d972d49c,concerned.bar,available,81.98,,66,6,9,namecheap,,
 cd6975b1-6344-4eb2-a54e-a084d7407b52,falls.gay,premium,,,72,10,5,,,
-6ad552a1-d54e-4aac-a3ff-c7b9a7cf3636,fatal.courses,premium,,,76,15,5,,,
+6ad552a1-d54e-4aac-a3ff-c7b9a7cf3636,fatal.courses,premium,,,76,16,5,,,
 2cb88919-2d1d-4f95-85f6-240aa0942c66,spontaneous.ltda,premium,,,72,13,11,,,
 8fff53b1-84f9-4544-b640-1adebf14d4ef,thinktoomuch.film,premium,,,,2,14,,,
 1d4bae02-d03d-4c3e-8f64-04e298ff6c46,OurFather.llc,premium,,,,5,10,,,
@@ -6171,7 +6221,7 @@ fa9b5ab2-3a41-4c65-9727-095043c3ca01,beachfront.gg,premium,,,76,76,10,,,
 c449336d-a55b-4fb6-ba0b-8241a82a251f,anomic.mov,premium,,,41,4,6,,,
 ae197c41-d450-43bd-800d-d2dad36d1698,gosainthan.expert,premium,,,56,72,10,,,
 ea45b7c9-1286-4728-8193-51943ef9107e,isle.forex,available,19.99,,70,19,4,name.com,,
-9c152e6a-3244-4ee0-8d13-9f4515bbd0a6,centre.mortgage,premium,,,66,21,6,,,
+9c152e6a-3244-4ee0-8d13-9f4515bbd0a6,centre.mortgage,premium,,,66,20,6,,,
 e13fce3b-e99d-46ba-9027-cb4f0030a53d,pullstrings.gg,premium,,,,72,12,,,
 a5e623b9-639f-43ba-802a-b9d74d8e0dca,migrate.accountant,premium,,,78,14,7,,,
 a6c9d07c-f577-444a-b7fa-59fda0a12c09,cocksucker.juegos,premium,,,44,4,10,,,
@@ -6242,7 +6292,7 @@ ad3d5503-83f0-4a18-b210-3ad8796047e2,NewAmerican.app,premium,,,,80,12,,,
 932bef47-88f5-4610-9928-a7a23c204bad,anyway.im,premium,,,70,16,6,,,
 a08b241d-8622-4a04-8e13-3ad4a0709639,registered.property,premium,,,66,11,10,,,
 55de8bec-176f-4c56-86dd-689a5b404ffd,baseballfield.online,premium,,,62,76,14,,,
-1f97f482-f39c-4a45-aa1a-8ca205909d5c,corrupt.hiv,available,184.99,184.99,80,14,7,name.com,,
+1f97f482-f39c-4a45-aa1a-8ca205909d5c,corrupt.hiv,available,184.99,184.99,80,13,7,name.com,,
 0b3816f3-2a49-4782-81d3-25b3c42f3084,postoffice.site,premium,,,,88,10,,,
 f7102592-8786-45d0-b65a-620a81742e74,realms.online,premium,,,,64,6,,,
 000f6687-a326-42c0-98f7-2e03ddb579e5,coproduction.expert,premium,,,58,72,12,,,
@@ -6281,7 +6331,7 @@ befaadf3-377d-4470-8459-57b6e65b8f95,split.farm,available,13.99,50.99,46,29,5,na
 04ad0db5-9168-4a33-a1ba-b8190b5c1709,fearless.taxi,premium,,,72,33,8,,,
 1b6406ff-1eac-42bb-9a49-abb98ca92e59,idle.tennis,premium,,,42,22,4,,,
 5d09f30c-8a5a-46ad-bdb3-724e058b4f7a,fascinate.organic,premium,,,84,6,9,,,
-7a8eb63b-e64d-4287-9882-11f1a65b0afb,bush.energy,premium,,,64,18,4,,,
+7a8eb63b-e64d-4287-9882-11f1a65b0afb,bush.energy,premium,,,64,19,4,,,
 d14fc212-5241-47f7-abef-0335183df632,whiskery.blue,premium,,,66,1,8,,,
 605743be-70d0-4607-a3f6-b579f09f02a2,abdicable.cash,available,11.99,46.99,50,1,9,name.com,,
 49994280-a1cf-4a2f-8158-a6d44abad986,traffic.apartments,premium,,,102,32,7,,,
@@ -6310,7 +6360,7 @@ dd2b57d9-2752-416c-9c19-7e2882f7ce8d,Germanpizza.nexus,premium,,,78,1,12,,,
 ca327352-3872-44cc-ad00-f6e348d2a03d,abreast.immo,premium,,,72,3,7,,,
 d9139a02-7770-40c9-9974-b77f00c5120e,Darleen.org,premium,,,58,72,7,,,
 60a52612-b15f-4cbd-9b59-451f6f6b9b83,fraternally.site,premium,,,50,72,11,,,
-a7920a33-90e4-4763-a93c-2bf808ba3f14,swollen.wine,available,9.99,77.99,65,3,7,name.com,,
+a7920a33-90e4-4763-a93c-2bf808ba3f14,swollen.wine,available,9.99,77.99,65,4,7,name.com,,
 16a1b783-e5db-45c3-a2ef-ce9f07a2e96d,cotherapist.us,premium,,,62,72,11,,,
 f48314d7-0155-4b20-9620-e4f2b7586324,areolar.motorcycles,premium,,,50,1,7,,,
 bb2e851c-b199-4913-8b65-3d9c094a8699,bubble.luxe,premium,,,94,35,6,,,
@@ -6531,7 +6581,7 @@ a2197295-444a-4273-93e5-d3002926a474,phrase.cafe,premium,,,94,10,6,,,
 4e8cae56-8bb4-40d9-be28-d6133cbd23d1,anorthic.at,premium,,,50,1,8,,,
 876febb9-54e8-42bf-ad34-4f50d087bfe2,attitude.maison,premium,,,94,21,8,,,
 1927a7f5-c1cc-4125-8a33-11bbc93c40df,lower.lol,premium,,,64,14,5,,,
-c84d7f4a-548c-42f6-83f9-f1e75e2623cd,competent.international,available,14.99,41.99,73,10,9,name.com,,
+c84d7f4a-548c-42f6-83f9-f1e75e2623cd,competent.international,available,14.99,41.99,73,9,9,name.com,,
 e3435b06-8e32-4e44-b16c-d5d6a5c6fcdc,petite.villas,premium,,,54,10,6,,,
 8aef3b97-6df4-4692-9197-8d851cb85eab,breathe.world,resell,,,88,24,7,"Xiamen ChinaSource Internet Service Co., Ltd",12/02/2023 15:15,12/02/2026 15:15
 f3d0fc9f-a6d0-425b-a217-6e637fe0655c,dilemma.space,premium,,,69,10,7,,,
@@ -6733,7 +6783,7 @@ cc24868b-bd5e-4c31-96c8-a8d429aa193a,rafts.tech,premium,,,70,80,5,,,
 76486185-be8d-46c7-953e-9c331750ecd7,closest.agency,premium,,,68,5,7,,,
 d5a98026-188e-4ed6-a56b-209623f44561,Chinesepaper.gg,premium,,,68,72,13,,,
 f5ec6ef5-32af-42d4-8024-9a7f3d7fde88,herdsmen.me,premium,,,40,8,8,,,
-75fb1c69-0677-477f-a377-c5845c50e1af,british.observer,premium,,,98,27,7,,,
+75fb1c69-0677-477f-a377-c5845c50e1af,british.observer,premium,,,98,26,7,,,
 c85384e2-f238-4df5-8383-1afa25e8a024,greaterflamingo.zone,premium,,,52,72,16,,,
 a7c42355-f118-46b8-b01a-37e1913a3bcf,anomic.pet,premium,,,41,4,6,,,
 c423ddb4-70c7-4b33-95f4-f2186a5230e0,Englishmuffin.vet,premium,,,76,3,14,,,
@@ -6809,7 +6859,7 @@ fd931947-09e9-41e0-a959-1a835647e530,Aurobindo.space,premium,,,50,80,9,,,
 c47a3255-80ac-4881-bf81-d3136f509505,andalusian.ink,premium,,,72,3,10,,,
 0fc5e4ef-0b57-44e3-9d64-7a96e8dbec25,leather.boston,premium,,,64,21,7,,,
 75bde93f-b82d-4763-82cc-80068267aeae,archaean.observer,premium,,,50,1,8,,,
-78b252cb-6f45-4b8d-8db4-eeb09d6e7d4f,positive.nexus,premium,,,84,37,8,,,
+78b252cb-6f45-4b8d-8db4-eeb09d6e7d4f,positive.nexus,premium,,,84,35,8,,,
 e5089267-a5c6-4b8d-b53a-b2de6abecb7b,sixer.toys,premium,,,58,5,5,,,
 bb8f3629-cc34-4135-b71a-38cf6a400dc1,occurrence.institute,premium,,,64,5,10,,,
 be032302-59ed-48bf-8504-3b6ca4e7b8b2,astute.art,premium,,,70,17,6,,,
@@ -6976,7 +7026,7 @@ edc1612b-0de3-4259-bc0e-15d93e0ff4cf,dating.vet,premium,,,78,33,6,,,
 0bfaed4e-7a61-4f53-a504-8379dd7388ec,characteristic.estate,premium,,,84,3,14,,,
 abf9c085-0d95-4f54-9919-731dde4a0ab1,sleeping.eu,resell,,,86,11,8,Name: eu-selene.at web invest gmbh & co KG Website: http://www.eu-selene.at,,
 2e904f79-e76b-468a-b8ca-17668d4823b8,pushthrough.site,premium,,,,76,12,,,
-fc7acf19-a4f9-4187-abf4-78c31f6c5934,inherent.juegos,premium,,,68,12,8,,,
+fc7acf19-a4f9-4187-abf4-78c31f6c5934,inherent.juegos,premium,,,68,11,8,,,
 4953ef9a-fd40-4d8d-89a9-b53bca47d782,boxticking.cloud,premium,,,56,72,11,,,
 acb968ec-f37b-480c-8997-91f43e831456,signlanguage.ngo,premium,,,,8,13,,,
 d3fb589d-a421-4e83-b660-4f5ab9ec60d0,childproofing.site,premium,,,34,12,13,,,
@@ -6985,18 +7035,18 @@ e8c56443-036f-4f7d-8c29-7ebb43f9160a,attainable.black,premium,,,86,9,10,,,
 b02b8269-7c6a-49eb-9479-7a8bad480532,databaseanalyst.rentals,premium,,,68,1,16,,,
 6678c02b-88bb-4478-ac8f-6bc7c5584c6f,despite.town,premium,,,90,6,7,,,
 ba8756ba-30a3-44fe-b7ac-e1d2d29fd1f0,understandable.bot,premium,,,74,4,14,,,
-36345882-d0ab-48f2-88b0-05d2cf8eee7f,conclusion.golf,premium,,,78,9,10,,,
+36345882-d0ab-48f2-88b0-05d2cf8eee7f,conclusion.golf,premium,,,78,10,10,,,
 befddbbd-5aa5-4b08-b8e1-3142172d815c,destined.dentist,available,76.99,94.99,70,6,8,name.com,,
 20ab96dc-1fbc-49d6-8590-0822e99a90cb,weight.sbs,premium,,,64,15,6,,,
 6317015f-a643-43f9-994c-9771ba892417,jasmine.condos,premium,,,69,22,7,,,
-42aea74d-ad93-488b-b69c-3cc2a2687268,parody.parts,premium,,,92,10,6,,,
+42aea74d-ad93-488b-b69c-3cc2a2687268,parody.parts,premium,,,92,11,6,,,
 1f0cefd9-aff6-4f1d-9ddd-5580cd71f7cb,hydrated.tech,premium,,,62,80,8,,,
 2126a5c3-2e13-4f5e-8c66-fc738da8ab08,novocain.space,premium,,,56,72,8,,,
 2bef1148-4068-4d90-80b6-d01e2656123e,mosque.blog,premium,,,72,11,6,,,
 4084c363-88e4-4dc9-a2ba-33cc805e90c4,Jolene.pro,premium,,,54,84,6,,,
 1944744c-559d-4f40-9d6c-411e604986a9,jelly.osaka,premium,,,111,25,5,,,
 900a10cd-f298-4420-a715-15270597ee7f,backup.taxi,premium,,,106,32,6,,,
-a81df609-d4bd-4251-8a11-bdee6d1ccfc9,component.how,premium,48.75,48.75,84,19,9,name.com,,
+a81df609-d4bd-4251-8a11-bdee6d1ccfc9,component.how,premium,48.75,48.75,84,20,9,name.com,,
 e76bb106-b22f-4a1a-8366-afa68d7c5883,performers.site,premium,,,,44,10,,,
 970735a3-cd2b-4b80-8f48-17f396f53b27,almost.buzz,premium,,,92,19,6,,,
 28901ad4-6e93-4011-8045-b122be9b7e8e,gala.guide,premium,,,86,33,4,,,
@@ -7008,7 +7058,7 @@ e7b3a1d9-37ca-41f6-9bee-a1635f1d9307,offstage.associates,premium,,,90,8,8,,,
 462eafd2-28ec-46de-8463-625ad140a21f,conveyable.theatre,premium,,,44,1,10,,,
 68db0120-9264-45d2-94d8-9d1bf04037ec,courteousness.online,premium,,,60,8,13,,,
 8cea88b9-3897-47b0-9c5c-987edb015245,floorgeneral.ninja,premium,,,66,72,13,,,
-1457ac0c-003a-4647-9123-d2e76c1d4f7b,heart.storage,premium,,,84,36,5,,,
+1457ac0c-003a-4647-9123-d2e76c1d4f7b,heart.storage,premium,,,84,35,5,,,
 5d0eb7e7-88f1-4f84-85fe-82c86ced7650,helmethair.singles,premium,,,66,2,11,,,
 4208b9ce-923a-4d44-8f13-ebb84bf8e298,suspend.tennis,premium,,,70,5,7,,,
 b87b3d0b-ba97-4e20-86a8-e10aeeb31d54,northerners.ai,premium,,,,28,11,,,
@@ -7068,7 +7118,7 @@ e143fbfa-dc61-4b82-bc70-93ab538d533c,global.loan,premium,,,108,99,6,,,
 cffc9d71-af26-40de-b4ea-2a7c790e3ff9,animistic.life,premium,,,54,3,9,,,
 02021194-996d-402c-aa3c-fe83137e6ce8,stricken.kitchen,premium,,,54,3,8,,,
 22788dc7-ce94-4cfb-86ab-af58e94be5bc,recent.bot,premium,,,82,9,6,,,
-bdbd5dc1-be94-4f00-b802-4e468d12f44d,order.ing,premium,12500,12500,78,41,5,name.com,,
+bdbd5dc1-be94-4f00-b802-4e468d12f44d,order.ing,premium,12500,12500,78,40,5,name.com,,
 f97677f2-4eed-413a-aad1-e76bd9babb91,assess.spot,premium,,,78,14,6,,,
 c54a0fd9-c3c9-41e0-80a5-bdf18fdea088,achy.schule,premium,,,54,3,4,,,
 9037fa14-88ba-43a8-8d58-61469d51ca41,hero.fans,premium,,,76,44,4,,,
@@ -7252,7 +7302,7 @@ b3330bd6-c253-4610-a9e3-b102b5c934bd,brigade.xyz,resell,,,88,84,7,Dynadot LLC,21
 02be9e7a-3167-4163-9ae4-fe2e65739ade,wharf.jetzt,premium,,,73,9,5,,,
 8f754313-941d-40e0-8b5a-12c57fe0c945,hunkydory.properties,available,10.99,50.99,70,7,10,name.com,,
 030b49cf-bef4-409a-8308-97b30e09b48e,troublemaker.porn,premium,,,48,9,13,,,
-51a171b5-5b08-40ec-835f-23d71b6c4c0b,convenient.audio,premium,,,78,9,10,,,
+51a171b5-5b08-40ec-835f-23d71b6c4c0b,convenient.audio,premium,,,78,10,10,,,
 aa884b2b-4dcd-417a-b533-b682c51dc9d3,mellifluous.tech,premium,,,56,72,11,,,
 87ff36ce-70a9-4c14-8566-e85cead23620,croquet.online,premium,,,84,88,7,,,
 1dcd7270-cea3-4bee-bd2c-5a6db9d4b6a5,announcers.org,premium,,,46,8,10,,,
@@ -7282,7 +7332,7 @@ c03dfe83-0c15-4286-8cdd-dd0c437da7eb,chocolatey.pro,premium,,,66,32,10,,,
 1415ea0f-2c14-43eb-8675-1b369804c905,Frenchpancake.pro,premium,,,76,1,14,,,
 01841752-28ad-4371-a68d-b438a90496a5,aberrant.hospital,available,71.98,,74,7,8,namecheap,,
 e2897bb2-0258-4640-80d0-f002d4a48c0f,memorable.ag,premium,,,92,13,9,,,
-9e074213-54f1-4711-acc8-6205ccb5b8c0,corporate.green,premium,,,90,32,9,,,
+9e074213-54f1-4711-acc8-6205ccb5b8c0,corporate.green,premium,,,90,31,9,,,
 291d4df5-54f8-413a-bd3c-eb508dceb09d,chatsite.online,premium,,,54,88,9,,,
 e0b4ddb1-0260-41cd-b360-e5606813bcb8,abatic.day,available,14.99,19.99,54,2,6,name.com,,
 db47ea1f-b07e-4c41-aca5-7de4ed4bed40,era.properties,premium,,,84,39,3,,,
@@ -7376,7 +7426,7 @@ da78f5e0-3a81-4c04-8880-e52348dea075,oldlady.directory,premium,,,60,3,8,,,
 3f0cc8ee-c981-4325-8eb5-6f2f479c243d,oversight.gold,premium,,,84,15,9,,,
 2665cff1-7410-4678-94be-1ba69a31db6d,polysomic.zone,premium,,,68,72,9,,,
 dd0d5dd7-cd37-4374-93ce-52982e83bc7a,recumbent.me,premium,,,70,2,9,,,
-50c413f6-296f-4892-b843-c6e87fc6b0c8,integral.sale,premium,,,69,30,8,,,
+50c413f6-296f-4892-b843-c6e87fc6b0c8,integral.sale,premium,,,69,29,8,,,
 b2cb0f1b-47de-4497-848a-40f702f44f2e,eventhough.bio,premium,,,54,2,11,,,
 0b711b02-7f90-44e1-a4ba-193e0672b808,Comecon.xyz,premium,,,62,72,7,,,
 26b67556-cd67-4a99-bbd9-0becb4d98689,flop.ai,resell,,,60,13,4,Zenaida AXA,06/01/2018 04:00,05/01/2028 04:00
@@ -7772,7 +7822,7 @@ ea86dd15-9d02-48be-9e17-94020fa0135f,nunbuoy.at,premium,,,56,72,8,,,
 325ac9ca-eb06-4766-b53e-93ef98fb8226,may.giving,premium,,,76,28,3,,,
 3fdd24f6-8e3b-4310-993c-1bff324b308b,pardon.cx,premium,,,122,10,6,,,
 1ba3547c-552a-4d18-ae50-ca2b7f91a733,dry.vacations,premium,123.75,123.75,80,23,3,name.com,,
-b5facb59-01f4-440a-9445-780bc1954986,positive.college,premium,,,84,37,8,,,
+b5facb59-01f4-440a-9445-780bc1954986,positive.college,premium,,,84,35,8,,,
 dff82397-2c74-4b19-835e-95954686fa02,orderer.store,premium,,,60,72,7,,,
 b5235637-64d8-46a4-ad9f-9a29d27dd70b,anticlimactic.space,premium,,,48,72,13,,,
 09c697b9-21d8-48c3-ab69-b08223f64638,intheworstway.plumbing,premium,,,50,1,16,,,
@@ -7796,7 +7846,7 @@ ab284d29-b537-4abd-a1f2-e13189de0588,toneofvoice.singles,premium,,,,3,13,,,
 62137723-8728-488e-9db6-af53b737ea41,bedfast.fit,premium,,,64,1,7,,,
 d8e95d88-a90a-47db-8b9b-aadaf064e917,belittled.mov,premium,,,36,1,9,,,
 b9c94865-f6ca-4f0d-b1a4-3817e2cd3cff,fdic.io,resell,,,50,76,4,"GoDaddy.com, LLC",10/04/2015 17:19,10/04/2026 17:19
-79aad599-6829-424f-bb1d-22be680a57c2,positive.viajes,premium,,,84,37,8,,,
+79aad599-6829-424f-bb1d-22be680a57c2,positive.viajes,premium,,,84,35,8,,,
 1849312e-ee45-47fa-917e-df373c8b4d8a,enginegenerator.store,premium,,,58,72,16,,,
 17dc99d0-9409-49dc-88c8-f825f9282449,quickly.toys,premium,,,68,16,7,,,
 fc078d31-dac2-4430-9c0e-8a3815698820,wearthepants.fitness,premium,,,,1,14,,,
@@ -7808,7 +7858,7 @@ be1c6c16-a56e-4641-a954-08ad61350823,jenny.hiphop,premium,,,87,22,5,,,
 47cb4940-c7dc-4687-978d-4eb277392a54,roadsideverbena.ninja,premium,,,54,72,16,,,
 1af38d2d-5d6d-44d3-80f2-4b2642662ac7,ratter.makeup,premium,,,37,2,6,,,
 01e30cb9-5ff3-4177-8689-f59c13607af8,annoying.tattoo,premium,,,72,9,8,,,
-9c078778-4c07-4845-8dbb-2bdb7cb315e9,limited.space,premium,,,82,21,7,,,
+9c078778-4c07-4845-8dbb-2bdb7cb315e9,limited.space,premium,,,82,20,7,,,
 dc654d95-c7fe-4ac1-8882-bfe79c39dbdd,oppositive.storage,premium,,,74,1,10,,,
 342e653b-1d4c-4f6f-89e6-1e7885652e07,highquality.republican,premium,,,68,7,12,,,
 567b0792-cc73-452b-bc7c-ee40eeaf1dae,sternthruster.expert,premium,,,,8,14,,,
@@ -7868,7 +7918,7 @@ babde11f-cb96-410a-a533-170e7893e15f,hands.skin,premium,,,60,21,5,,,
 5949d882-996e-48c7-887f-6d2a474b8ff9,disassemble.mx,premium,,,64,3,11,,,
 5c9c4bce-cbdb-4aa4-9071-c1f1272a689d,characteristic.immo,premium,,,84,3,14,,,
 b9bc0d47-499f-40d0-9e54-d0eeb1cdd9f3,ser.baby,premium,,,76,19,3,,,
-5ea13859-70f5-4831-915d-91a2d8291c01,comparable.rentals,available,14.99,58.99,87,6,10,name.com,,
+5ea13859-70f5-4831-915d-91a2d8291c01,comparable.rentals,available,14.99,58.99,87,5,10,name.com,,
 a9b83a7e-b98a-46d7-9060-2f0ffbb40363,dreamup.investments,premium,,,78,7,8,,,
 d21cd3d7-d932-4ada-9f4a-ada8da7d2b8c,rearend.osaka,premium,,,58,2,8,,,
 ddf93f17-bde8-4f4e-9fdf-6d0433e9e27e,barley.gg,premium,,,58,80,6,,,
@@ -8188,7 +8238,7 @@ d4efd2c9-4ab8-4568-be8b-e102c1be0211,throwoff.pro,premium,,,64,1,9,,,
 79e2379e-144e-413b-8a45-0058369699ed,wheezy.photos,premium,,,42,4,6,,,
 78c3050f-7573-4100-a102-461f46d633af,alternateenergy.xyz,premium,,,54,72,16,,,
 dbcadbda-eb3d-4f23-b3ba-3b2b20b81cdc,tolerable.men,premium,,,68,3,9,,,
-3262b079-dd85-4561-93c8-6de92d67f1c8,worn.solutions,premium,,,66,9,4,,,
+3262b079-dd85-4561-93c8-6de92d67f1c8,worn.solutions,premium,,,66,10,4,,,
 7e05f412-42fd-4ab5-8e79-a4c92d8d0b03,both.dental,premium,,,80,12,4,,,
 a64d60f8-6a94-4295-aada-c7e2b9f24519,ironhearted.xyz,premium,,,50,72,11,,,
 c7817102-a2ac-4acf-ac7d-7af089422aa7,prevention.contact,premium,,,74,12,10,,,
@@ -8369,7 +8419,7 @@ acfe67b8-0c7d-4d93-b793-4b4fa1936a7c,ammino.camp,premium,,,50,1,6,,,
 0c3f8888-c771-410b-b261-7a827653752e,ache.town,premium,,,58,8,4,,,
 d1514c88-1560-459b-9a92-2e53cda89c70,RedCross.hosting,premium,,,,5,9,,,
 486613c4-0289-4c94-879e-7770b8b91e76,asthmatic.fishing,premium,,,64,3,9,,,
-76561f09-bb5b-45cd-a5d9-3a750309295c,confirming.hockey,available,14.99,77.99,73,5,10,name.com,,
+76561f09-bb5b-45cd-a5d9-3a750309295c,confirming.hockey,available,14.99,77.99,73,6,10,name.com,,
 4692901c-1626-4500-aabe-ace7e0d41321,done.show,available,17.99,56.99,80,36,4,name.com,,
 2a88809b-3396-4e0e-825c-d7a747b338a3,alchemical.toys,premium,,,52,8,10,,,
 7cdd2596-9b57-4a92-bf78-f50e375a0258,anguillan.tv,premium,,,72,2,9,,,
@@ -8553,7 +8603,7 @@ cec1fe96-df9d-474f-b962-c95605ee7433,quaternary.srl,premium,,,46,3,10,,,
 ee5ade10-6314-4c8d-891e-62fcc66cd089,aspherical.name,premium,,,44,2,10,,,
 f25d54df-1743-49b2-8cd6-05772ed868ce,glasses.theatre,premium,,,70,16,7,,,
 8d3fac21-02b0-4b49-8b39-ba6ac81d1b2c,apsidal.audio,premium,,,47,2,7,,,
-c3a0673d-36ea-48c8-bd44-61e4e0e6787f,near.kiwi,available,35.68,,66,35,4,namecheap,,
+c3a0673d-36ea-48c8-bd44-61e4e0e6787f,near.kiwi,available,35.68,,66,37,4,namecheap,,
 4a49cc4f-1092-420f-8862-a1c992d2f3e4,headteacher.jewelry,premium,,,74,2,12,,,
 4ee57d5c-4fc2-4f8c-b97b-3f21e2217c5e,headhunters.org,resell,,,46,32,11,"GoDaddy.com, LLC",12/12/2000 11:37,12/12/2025 11:37
 aaba6dcd-3b21-450f-9f9f-df3128042c3c,dismaying.car,premium,,,52,1,9,,,
@@ -8586,7 +8636,7 @@ c5894a20-b029-421f-947c-106d65e0d393,hotboot.zone,premium,,,34,72,8,,,
 eac699e5-c8d7-4a95-aae1-32e82a0778a3,flightpath.lat,premium,,,68,10,11,,,
 a40a2a14-74ae-4d95-ba20-414d6b2bc129,cabinetminister.online,premium,,,54,72,16,,,
 c128e8c6-d9eb-4692-97d8-a7d446767509,rugose.expert,premium,,,53,72,6,,,
-3e4e4c46-a863-4977-b415-2a6f0089cd14,composed.equipment,available,19.99,41.99,71,11,8,name.com,,
+3e4e4c46-a863-4977-b415-2a6f0089cd14,composed.equipment,available,19.99,41.99,71,12,8,name.com,,
 5883f5ec-2290-455a-822f-ebda10129165,outplace.pro,premium,,,56,80,8,,,
 8469c032-61c7-4dd9-b409-a015f6e98edd,youthink.tattoo,premium,,,,4,9,,,
 8bec9c42-94de-42b1-8608-5a1037ec37de,indole.cloud,premium,,,70,76,6,,,
@@ -8602,7 +8652,7 @@ c128e8c6-d9eb-4692-97d8-a7d446767509,rugose.expert,premium,,,53,72,6,,,
 43b6e574-3d99-4b7d-aa9d-69ddca85a425,eightieth.cc,premium,,,72,1,9,,,
 63101ef8-ecdb-456a-a09f-1a56582bcc3f,Kizzuwatna.store,premium,,,48,72,10,,,
 f7981a77-db83-4545-9c01-e89a4587e68a,HBO.cool,premium,,,76,12,3,,,
-129cbb3f-5204-4111-aa3a-6f4d5f7094aa,compelling.coupons,available,3.99,71.99,92,9,10,name.com,,
+129cbb3f-5204-4111-aa3a-6f4d5f7094aa,compelling.coupons,available,3.99,71.99,92,8,10,name.com,,
 a80398f8-d7d6-4797-b367-69f029875b05,clearthemarket.zone,premium,,,68,72,16,,,
 220fa8ac-da66-4b0d-b40f-de53ded2890b,justyet.game,premium,,,50,1,8,,,
 0b5d1c15-c846-4665-949e-a71dfe360dd8,practicing.party,premium,,,82,3,10,,,
@@ -8722,7 +8772,7 @@ ad8a836d-b215-4593-bb46-82966076729d,watersides.io,premium,,,,8,10,,,
 d067df7f-f871-49d9-a8f1-ea2e42ae2332,bacchic.tv,premium,,,68,1,7,,,
 129d21fa-dd1a-40e6-ae26-53a89f38bd6c,ninetytwo.living,premium,,,52,5,10,,,
 505c3d07-dc7f-4965-87de-bd7ebd5e528e,shaking.win,premium,,,66,5,7,,,
-f67b1af9-94b7-43eb-b4d5-5a7d154f95d7,shining.fast,premium,,,88,14,7,,,
+f67b1af9-94b7-43eb-b4d5-5a7d154f95d7,shining.fast,premium,,,88,15,7,,,
 0bd0f77e-8bde-4f13-bdb9-d5ac3888bb18,astylar.ngo,premium,,,49,1,7,,,
 9078bb73-615a-408b-975f-e59db90e0ad1,sunglass.bar,premium,,,80,9,8,,,
 ccdc94c2-e255-47a6-b139-4a77a754d155,agelong.ooo,premium,,,58,1,7,,,
@@ -8773,7 +8823,7 @@ b2bc8507-23d6-44b4-841c-85c8e4401f0a,ussr.it,resell,,,54,80,4,,09/03/2010 21:34,
 78da750d-1e40-4268-be35-7ce4033d89da,humble.shopping,premium,,,70,33,6,,,
 70745d22-e9e6-439d-9ba2-595e01b010d2,suspend.wtf,premium,,,70,5,7,,,
 8a6afdff-7e17-46cd-8d76-dbae7de2e260,arrowbag.net,premium,,,56,72,9,,,
-ec0cf436-832b-46c7-be4a-4e211162e33f,middle.supplies,premium,,,116,19,6,,,
+ec0cf436-832b-46c7-be4a-4e211162e33f,middle.supplies,premium,,,116,22,6,,,
 b05da59a-8bcc-42b6-8008-c2da4ec9795b,SouthAmerica.im,premium,,,,10,13,,,
 e67c8779-d6cd-4472-8fd6-a56428d8e0f9,dispatchmoney.ai,premium,,,54,4,14,,,
 414f8352-ccc6-4465-b071-143e0054878a,foursome.hiv,premium,,,68,4,8,,,
@@ -8830,7 +8880,7 @@ cec61400-20cc-4f44-b27a-8721671260ee,keynoteaddress.expert,premium,,,48,12,15,,,
 8bb93c1d-ba2e-4567-b912-5ee570cbd5ed,throwout.markets,available,9.99,,68,1,9,name.com,,
 7a7603cd-1787-40c7-8674-ee600dc797d5,variable.adult,premium,,,80,16,8,,,
 d780f4e7-eb4c-4483-8491-49b40c191f91,healer.io,resell,,,70,72,6,"GoDaddy.com, LLC",09/01/2022 13:15,09/01/2026 13:15
-ca1ca676-ad58-4ee9-a466-e5b4a06755cb,worn.click,premium,,,66,9,4,,,
+ca1ca676-ad58-4ee9-a466-e5b4a06755cb,worn.click,premium,,,66,10,4,,,
 cd5881af-d08a-499f-97fc-924d253a7079,prayer.taxi,available,69.98,,78,22,6,namecheap,,
 eb8fb1a7-ddc9-48fc-8191-230d4fa4edd0,kirkland.mom,premium,,,70,14,8,,,
 41ca6488-cfa1-4972-994b-800c89515188,congestion.club,premium,,,60,5,10,,,
@@ -8912,7 +8962,7 @@ a1289035-bd8e-404f-b050-c37057b7eeac,garret.day,premium,,,50,7,6,,,
 9704c23b-00dd-4a75-aa8c-d7d7e60b962d,astonished.click,premium,,,68,3,10,,,
 25e8fd90-2445-4f59-bf96-4c6aa4d83a74,paper.quest,premium,,,108,36,5,,,
 4e923060-5f89-44ed-9aef-4d38b6a3b8c3,four.moi,available,18.99,39.99,66,30,4,name.com,,
-9d1a23dd-68a3-489c-954e-a1f4fa808a38,insulting.io,available,53.99,73.99,70,3,9,name.com,,
+9d1a23dd-68a3-489c-954e-a1f4fa808a38,insulting.io,available,53.99,73.99,70,4,9,name.com,,
 8c98f73a-3c08-40d6-bb47-3896022c695f,cocoa.sale,premium,,,78,21,5,,,
 b889202e-d50d-4979-97e7-7882519e2b2b,dominating.monster,premium,,,46,3,10,,,
 f70a7d44-5089-4fb3-95d0-86734e6d99ca,antitumour.boston,premium,,,70,1,10,,,
@@ -8946,7 +8996,7 @@ f8df2501-201f-4e31-901c-5320dbf644c3,healthier.jetzt,premium,,,70,15,9,,,
 b325f877-648f-47e7-bbd2-032e71041cd1,knight.pics,premium,,,66,35,6,,,
 782b98e9-d330-4203-8160-fc9198db9713,speak.loans,premium,,,98,27,5,,,
 d3a41b51-837b-4c02-b320-495d125d745c,clinicalexamination.zone,premium,,,60,72,20,,,
-5bee31f3-39ff-44ce-88a9-96da97be2de5,completed.deals,available,5.99,50.99,74,7,9,name.com,,
+5bee31f3-39ff-44ce-88a9-96da97be2de5,completed.deals,available,5.99,50.99,74,6,9,name.com,,
 1a3d5e1d-7e37-4601-8304-c59d97e047ff,lifelesson.rehab,premium,,,76,3,11,,,
 5094399d-f6e8-4621-9a0b-143d3a1a58b4,couchpotato.cloud,premium,,,56,88,12,,,
 e0ae6db5-ebd8-4c59-8657-0bd3e8c5a6ca,chin.living,premium,,,64,17,4,,,
@@ -8960,7 +9010,7 @@ fb55879f-8cd6-43ca-ba69-c57ea55ef42d,any.holdings,premium,,,80,98,3,,,
 93990d5f-9398-47ad-bc8d-77807b825199,destroyed.cfd,available,21.98,,52,4,9,namecheap,,
 aafa30d1-e394-417e-b6f7-1a7728381b65,nutmilk.gg,premium,,,,76,8,,,
 56256451-0871-4504-87bc-76c534a193cf,bated.ski,premium,,,56,1,5,,,
-bfb9649e-2e85-4938-bff0-2fd8ce3ef3c9,convenient.bayern,premium,,,78,9,10,,,
+bfb9649e-2e85-4938-bff0-2fd8ce3ef3c9,convenient.bayern,premium,,,78,10,10,,,
 bbbc7bca-d072-4537-8299-123ff7e415bb,aliquot.irish,premium,,,96,3,7,,,
 fb742e9e-406d-42e9-a74f-35fb2cde2471,time.site,premium,,,128,45,4,,,
 e222d0bd-015c-4c65-a7fd-e79434dbe26a,algometric.digital,premium,,,48,1,10,,,
@@ -9051,7 +9101,7 @@ a6a0f9c5-4bec-409d-abfb-40f57d4fb080,hillward.dev,premium,,,56,4,8,,,
 9db74277-bd1c-4d66-8326-ecce986b4e28,heater.store,premium,,,54,84,6,,,
 7595d128-59ba-4c53-bc18-712d79170bf9,aboveground.kaufen,premium,,,60,5,12,,,
 9ca6e239-00fb-479d-bdac-83c0157bbbc5,refreshments.at,premium,,,,20,12,,,
-a2b82f0e-8d71-49f3-9ccf-1001947cf90c,key.kids,premium,,,80,43,3,,,
+a2b82f0e-8d71-49f3-9ccf-1001947cf90c,key.kids,premium,,,80,42,3,,,
 be4ae88e-f174-47e9-9597-504fa756ce5b,amoeban.green,premium,,,52,1,7,,,
 46fdf612-d824-495a-b0f7-670d048a9d37,audiomining.expert,premium,,,54,8,12,,,
 73d98263-7adc-42d9-a388-5aee5ac579cb,gusto.voyage,premium,,,84,23,5,,,
@@ -9365,7 +9415,7 @@ dfd1e6a5-bf09-4dc2-bb1e-eb7cb5cd84d2,babybrother.cloud,premium,,,68,72,12,,,
 dba82378-38bc-4ea8-b1d5-b31cbd87b788,kindly.hiv,premium,,,84,18,6,,,
 66e48842-059b-407b-a1ea-a7924ac5e7e1,callon.toys,premium,,,72,4,7,,,
 69e2bb5d-6194-4e34-9ac6-c8b813357343,AfroCuban.ninja,premium,,,58,76,10,,,
-f9a52f49-2e90-46a8-b800-992d7e4d258c,individual.army,premium,,,92,16,10,,,
+f9a52f49-2e90-46a8-b800-992d7e4d258c,individual.army,premium,,,92,17,10,,,
 d804c8e8-e02e-44a4-b3a1-b336951fd9dd,prescription.properties,available,43.98,,,13,12,namecheap,,
 2426f710-dabf-44fb-8321-2f097f831cdf,crafty.london,available,41.98,,68,19,6,namecheap,,
 968d7a94-f642-4785-925b-a6490ca48801,chop.vodka,premium,,,62,18,4,,,
@@ -9406,7 +9456,7 @@ b08f81f0-8ef7-4dd1-a5c8-a97f95ee480c,atthisjuncture.exposed,premium,,,67,1,16,,,
 591e29c1-8a3d-4a95-b024-be1e0f6d1975,speedup.estate,premium,,,,9,8,,,
 e4ac623b-7aa7-4289-b8bb-e15b733ac65e,polygon.esq,premium,,,70,25,7,,,
 6a0ed596-3f19-4d39-8c0f-900d32e9aaee,fanletter.shoes,premium,,,68,2,10,,,
-8f5f519a-47e8-4473-9e29-8eb60732f47a,chicken.download,premium,,,68,33,7,,,
+8f5f519a-47e8-4473-9e29-8eb60732f47a,chicken.download,premium,,,68,34,7,,,
 95159714-6f49-485c-9251-7da5231be913,JusticeofthePeace.team,premium,,,66,2,20,,,
 9330901f-8908-44d2-b56f-2e8c6dcb2fd9,linguine.ninja,premium,,,58,76,8,,,
 2ad385a6-db12-4a16-86de-7c9588916c23,cattower.llc,premium,,,76,2,9,,,
@@ -9433,7 +9483,7 @@ b40e62d5-de54-46a8-a782-7a6dd330e1da,thousandth.meme,premium,,,76,1,10,,,
 f2868ea7-7c2f-4b05-b96b-8c9dc05b9372,wages.pw,premium,,,72,7,5,,,
 1e630f9e-a133-4a5c-947f-f4740d8ffca7,treebranch.tech,premium,,,66,76,11,,,
 4a2bd352-50f9-4d62-8609-d865201cc6e3,caper.place,premium,,,92,9,5,,,
-f5c75dd6-6aa2-4ef0-9db2-cdae02f04f28,competent.wine,available,9.99,77.99,73,10,9,name.com,,
+f5c75dd6-6aa2-4ef0-9db2-cdae02f04f28,competent.wine,available,9.99,77.99,73,9,9,name.com,,
 336a91b7-34c1-4f9d-8795-710753793fa7,divinespark.space,premium,,,54,80,12,,,
 66cca2ee-c59b-423e-8dc4-cba4cc88a4c4,howdoIgetto.direct,premium,,,54,1,15,,,
 84322897-bc8e-4c4b-9afe-138003133e51,singsong.gg,premium,,,90,80,8,,,
@@ -9488,7 +9538,7 @@ f12c1b6c-8f9b-4293-adb0-f5486b4e0d9e,silverstring.io,premium,,,,72,13,,,
 7893d776-24e5-458d-9e77-b82cdbb438fc,days.security,premium,,,92,23,4,,,
 928ad6fd-fd35-4dba-ab3b-3a9e84bc03c9,glittery.club,premium,,,64,3,8,,,
 c204b85e-2747-4b50-aa6c-65c3fe10d5fa,loving.fyi,premium,,,76,21,6,,,
-33f6e9fa-118a-4522-b17c-bee872d4dce2,famous.doctor,resell,,,98,24,6,"Go Montenegro Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+33f6e9fa-118a-4522-b17c-bee872d4dce2,famous.doctor,resell,,,98,23,6,"Go Montenegro Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
 196a68d3-88e6-469a-86a6-ab9117e5d7f7,ally.horse,premium,,,68,25,4,,,
 a9e4f1fa-587b-4b4a-992c-826d863e564b,devices.energy,premium,,,80,13,7,,,
 7dc8423c-60f3-448e-a41f-d48b31ff4695,holdamirrorupto.ai,premium,,,62,72,19,,,
@@ -9949,53 +9999,3 @@ e5542d8c-6643-493a-bdc0-2ffb3bc51d0b,baked.market,premium,,,54,14,5,,,
 818d8053-0b66-41b4-ade9-0553c1e6c027,saved.kitchen,premium,,,76,17,5,,,
 ce351416-0506-4a3a-86fc-e0b46adad022,leaving.estate,premium,,,76,6,7,,,
 27458551-f8d1-486d-a2b4-8411a4e7740a,borderon.law,premium,,,66,1,9,,,
-4dcd230c-f261-4af1-bf0c-522637a78600,alluring.cheap,available,9.99,46.99,88,5,8,name.com,,
-767c9a88-caa6-4d36-b402-d90df99d2d31,vitaminc.studio,premium,,,76,10,9,,,
-5f14eb62-b07f-4d53-9f28-622bcb13f67a,beauteous.horse,premium,,,48,3,9,,,
-ffd6d737-63c0-4435-b96b-3287129a2df8,accurate.baby,available,29.99,94.99,78,20,8,name.com,,
-dc55a6ba-1954-40b0-a733-17ad37f486cd,yes.im,premium,,,132,38,3,,,
-b3272c2e-1017-45ca-9140-956fad7e5e5e,down.creditcard,available,9.99,236.99,76,21,4,name.com,,
-cde6bd38-7566-4767-854d-be9d28d7dd09,scarface.pub,premium,,,64,10,8,,,
-f956fb83-0b82-42e8-a6b8-08a31e4e519e,alamo.services,premium,,,64,18,5,,,
-9255156d-1a87-4bba-846e-34c5f9025654,biteme.shoes,premium,,,62,11,7,,,
-4a234da7-de41-4a1a-a0ca-a207d23fce33,tolerable.boutique,premium,,,68,3,9,,,
-5064b8c3-46d7-438b-8b8f-225f40945f09,oxygen.hiv,premium,,,62,28,6,,,
-16b48c8a-c28e-41a5-83b3-c558db7c9deb,hashtag.wedding,premium,,,100,31,7,,,
-ba830e5b-28f2-4eb1-acb8-5bd54aba26eb,hacking.holdings,premium,,,56,29,7,,,
-e39f0c84-1dd8-494d-be66-d914be477834,calloff.dance,premium,,,67,2,8,,,
-f0b3dd20-3acf-4eca-a40a-40df41043775,tues.dance,premium,,,70,9,4,,,
-b0a9fd76-fb53-4995-9df8-ac4178669e5a,journalism.singles,premium,,,70,16,10,,,
-77d9b2b8-731e-49ab-95f2-80116e4f985f,actiongame.you,premium,,,74,2,11,,,
-daa08ec7-3568-4463-9f3a-2c96d69e42a2,safesex.bar,premium,,,,4,8,,,
-6a44c8c9-32bf-44d0-b8c3-c5c3f931cbf6,wasps.zone,premium,,,46,32,5,,,
-2f67ac27-e47a-456e-a9bc-7929c06789e5,spaceshuttle.discount,premium,,,70,4,13,,,
-04541425-bbdb-4006-bdcf-3e29405addb3,khakis.estate,premium,,,74,3,6,,,
-c68e10ce-b76a-49cd-b312-35ce4ef9fc6f,departure.fast,premium,,,68,13,9,,,
-181eb413-6e36-4e87-ae3a-723ebe0427c6,grenoble.io,premium,,,52,72,8,,,
-2b8c8bab-7067-4407-a46b-b6da4a5b91f0,appoint.cab,premium,,,78,10,7,,,
-8870c00b-d48b-4d33-b9a1-ee4bb7cde357,peered.pro,premium,,,,16,6,,,
-911213cb-49f4-4a2f-98a0-70a3ef303b57,everybodyelse.construction,premium,,,56,1,14,,,
-2017209d-b353-415c-bc0a-df87ee2b51b1,swordplay.expert,premium,,,62,80,9,,,
-1759417b-a053-4f83-bffb-788fa9aae0fa,seek.repair,premium,,,86,32,4,,,
-1f784471-7650-4c89-8597-7d82b191d4d0,springshower.group,premium,,,,1,13,,,
-7702e7c7-0cf1-4a1c-90d4-d3a921b049f2,lunchmeat.plumbing,premium,,,74,2,10,,,
-db8fec01-6bed-411c-8c0f-a0b92ba8d6f5,MrsPresident.net,premium,,,46,12,14,,,
-ebc163a0-916c-4ac5-b601-45491fda941d,antenatal.mortgage,premium,,,70,3,9,,,
-06260a79-ceaf-4728-b670-30b96e25cbd7,aswell.services,premium,,,72,5,7,,,
-61e48478-034b-4f10-b763-861724fcd36a,evacuate.loan,premium,,,64,4,8,,,
-edddc177-7f4a-4c6e-98b0-6fc9164ebd4c,restrict.sh,premium,,,74,4,8,,,
-eec28161-c644-4b9a-9720-95939c1c0c5d,sums.space,premium,,,,44,4,,,
-5780ab7d-9d8e-4fe8-a54a-51af6fd9c412,onthebubble.hamburg,available,59.99,,60,2,13,name.com,,
-4f4b5704-db66-4ebc-b95d-27c199cfd6dd,known.property,premium,,,92,15,5,,,
-65d32d0c-3154-4527-8198-e3a5a4b5cee8,testing.lawyer,available,66.98,,86,29,7,namecheap,,
-c2f081e4-a55c-47de-b9eb-5782e3b03ec8,board.horse,premium,,,66,30,5,,,
-0b64d160-23e6-45b5-b02e-cb66bd23ec42,scientificname.money,premium,,,66,1,15,,,
-e6b59cbf-49aa-4260-b5ce-7c9ce536cbf9,anaemic.zip,premium,,,72,2,7,,,
-492e564c-8c71-46c7-82f3-7eb444fa21e5,bothered.law,premium,,,64,3,8,,,
-0f71e852-1c05-4062-9428-99f13b527838,arc.gmbh,premium,,,56,53,3,,,
-be113f3c-1c40-4ba2-bea9-7b10f8587591,bytheway.ski,premium,,,58,12,10,,,
-088b1540-ce62-489d-9707-c58a56e76eaa,addable.network,premium,,,76,3,7,,,
-2688d23c-b1b6-4154-a556-b128e34cb76b,released.ag,premium,,,,7,8,,,
-95c1efd9-03ba-47b7-815e-10b3f4ea3372,bake.cash,premium,,,96,22,4,,,
-d7893644-eaa7-485e-8291-38b7bf1db9a7,terms.fund,premium,,,78,20,5,,,
-3d00f4fa-05f1-49f5-ab8e-141395de59db,retain.services,premium,,,98,15,6,,,
