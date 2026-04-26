@@ -1,22 +1,22 @@
-# All One-Word Domains (5,625,161)
+# All One-Word Domains (6,707,608)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C625%2C161%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C707%2C608%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of all one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,625,161 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,707,608 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 5,625,161 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,707,608 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `all.csv` — public CSV extract (10,000 rows)
-- `all.json` — public JSON extract (10,000 rows)
+- `all.csv` — public CSV extract (1,000 rows)
+- `all.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| sportswear.zone     | available | $51.98    | —             | 70             | 84     | 10     | namecheap                                                          |
-| distant.xyz         | resell    | $3,448.85 | $20.99        | 64             | 14     | 7      | Go Daddy, LLC                                                      |
-| maps.site           | premium   | $1,562.50 | $6,250        | 56             | 96     | 4      | name.com                                                           |
-| communication.ninja | available | $42.98    | —             | 54             | 80     | 13     | namecheap                                                          |
-| loot.ninja          | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| agricultural.tech   | premium   | $650      | $1,300        | 74             | 84     | 12     | namecheap                                                          |
-| abbot.me            | available | $11.99    | $26.99        | 50             | 80     | 5      | name.com                                                           |
-| cloak.xyz           | resell    | —         | —             | 86             | 96     | 5      | Go Daddy, LLC                                                      |
-| equipment.space     | premium   | $812.50   | $3,250        | 68             | 84     | 9      | namecheap                                                          |
-| converse.ryukyu     | available | $22.98    | —             | 68             | 73     | 8      | namecheap                                                          |
-| university.us       | resell    | —         | —             | 66             | 96     | 10     | Sav.com LLC                                                        |
-| oral.tech           | premium   | $312.50   | $1,250        | 58             | 84     | 4      | name.com                                                           |
-| bookconcern.ai      | available | $92.98    | —             | 54             | 72     | 12     | namecheap                                                          |
-| harry.pro           | resell    | —         | —             | 58             | 96     | 5      | Dynadot5 LLC                                                       |
-| grandprix.mobile    | premium   | $750      | —             | 76             | 83     | 10     | name.com                                                           |
-| advocategeneral.ai  | available | $92.98    | —             | 54             | 72     | 16     | namecheap                                                          |
-| method.pro          | resell    | —         | —             | 94             | 92     | 6      | GKG.NET, INC.                                                      |
-| normal.shop         | premium   | $1,250    | —             | 76             | 82     | 6      | name.com                                                           |
-| refereeing.xyz      | available | $1.99     | $20.99        | 52             | 72     | 10     | name.com                                                           |
-| therapy.org         | resell    | —         | —             | 94             | 92     | 7      | GoDaddy.com, LLC                                                   |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| shortcuts.football | available | $19.99    | —             | 48             | 41     | 10     | name.com                           |
+| studios.plus       | resell    | —         | —             | 54             | 21     | 7      | DNSPod, Inc.                       |
+| etc.luxe           | premium   | $250      | —             | 58             | 34     | 3      | name.com                           |
+| spaces.pics        | available | $1.99     | —             | 54             | 30     | 6      | name.com                           |
+| finds.cfd          | resell    | —         | —             | 62             | 16     | 5      | Global Domains International, Inc. |
+| Cats.global        | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap                          |
+| heroes.hamburg     | available | $59.99    | —             | 68             | 29     | 6      | name.com                           |
+| getup.online       | resell    | —         | —             | 82             | 14     | 6      | Xin Net Technology Corporation     |
+| quote.shop         | premium   | $1,250    | —             | 82             | 31     | 5      | name.com                           |
+| quotes.recipes     | available | $11.99    | —             | 58             | 29     | 6      | name.com                           |
+| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
+| photos.tools       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com                           |
+| systems.cam        | available | $22.98    | —             | 46             | 27     | 7      | namecheap                          |
+| breastcancer.co    | resell    | —         | —             | 58             | 9      | 13     | GrepApps Technology Inc.           |
+| pages.dad          | premium   | $623.75   | —             | 52             | 28     | 5      | name.com                           |
+| tips.sydney        | available | $54.98    | —             | 80             | 26     | 4      | namecheap                          |
+| grouptherapy.la    | resell    | —         | —             | 72             | 4      | 13     | LA Domain Names                    |
+| stupid.shop        | premium   | $312.50   | —             | 70             | 27     | 6      | name.com                           |
+| trades.vana        | available | $2,498    | —             | 71             | 26     | 6      | namecheap                          |
+| reports.webcam     | premium   | $1,250    | —             | 58             | 24     | 7      | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 5,625,161 live domains                           |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 6,707,608 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *All One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *All One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
