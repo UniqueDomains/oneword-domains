@@ -72,7 +72,7 @@ print(df.head())
 | Cats.global        | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap                          |
 | heroes.hamburg     | available | $59.99    | —             | 68             | 29     | 6      | name.com                           |
 | getup.online       | resell    | —         | —             | 82             | 14     | 6      | Xin Net Technology Corporation     |
-| quote.shop         | premium   | $1,250    | —             | 82             | 31     | 5      | name.com                           |
+| quote.shop         | premium   | $1,250    | —             | 82             | 30     | 5      | name.com                           |
 | quotes.recipes     | available | $11.99    | —             | 58             | 29     | 6      | name.com                           |
 | promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
 | photos.tools       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com                           |
