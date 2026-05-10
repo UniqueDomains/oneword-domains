@@ -74,16 +74,16 @@ print(df.head())
 | getup.online       | resell    | —         | —             | 82             | 14     | 6      | Xin Net Technology Corporation     |
 | quote.shop         | premium   | $1,250    | —             | 82             | 30     | 5      | name.com                           |
 | quotes.recipes     | available | $11.99    | —             | 58             | 29     | 6      | name.com                           |
-| promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
+| borrow.xyz         | resell    | —         | —             | 66             | 14     | 6      | Dynadot LLC                        |
 | photos.tools       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com                           |
 | systems.cam        | available | $22.98    | —             | 46             | 27     | 7      | namecheap                          |
-| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
+| promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
 | pages.dad          | premium   | $623.75   | —             | 52             | 28     | 5      | name.com                           |
 | tips.sydney        | available | $54.98    | —             | 80             | 26     | 4      | namecheap                          |
-| breastcancer.co    | resell    | —         | —             | 58             | 9      | 13     | GrepApps Technology Inc.           |
+| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
 | stupid.shop        | premium   | $312.50   | —             | 70             | 27     | 6      | name.com                           |
 | trades.vana        | available | $2,498    | —             | 71             | 26     | 6      | namecheap                          |
-| grouptherapy.la    | resell    | —         | —             | 72             | 4      | 13     | LA Domain Names                    |
+| brighten.xyz       | resell    | —         | —             | 80             | 10     | 8      | West263 International Limited      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
