@@ -1,10 +1,10 @@
-# Available One-Word Domains Across 505 TLDs (7,135,965)
+# Available One-Word Domains Across 505 TLDs (7,136,118)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C135%2C965%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C136%2C118%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 7,130,235 available one-word domains across 505 TLDs, including names like bus.hamburg, bot.realty, and NYC.eco. Updated daily. Median ask is 333.91, so pricing is broad enough to compare short keyword names across mainstream, geo, and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,135,965 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **7,136,118 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 7,135,965 domains · **Median ask:** $339.44 · **High-demand under $2,500:** 6,691
+**Public extract:** 1,000 rows · **Live catalog:** 7,136,118 domains · **Median ask:** $252.74 · **High-demand under $2,500:** 11,821
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| shortcuts.football | available | $19.99    | —             | 48             | 41     | 10     | name.com                           |
-| studios.plus       | resell    | —         | —             | 54             | 21     | 7      | DNSPod, Inc.                       |
-| Cats.global        | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap                          |
-| spaces.pics        | available | $1.99     | —             | 54             | 30     | 6      | name.com                           |
-| finds.cfd          | resell    | —         | —             | 62             | 16     | 5      | Global Domains International, Inc. |
-| etc.luxe           | premium   | $250      | —             | 58             | 32     | 3      | name.com                           |
-| heroes.hamburg     | available | $59.99    | —             | 68             | 29     | 6      | name.com                           |
-| borrow.xyz         | resell    | —         | —             | 66             | 14     | 6      | Dynadot LLC                        |
-| quote.shop         | premium   | $1,250    | —             | 82             | 30     | 5      | name.com                           |
-| quotes.recipes     | available | $11.99    | —             | 58             | 29     | 6      | name.com                           |
-| promotions.la      | resell    | —         | —             | 64             | 14     | 10     | LA Domain Names                    |
-| photos.tools       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com                           |
-| systems.cam        | available | $22.98    | —             | 46             | 27     | 7      | namecheap                          |
-| BRAS.top           | resell    | —         | —             | 70             | 13     | 4      | Spaceship, Inc.                    |
-| pages.dad          | premium   | $623.75   | —             | 52             | 28     | 5      | name.com                           |
-| tips.sydney        | available | $54.98    | —             | 80             | 26     | 4      | namecheap                          |
-| brighten.xyz       | resell    | —         | —             | 80             | 10     | 8      | West263 International Limited      |
-| stupid.shop        | premium   | $312.50   | —             | 70             | 27     | 6      | name.com                           |
-| trades.vana        | available | $2,498    | —             | 71             | 26     | 6      | namecheap                          |
-| breastcancer.co    | resell    | —         | —             | 58             | 9      | 13     | GrepApps Technology Inc.           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| saucepan.adult      | available | $166.98   | —             | 90             | 5      | 8      | namecheap        |
+| abstract.tax        | available | $14.99    | $92.99        | 108            | 31     | 8      | name.com         |
+| McMuffin.cool       | available | $9.99     | —             | 82             | 2      | 8      | name.com         |
+| technology.security | available | $2,950    | —             | 88             | 34     | 10     | namecheap        |
+| chips.doctor        | available | $14.99    | —             | 84             | 24     | 5      | name.com         |
+| adjective.so        | available | $64.98    | —             | 92             | 6      | 9      | namecheap        |
+| tire.vodka          | premium   | $47.20    | $29.50        | 88             | 17     | 4      | namesilo         |
+| vocal.graphics      | available | $23.99    | $23.99        | 90             | 17     | 5      | namesilo         |
+| Audi.estate         | premium   | —         | —             | 86             | 20     | 4      | —                |
+| lecture.dating      | available | $23.99    | —             | 96             | 10     | 7      | name.com         |
+| have.cars           | available | $1,999.99 | $2,199        | 112            | 26     | 4      | namesilo         |
+| startup.viajes      | available | $37.99    | $37.99        | 82             | 49     | 7      | namesilo         |
+| suv.services        | resell    | —         | —             | 82             | 18     | 3      | GoDaddy.com, LLC |
+| bust.careers        | available | $49.99    | —             | 102            | 10     | 4      | name.com         |
+| fruity.fish         | premium   | —         | —             | 84             | 10     | 6      | —                |
+| name.lighting       | premium   | —         | —             | 82             | 26     | 4      | —                |
+| familiar.sale       | available | $5.99     | —             | 90             | 19     | 8      | name.com         |
+| Uber.company        | premium   | —         | —             | 106            | 29     | 4      | —                |
+| hybrid.loan         | premium   | $1,107    | $116          | 88             | 27     | 6      | namesilo         |
+| tape.apartments     | available | $19.99    | —             | 90             | 19     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 7,135,965 live domains                     |
+| 1,000-row public sample | 7,136,118 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 6,691 high-demand names under $2,500       |
+| Basic exported fields   | 11,821 high-demand names under $2,500      |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains Across 505 TLDs*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
