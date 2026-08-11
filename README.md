@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 7,178,403 domains · **Median ask:** $231.82 · **High-demand under $2,500:** 11,933
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | axe.engineer   | available | $13.99    | —             | medium         | low    | 3      | name.com                                    |
 | sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
 | add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| bay.tires      | available | $5.99     | $78.99        | low            | low    | 3      | namesilo                                    |
 | distant.xyz    | resell    | $3,448.85 | $20.99        | medium         | low    | 7      | Go Daddy, LLC                               |
 | aid.phd        | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                    |
-| beg.tips       | available | $14.99    | —             | medium         | low    | 3      | name.com                                    |
+| beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
 | bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc                                 |
 | atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                    |
-| clv.archi      | available | $14.98    | $132.98       | low            | low    | 3      | namecheap                                   |
+| beg.tips       | available | $14.99    | —             | medium         | low    | 3      | name.com                                    |
 | mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | btw.day        | premium   | $73.75    | —             | high           | low    | 3      | name.com                                    |
-| cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                    |
+| clv.archi      | available | $14.98    | $132.98       | low            | low    | 3      | namecheap                                   |
 | mum.net        | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 | but.tech       | premium   | $781.25   | —             | high           | low    | 3      | name.com                                    |
-| how.surgery    | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                    |
+| cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                    |
 | net.garden     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
 | fly.rentals    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
-| msg.education  | available | $39.99    | —             | high           | low    | 3      | name.com                                    |
+| how.surgery    | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                    |
 | suv.services   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
