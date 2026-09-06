@@ -161,4 +161,4 @@ The full cross-network directory now lives on the [Unique Domains GitHub organiz
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
