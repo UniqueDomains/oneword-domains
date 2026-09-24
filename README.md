@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,372,167 domains · **Median ask:** $148.73 · **High-demand under $2,500:** 13,565
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | distant.xyz    | resell    | $3,448.85 | $20.99        | medium         | low    | 7      | GoDaddy.com, LLC                            |
 | aid.phd        | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                    |
 | beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
-| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc                                 |
+| bib.net        | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                 |
 | atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                    |
 | beg.tips       | available | $14.99    | —             | medium         | low    | 3      | name.com                                    |
 | mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
