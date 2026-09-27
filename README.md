@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,372,167 domains · **Median ask:** $148.73 · **High-demand under $2,500:** 13,565
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| axe.engineer   | available | $13.99    | —             | medium         | low    | 3      | name.com                                    |
-| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
-| add.press      | premium   | $625      | —             | high           | low    | 3      | name.com                                    |
-| bay.tires      | available | $5.99     | $78.99        | low            | low    | 3      | namesilo                                    |
-| distant.xyz    | resell    | $3,448.85 | $20.99        | medium         | low    | 7      | GoDaddy.com, LLC                            |
-| aid.phd        | premium   | $411.25   | —             | medium         | low    | 3      | name.com                                    |
-| beg.shiksha    | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
-| bib.net        | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                 |
-| atp.you        | premium   | $625      | —             | medium         | low    | 3      | name.com                                    |
-| beg.tips       | available | $14.99    | —             | medium         | low    | 3      | name.com                                    |
-| mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| btw.day        | premium   | $73.75    | —             | high           | low    | 3      | name.com                                    |
-| clv.archi      | available | $14.98    | $132.98       | low            | low    | 3      | namecheap                                   |
-| mum.net        | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| but.tech       | premium   | $781.25   | —             | high           | low    | 3      | name.com                                    |
-| cot.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                    |
-| net.garden     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
-| fly.rentals    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
-| how.surgery    | available | $54.99    | $54.99        | high           | low    | 3      | namesilo                                    |
-| suv.services   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| afl.forsale    | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                                 |
+| bet.news       | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
+| bug.study      | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| ala.markets    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| fop.co         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| den.tube       | premium   | $650      | $26           | high           | low    | 3      | namecheap                                                 |
+| bag.realty     | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                                 |
+| sku.us         | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                          |
+| end.science    | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| cow.management | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
+| beer.farm      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
+| flu.fyi        | premium   | $17.70    | $17.70        | high           | low    | 3      | namesilo                                                  |
+| cue.homes      | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
+| birch.ltd      | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
+| fur.cam        | premium   | $512      | $16.52        | high           | low    | 3      | namesilo                                                  |
+| hut.barcelona  | available | $38.98    | $38.98        | high           | low    | 3      | namecheap                                                 |
+| trump.clothing | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
+| gal.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                  |
+| hut.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo                                                  |
+| agents.expert  | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
