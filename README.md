@@ -1,10 +1,10 @@
-# Available One-Word Domains (12,795,251)
+# Available One-Word Domains (13,811,177)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C795%2C251%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C811%2C177%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 7,178,403 available one-word domains spanning 506 TLDs, with a median ask price of $231.82. Most domains fall under $500, with a small premium tier priced above $5,000. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,795,251 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,811,177 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,795,251 domains · **Median ask:** $167.95 · **High-demand under $2,500:** 33,722
+**Public extract:** 1,000 rows · **Live catalog:** 13,811,177 domains · **Median ask:** $163.85 · **High-demand under $2,500:** 34,196
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -68,21 +68,21 @@ print(df.head())
 | bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                          |
 | ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                 |
 | bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                               |
-| fop.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
-| cta.photography | available | $14.49    | $36.49        | high           | low    | 3      | namesilo                                                |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
-| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap                                               |
-| hut.barcelona   | available | $38.98    | $38.98        | high           | low    | 3      | namecheap                                               |
+| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
+| csm.salon       | available | $45.74    | $45.74        | high           | low    | 3      | spaceship                                               |
+| lava.systems    | resell    | —         | —             | high           | low    | 4      | —                                                       |
+| chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                               |
+| cta.photography | available | $14.49    | $36.49        | high           | low    | 3      | namesilo                                                |
 | pets.name       | resell    | —         | —             | low            | low    | 4      | —                                                       |
-| fax.horse       | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                |
-| hut.protection  | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo                                                |
+| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap                                               |
+| ect.repair      | available | $5.38     | $29.18        | high           | low    | 3      | spaceship                                               |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| fbi.racing      | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
-| iaa.wtf         | available | $7.49     | $36.49        | medium         | low    | 3      | namesilo                                                |
+| fax.horse       | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                |
+| fsb.rodeo       | available | $12.99    | $12.99        | high           | low    | 3      | namesilo                                                |
 | riots.me        | resell    | —         | —             | low            | low    | 5      | —                                                       |
-| flu.fyi         | premium   | $8.47     | $16.90        | high           | low    | 3      | porkbun                                                 |
-| ias.garden      | available | $1.98     | $43.98        | high           | low    | 3      | namecheap                                               |
+| fbi.racing      | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                |
+| hut.barcelona   | available | $38.98    | $38.98        | high           | low    | 3      | namecheap                                               |
 | trump.clothing  | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,795,251 live domains                    |
+| 1,000-row public sample | 13,811,177 live domains                    |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 33,722 high-demand names under $2,500      |
+| Basic exported fields   | 34,196 high-demand names under $2,500      |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
