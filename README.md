@@ -25,7 +25,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 <p align="center">
   <a href="https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./all.csv">CSV</a> / <a href="./all.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -73,16 +73,16 @@ print(df.head())
 | anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
 | lava.systems    | resell    | —         | —             | high           | low    | 4      | —                                                       |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
-| bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                               |
+| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
 | pets.name       | resell    | —         | —             | low            | low    | 4      | —                                                       |
 | chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                               |
-| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
+| bsd.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap                                               |
-| bsd.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
+| csm.salon       | available | $45.74    | $45.74        | high           | low    | 3      | spaceship                                               |
 | erisa.bond      | resell    | —         | —             | high           | low    | 5      | —                                                       |
 | drm.wedding     | premium   | $44       | $26.97        | high           | low    | 3      | dynadot                                                 |
-| csm.salon       | available | $45.74    | $45.74        | high           | low    | 3      | spaceship                                               |
+| cta.photography | available | $14.49    | $36.49        | high           | low    | 3      | namesilo                                                |
 | riots.me        | resell    | —         | —             | low            | low    | 5      | —                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -156,7 +156,7 @@ The full cross-network directory now lives on the [Unique Domains GitHub organiz
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_api_docs)
 - [GitHub repository](https://github.com/UniqueDomains/oneword-domains)
