@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,673,630 domains · **Median ask:** $152.49 · **High-demand under $2,500:** 41,290
 
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-07
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
 | bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                                                 |
 | anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
-| lava.systems    | resell    | —         | —             | high           | low    | 4      | —                                                       |
+| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
 | bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
-| pets.name       | resell    | —         | —             | low            | low    | 4      | —                                                       |
+| riots.me        | resell    | —         | —             | low            | low    | 5      | —                                                       |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
 | bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                               |
+| tilly.xyz       | resell    | —         | —             | high           | low    | 5      | —                                                       |
+| cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship                                               |
 | bsd.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
-| erisa.bond      | resell    | —         | —             | high           | low    | 5      | —                                                       |
-| den.tube        | premium   | $650      | $26           | high           | low    | 3      | namecheap                                               |
+| cosmic.gallery  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                        |
+| chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                               |
 | csm.salon       | available | $45.74    | $45.74        | high           | low    | 3      | spaceship                                               |
-| riots.me        | resell    | —         | —             | low            | low    | 5      | —                                                       |
+| mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-10-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
