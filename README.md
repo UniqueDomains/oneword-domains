@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,673,630 domains · **Median ask:** $152.49 · **High-demand under $2,500:** 41,290
 
-**Last updated:** 2026-10-10
+**Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                                                 |
-| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
+| ajo.diamonds    | available | $43.67    | $43.67        | medium         | low    | 3      | spaceship                                               |
 | tilly.xyz       | resell    | —         | —             | high           | low    | 5      | —                                                       |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
-| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
+| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
 | cosmic.gallery  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                        |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
-| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
+| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
 | mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                            |
 | cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship                                               |
-| crb.fund        | available | $10.55    | $57.13        | medium         | low    | 3      | spaceship                                               |
+| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
 | mayfair.pro     | resell    | —         | —             | high           | low    | 7      | —                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-10-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-10-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
