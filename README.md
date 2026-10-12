@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship                                               |
+| aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable                                             |
 | bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                          |
 | ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
+| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship                                               |
 | beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
 | ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                 |
-| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
 | birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                                                 |
-| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                |
 | tilly.xyz       | resell    | —         | —             | high           | low    | 5      | —                                                       |
 | bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
-| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
+| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
 | mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                            |
 | cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
-| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
+| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
 | mayfair.pro     | resell    | —         | —             | high           | low    | 7      | —                                                       |
 | cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship                                               |
-| chb.adult       | available | $51.95    | $98.53        | high           | low    | 3      | spaceship                                               |
+| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
 | accurate.gg     | resell    | —         | —             | high           | low    | 8      | Enrapture Limited (https://enrapture.gg)                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
