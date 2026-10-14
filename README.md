@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,673,630 domains · **Median ask:** $152.49 · **High-demand under $2,500:** 41,290
 
-**Last updated:** 2026-10-12
+**Last updated:** 2026-10-14
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| aav.voto        | available | $26.50    | —             | high           | low    | 3      | unstoppable                                             |
-| bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                          |
-| ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                |
-| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship                                               |
-| beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
-| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                 |
-| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
-| birch.ltd       | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                                                 |
-| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                |
-| tilly.xyz       | resell    | —         | —             | high           | low    | 5      | —                                                       |
-| bug.study       | premium   | $546.35   | $546.35       | high           | low    | 3      | porkbun                                                 |
-| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                                |
-| mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                            |
-| cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                               |
-| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                               |
-| mayfair.pro     | resell    | —         | —             | high           | low    | 7      | —                                                       |
-| cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship                                               |
-| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                                             |
-| accurate.gg     | resell    | —         | —             | high           | low    | 8      | Enrapture Limited (https://enrapture.gg)                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| aaj.sarl        | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo                                 |
+| bet.news        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                           |
+| ack.miami       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                 |
+| adj.cam         | available | $1.70     | $14.69        | high           | low    | 3      | spaceship                                |
+| beer.farm       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                              |
+| ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                  |
+| afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                |
+| tilly.xyz       | resell    | —         | —             | high           | low    | 5      | —                                        |
+| bfa.guide       | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                                  |
+| agn.condos      | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                 |
+| mantra.bot      | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                             |
+| cdm.wiki        | premium   | $103.70   | $103.70       | high           | low    | 3      | spaceship                                |
+| anc.expert      | available | $10.99    | $62.49        | high           | low    | 3      | namesilo                                 |
+| mayfair.pro     | resell    | —         | —             | high           | low    | 7      | —                                        |
+| cdo.cricket     | premium   | $362.45   | $51.95        | high           | low    | 3      | spaceship                                |
+| bpd.name        | available | $8.98     | $9.98         | high           | low    | 3      | namecheap                                |
+| accurate.gg     | resell    | —         | —             | high           | low    | 8      | Enrapture Limited (https://enrapture.gg) |
+| chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                |
+| bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                              |
+| accessory.info  | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-10-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
