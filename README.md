@@ -16,7 +16,7 @@ This selection covers 7,178,403 available one-word domains spanning 506 TLDs, wi
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,673,630 domains · **Median ask:** $152.49 · **High-demand under $2,500:** 41,290
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-15
 **Canonical page:** `https://unique.domains/domains`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | accurate.gg     | resell    | —         | —             | high           | low    | 8      | Enrapture Limited (https://enrapture.gg) |
 | chl.dev         | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship                                |
 | bru.red         | available | $11       | —             | high           | low    | 3      | unstoppable                              |
-| accessory.info  | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                              |
+| reproduce.de    | resell    | —         | —             | high           | low    | 9      | —                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Domains*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Domains*. Version 2026-10-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
