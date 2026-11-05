@@ -71,7 +71,7 @@ print(df.head())
 | lava.systems    | resell    | —         | —             | high           | medium | 4      | —                                                       |
 | ard.blackfriday | premium   | $328.02   | $328.02       | medium         | low    | 3      | porkbun                                                 |
 | adj.cam         | available | $1.70     | $14.69        | medium         | low    | 3      | spaceship                                               |
-| pets.name       | resell    | —         | —             | low            | low    | 4      | —                                                       |
+| pets.name       | resell    | —         | —             | medium         | low    | 4      | —                                                       |
 | bfa.guide       | premium   | $36.30    | $36.30        | medium         | low    | 3      | dynadot                                                 |
 | afl.forsale     | available | $13.98    | $47.48        | high           | low    | 3      | namecheap                                               |
 | zine.lol        | resell    | —         | —             | high           | low    | 4      | —                                                       |
