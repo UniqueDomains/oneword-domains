@@ -1,0 +1,19 @@
+{
+  "title": "All One-Word Domains: a sample of 1,000 names with status and prices",
+  "description": "<p>1,000 real one-word domain names, each with its status, the price to register or buy it and the price to renew it for a year (in USD, when known), two coarse bands, the word's length, a registrar and, on a few rows, the registration and expiry dates. A one-word domain name is one word followed by an ending, as in get.plumbing. Each word exists once on each ending, so every row is a name nobody can make a second time.</p><p>The files are all.csv and all.json. The GitHub repository refreshes them every night, and this record holds them as they were on the day of its release, so a result built on it can be reproduced and cited. The rows are a sample, in the list's own neutral order, of a list of about 16.6 million names that you can search at <a href=\"https://unique.domains/domains\">https://unique.domains/domains</a>.</p><p>The Unique.domains API serves the same catalog at GET <a href=\"https://api.unique.domains/v1/domains\">https://api.unique.domains/v1/domains</a>. It needs no key and returns 20 names a page, within 60 calls an hour and 100 a day from one address. Documentation: <a href=\"https://unique.domains/api\">https://unique.domains/api</a>.</p><p>Licence: CC BY 4.0. Credit \"Unique.domains\" with a link to <a href=\"https://unique.domains\">https://unique.domains</a>.</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Unique.domains"
+    }
+  ],
+  "keywords": [
+    "domain names",
+    "one-word domains",
+    "top-level domains",
+    "domain prices",
+    "open data"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}

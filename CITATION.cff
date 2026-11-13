@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "All One-Word Domains"
+title: "All One-Word Domains: a sample of 1,000 names with status and prices"
 type: dataset
 authors:
-  - name: "Unique Domains"
-version: "2026-11-12"
-date-released: "2026-11-12"
+  - name: "Unique.domains"
+version: "2026-11-13"
+date-released: "2026-11-13"
 url: "https://unique.domains/domains"
 repository-code: "https://github.com/UniqueDomains/oneword-domains"
 license: CC-BY-4.0
-abstract: "Daily-updated public extract of all one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of all one-word domains from Unique.domains."
