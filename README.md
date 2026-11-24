@@ -1,10 +1,10 @@
-# All One-Word Domains (~16,500,000)
+# All One-Word Domains (~16,700,000)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_home).
 
 1,000 real one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them, what they renew at and the registrar that quotes them. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains) holds ~16,500,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains) holds ~16,700,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains](https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=top_page)
 
@@ -21,6 +21,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/oneword-domains/main/all.csv")
 print(df.head())
 ```
+
+Also on [Kaggle](https://www.kaggle.com/datasets/uniquedomains/all-one-word-domains).
 
 ## Sample rows
 
@@ -39,6 +41,7 @@ The first 20 rows of the file, in the file's order.
 | fandango.im         | available | $4.18          | $6.73         | high           | low    | 8      |
 | manhood.nexus       | available | $14            | —             | high           | low    | 7      |
 | mhc.fyi             | premium   | $15.73         | $15.73        | high           | low    | 3      |
+| xlsx.delivery       | available | $6.75          | $61.99        | high           | medium | 4      |
 | wardens.sbs         | available | $1.88          | $19.49        | low            | low    | 7      |
 | skeptic.cooking     | available | $25.20         | $25.20        | high           | low    | 7      |
 | converters.hair     | available | $1.80          | $21.98        | medium         | low    | 10     |
@@ -47,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | csm.salon           | available | $45.74         | $45.74        | high           | low    | 3      |
 | substratum.sydney   | available | $42.15         | $42.15        | medium         | low    | 10     |
 | globalist.ooo       | available | —              | —             | high           | low    | 9      |
-| souffle.win         | available | $4.48          | $5.55         | high           | low    | 7      |
 
 ## What is in the data
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~16,500,000 names in the live list today.
+- The files hold 1,000 rows of the ~16,700,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
